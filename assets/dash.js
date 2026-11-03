@@ -2,7 +2,7 @@
 // Carga los archivos de /data y dibuja cada sección. Para actualizar el informe,
 // basta con editar los JSON de /data y el texto de index.html.
 (function () {
-  var sources = ['frentes', 'indicadores', 'noticias', 'calendario'];
+  var sources = ['frentes', 'indicadores', 'noticias'];
   var store = {};
   var drawers = {};
   sources.forEach(function (id) { store[id] = { status: 'loading', data: [] }; });

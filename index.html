@@ -43,6 +43,17 @@
 
   .ic-panel { display: grid; gap: var(--cds-gap-lg); }
   .ic-panel[hidden] { display: none; }
+  .ic-panel + .ic-panel { margin-top: var(--cds-gap-xl); padding-top: var(--cds-gap-xl); border-top: 1px solid var(--color-border-line); }
+  .ic-panel:first-of-type { margin-top: var(--cds-gap-xl); }
+  .ic-pol { display: grid; gap: var(--cds-gap-md); grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr)); }
+  .ic-pol-item { display: flex; flex-direction: column; gap: var(--cds-gap-xs); border-top: 4px solid var(--ii-orange); }
+  .ic-pol-num { font-family: var(--font-anthropic-serif); color: var(--ii-orange); font-size: calc(var(--cds-font-size-title) * 1.7); line-height: 1; }
+  .ic-pol-lab { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); text-transform: uppercase; letter-spacing: .06em; margin-bottom: var(--cds-gap-sm); }
+  .ic-pol-item h3 { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); }
+  .ic-pol-item p { color: var(--color-fg-muted); line-height: 1.5; }
+  .ic-pol-so { background: var(--ii-navy); color: #fff; border-radius: var(--cds-radius); padding: var(--cds-pad-lg); display: grid; gap: var(--cds-gap-xs); }
+  .ic-pol-so span { color: var(--ii-orange); font-size: var(--cds-font-size-caption); text-transform: uppercase; letter-spacing: .1em; font-weight: var(--cds-font-weight-medium); }
+  .ic-pol-so p { font-size: var(--cds-font-size-heading); line-height: 1.45; }
   .ic-sec { display: flex; align-items: baseline; gap: var(--cds-gap-sm); }
   .ic-sec-n { font-family: var(--font-anthropic-serif); color: var(--ii-orange); font-size: var(--cds-font-size-title); }
   .ic-sec h2 { font-size: var(--cds-font-size-title); font-weight: 400; font-family: var(--font-anthropic-serif); }
@@ -131,67 +142,58 @@
     <div class="ic-kicker">Edición N° 1 · Semana del 2 de noviembre de 2026</div>
     <h1 class="ic-title">Informe de Contingencia</h1>
     <div class="ic-rule"></div>
-    <p class="ic-meta">Qué pasa en el Congreso, cómo está la economía y qué conviene hacer esta semana.</p>
+    <p class="ic-meta">Resumen político, seguimiento legislativo, economía en fácil y radar de noticias para gremios del sector público.</p>
   </header>
 
-  <section class="ic-key" aria-label="Lo que hay que saber esta semana">
-    <div class="ic-key-item">
-      <span class="ic-key-n">01.</span>
-      <h3>El Presupuesto 2027 se define este mes</h3>
-      <p>El Gobierno no ha repuesto los recursos rechazados. La pelea real será en la Cámara y el Senado.</p>
+
+
+  <section class="ic-panel" id="resumen">
+    <div class="ic-sec"><span class="ic-sec-n">01.</span><h2>Resumen político</h2></div>
+    <p class="ic-intro">Nuestra lectura de la semana.</p>
+    <div class="ic-pol">
+      <article class="ic-card ic-pol-item">
+        <span class="ic-pol-num">22%</span>
+        <span class="ic-pol-lab">aprueba al Presidente</span>
+        <h3>Gobierno en su momento más débil</h3>
+        <p>La aprobación del Presidente Kast cae a 22,1% y el rechazo sube a 67,5% (Pulso Ciudadano, octubre). En Cadem baja por primera vez del 30%.</p>
+      </article>
+      <article class="ic-card ic-pol-item">
+        <span class="ic-pol-num">41%</span>
+        <span class="ic-pol-lab">teme más al desempleo</span>
+        <h3>El empleo desplaza a la delincuencia</h3>
+        <p>El desempleo (41,3%) supera a la delincuencia (39,7%) como primera preocupación (Pulso Ciudadano), con cifras económicas muy malas.</p>
+      </article>
+      <article class="ic-card ic-pol-item">
+        <span class="ic-pol-num">92%</span>
+        <span class="ic-pol-lab">rechaza las rebajas de condena</span>
+        <h3>Crisis por rebajas de condena</h3>
+        <p>Rechazo masivo a las rebajas a condenados por abuso y violación de menores (Cadem). La oposición prepara una acusación constitucional contra el ministro de Justicia, Fernando Rabat.</p>
+      </article>
     </div>
-    <div class="ic-key-item">
-      <span class="ic-key-n">02.</span>
-      <h3>Parte la negociación del reajuste</h3>
-      <p>La Mesa del Sector Público entrega su pliego este miércoles. Hacienda ya dijo que sería solo por inflación, y el gasto en sueldos del Estado queda congelado.</p>
-    </div>
-    <div class="ic-key-item">
-      <span class="ic-key-n">03.</span>
-      <h3>Noviembre es el mes de las contratas</h3>
-      <p>Los servicios tienen hasta el 30 de noviembre para avisar no renovaciones. Hay que revisar quiénes están en riesgo.</p>
+    <div class="ic-pol-so">
+      <span>Qué significa para los gremios</span>
+      <p>Un gobierno débil y un Congreso dividido abren espacio para incidir en el Presupuesto y el reajuste. La clave: que los gremios hablen con una sola voz.</p>
     </div>
   </section>
 
-  <nav class="ic-tabs" role="tablist" aria-label="Secciones del informe">
-    <button class="ic-tab" role="tab" data-tab="agenda" aria-selected="true"><b>01.</b>Agenda legislativa</button>
-    <button class="ic-tab" role="tab" data-tab="economia" aria-selected="false"><b>02.</b>Economía en fácil</button>
-    <button class="ic-tab" role="tab" data-tab="noticias" aria-selected="false"><b>03.</b>Noticias</button>
-    <button class="ic-tab" role="tab" data-tab="calendario" aria-selected="false"><b>04.</b>Calendario</button>
-  </nav>
-
-  <section class="ic-panel" id="agenda" data-panel="agenda">
-    <div class="ic-sec"><span class="ic-sec-n">01.</span><h2>Agenda legislativa</h2></div>
-    <div class="ic-card ic-read">
-      <h3>Nuestra lectura</h3>
-      <ul>
-        <li><b>Gobierno en su momento más débil.</b> La aprobación del Presidente Kast cae a 22,1% y el rechazo sube a 67,5% (Pulso Ciudadano, octubre). En Cadem baja por primera vez del 30%.</li>
-        <li><b>El empleo desplaza a la delincuencia.</b> El desempleo (41,3%) supera a la delincuencia (39,7%) como primera preocupación, con cifras económicas muy malas.</li>
-        <li><b>Crisis por rebajas de condena.</b> 92% rechaza las rebajas a condenados por abuso y violación de menores (Cadem), y la oposición prepara una acusación constitucional contra el ministro de Justicia, Fernando Rabat.</li>
-        <li><b>Qué significa para los gremios:</b> un gobierno débil y un Congreso dividido abren espacio para incidir en el Presupuesto y el reajuste.</li>
-      </ul>
-    </div>
+  <section class="ic-panel" id="agenda">
+    <div class="ic-sec"><span class="ic-sec-n">02.</span><h2>Seguimiento legislativo</h2></div>
+    <p class="ic-intro">En qué va cada tema, qué viene y qué conviene hacer.</p>
     <div class="ic-list dash-skeleton" data-draw="frentes" data-source="frentes">—</div>
   </section>
 
-  <section class="ic-panel" id="economia" data-panel="economia" hidden>
-    <div class="ic-sec"><span class="ic-sec-n">02.</span><h2>Economía en fácil</h2></div>
+  <section class="ic-panel" id="economia">
+    <div class="ic-sec"><span class="ic-sec-n">03.</span><h2>Economía en fácil</h2></div>
     <p class="ic-intro">Cuatro preguntas para entender cómo está la economía y qué significa para quienes trabajan en el Estado.</p>
     <div class="ic-grid dash-skeleton" data-draw="indicadores" data-source="indicadores">—</div>
   </section>
 
-  <section class="ic-panel" id="noticias" data-panel="noticias" hidden>
-    <div class="ic-sec"><span class="ic-sec-n">03.</span><h2>Noticias</h2></div>
+  <section class="ic-panel" id="noticias">
+    <div class="ic-sec"><span class="ic-sec-n">04.</span><h2>Radar de noticias</h2></div>
     <p class="ic-intro">Noticias seleccionadas, ordenadas por tema. Cada titular abre la nota original.</p>
     <div class="ic-news dash-skeleton" data-draw="noticias" data-source="noticias">—</div>
   </section>
 
-  <section class="ic-panel" id="calendario" data-panel="calendario" hidden>
-    <div class="ic-sec"><span class="ic-sec-n">04.</span><h2>Calendario</h2></div>
-    <p class="ic-intro">Fechas clave de las próximas semanas. En naranjo, lo que ocurre en los próximos siete días.</p>
-    <div class="ic-card">
-      <div class="ic-cal dash-skeleton" data-draw="calendario" data-source="calendario">—</div>
-    </div>
-  </section>
 
   <footer>
     <div class="ic-free">
@@ -225,14 +227,6 @@
       return false;
     }
   };
-  const tabs = ['agenda', 'economia', 'noticias', 'calendario'];
-  const show = (name) => {
-    document.querySelectorAll('.ic-panel').forEach((p) => { p.hidden = p.dataset.panel !== name; });
-    document.querySelectorAll('.ic-tab').forEach((b) => b.setAttribute('aria-selected', String(b.dataset.tab === name)));
-  };
-  document.querySelectorAll('.ic-tab').forEach((b) => b.addEventListener('click', () => { show(b.dataset.tab); dash.setLink(b.dataset.tab); }));
-  const start = location.hash.slice(1);
-  if (tabs.includes(start)) show(start);
 </script>
 
 <script>
@@ -306,23 +300,6 @@
   });
 </script>
 
-<script>
-  dash.draw('calendario', (box) => {
-    if (!window.ic.ready(box, 'calendario')) return;
-    const { el, day } = window.ic;
-    const today = new Date(); today.setHours(0, 0, 0, 0);
-    const week = new Date(today); week.setDate(week.getDate() + 7);
-    dash.data('calendario').data.slice().sort((a, b) => String(a.fecha).localeCompare(String(b.fecha))).forEach((r) => {
-      const d = day(r.fecha); d.setHours(0, 0, 0, 0);
-      const end = day(r.fin || r.fecha); end.setHours(0, 0, 0, 0);
-      const row = el('div', 'ic-cal-row' + (end < today ? ' past' : d <= week ? ' week' : ''));
-      const t = el('div', null, r.hito);
-      t.append(el('span', 'ic-cal-tipo', r.tipo));
-      row.append(el('div', 'ic-cal-date', r.fecha_txt), t);
-      box.append(row);
-    });
-  });
-</script>
 
 </div>
 </body>
