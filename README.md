@@ -1,6 +1,6 @@
 # Informe de Contingencia · Ingeniería Institucional
 
-Informe semanal para gremios del sector público: resumen político, seguimiento legislativo, economía en fácil y radar de noticias. Producto gratuito de libre distribución.
+Lo que todo dirigente sindical, nacional y regional, necesita saber para empezar la semana: resumen político, seguimiento legislativo, economía en fácil y radar de noticias. Un aporte semanal y de libre distribución de Ingeniería Institucional para la construcción de buena política pública.
 
 ## Ver el informe
 
