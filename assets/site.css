@@ -1,0 +1,105 @@
+:root {
+  --navy: #0B2D5E; --navy-2: #12397A; --orange: #F15A0C; --orange-text: #C2410C; --gray: #5B6470;
+  --fg: #0B2D5E; --muted: #5B6470; --bg: #F4F5F7; --panel: #FFFFFF; --line: #E1E5EB;
+  --bad: #B42318; --warn: #A15C00; --ok: #1A7F4B; --radius: 14px;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--fg); font-family: 'Montserrat', system-ui, sans-serif; line-height: 1.45; }
+.ic { max-width: 72rem; margin: 0 auto; padding: clamp(16px, 4vw, 40px); }
+h1, h2, h3, p { margin: 0; }
+a { color: var(--orange-text); }
+
+/* Encabezado */
+.ic-hero { background: var(--navy); color: #fff; border-radius: var(--radius); padding: clamp(24px, 4vw, 44px); position: relative; overflow: hidden; }
+.ic-hero::before, .ic-hero::after { content: ""; position: absolute; border-radius: 50%; pointer-events: none; }
+.ic-hero::before { right: -7rem; top: -7rem; width: 20rem; height: 20rem; border: 2px solid rgba(255,255,255,.10); }
+.ic-hero::after { right: -4rem; top: -4rem; width: 14rem; height: 14rem; border: 2px solid rgba(241,90,12,.35); }
+.ic-hero-top { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 16px; margin-bottom: 28px; position: relative; z-index: 1; }
+.ic-logo { height: 56px; width: auto; display: block; }
+.ic-select { display: flex; align-items: center; gap: 8px; font-size: .8rem; font-weight: 600; text-transform: uppercase; letter-spacing: .08em; }
+.ic-select select { font: inherit; text-transform: none; letter-spacing: 0; font-weight: 600; color: var(--navy); background: #fff; border: 0; border-radius: 999px; padding: 8px 14px; min-height: 40px; }
+.ic-kicker { color: var(--orange); font-size: .8rem; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; position: relative; }
+.ic-title { font-size: clamp(2.2rem, 6vw, 3.6rem); font-weight: 800; line-height: 1.05; letter-spacing: -.02em; margin-top: 8px; position: relative; }
+.ic-rule { width: 4rem; height: 4px; background: var(--orange); border-radius: 2px; margin: 18px 0; }
+.ic-bajada { font-size: clamp(1.05rem, 2.4vw, 1.3rem); color: rgba(255,255,255,.88); max-width: 40rem; position: relative; }
+.ic-descarga { display: inline-block; margin-top: 20px; background: var(--orange); color: #fff; text-decoration: none; font-weight: 700; font-size: .9rem; border-radius: 999px; padding: 10px 18px; position: relative; }
+.ic-descarga[hidden] { display: none; }
+.ic-borrador, .ic-anterior { margin-top: 16px; border-radius: var(--radius); padding: 12px 18px; font-weight: 600; font-size: .9rem; }
+.ic-borrador { background: #FFF4E5; color: var(--warn); border: 1px solid #F5C98A; }
+.ic-anterior { background: var(--panel); border: 1px solid var(--line); color: var(--muted); }
+[hidden] { display: none !important; }
+
+/* Secciones */
+.ic-panel { display: grid; gap: 20px; margin-top: 48px; }
+.ic-panel + .ic-panel { padding-top: 48px; border-top: 1px solid var(--line); }
+.ic-sec { display: flex; align-items: baseline; gap: 10px; }
+.ic-sec-n { color: var(--orange); font-size: 1.6rem; font-weight: 800; }
+.ic-sec h2 { font-size: 1.6rem; font-weight: 800; }
+.ic-intro { color: var(--muted); margin-top: -10px; }
+.ic-card { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 22px; }
+
+/* Resumen político */
+.ic-pol { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr)); }
+.ic-pol-item { display: flex; flex-direction: column; gap: 6px; border-top: 4px solid var(--orange); }
+.ic-pol-num { color: var(--orange); font-size: 2.8rem; font-weight: 800; line-height: 1; }
+.ic-pol-lab { font-size: .75rem; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; font-weight: 600; margin-bottom: 6px; }
+.ic-pol-item h3 { font-size: 1.1rem; font-weight: 700; }
+.ic-pol-item p { color: #3F4A5A; }
+.ic-sintesis { background: var(--navy); color: #fff; border-radius: var(--radius); padding: 22px 26px; display: grid; gap: 6px; }
+.ic-sintesis span { color: var(--orange); font-size: .78rem; text-transform: uppercase; letter-spacing: .1em; font-weight: 700; }
+.ic-sintesis p { font-size: 1.1rem; font-weight: 600; line-height: 1.45; }
+
+/* Seguimiento legislativo */
+.ic-list { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr)); }
+.ic-f { display: grid; gap: 14px; align-content: start; }
+.ic-f-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 10px; }
+.ic-f-title { font-size: 1.15rem; font-weight: 800; }
+.ic-pill { flex: none; font-size: .75rem; font-weight: 700; color: #fff; background: var(--orange); border-radius: 999px; padding: 4px 12px; white-space: nowrap; }
+.ic-pill.azul { background: var(--navy); }
+.ic-steps { display: grid; grid-auto-flow: column; grid-auto-columns: 1fr; gap: 3px; }
+.ic-step { font-size: .72rem; color: var(--muted); border-top: 5px solid #D5D9E0; padding-top: 5px; line-height: 1.2; }
+.ic-step.done { border-top-color: var(--navy-2); color: var(--fg); }
+.ic-step.now { border-top-color: var(--orange); color: var(--fg); font-weight: 700; }
+.ic-f-row { display: grid; gap: 2px; }
+.ic-f-lab { font-size: .72rem; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); font-weight: 700; }
+.ic-f-do { background: var(--bg); border-left: 3px solid var(--orange); border-radius: 8px; padding: 10px 14px; }
+.ic-f details { font-size: .85rem; color: var(--muted); }
+.ic-f summary { cursor: pointer; color: var(--orange-text); font-weight: 700; }
+.ic-f details p { margin-top: 6px; }
+
+/* Economía */
+.ic-grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); }
+.ic-ind { display: flex; flex-direction: column; gap: 8px; border-top: 6px solid var(--navy); }
+.ic-ind h3 { font-size: 1.1rem; font-weight: 700; }
+.ic-ind-val { font-size: 2.8rem; font-weight: 800; line-height: 1; }
+.ic-light { display: inline-flex; align-items: center; gap: 8px; font-weight: 700; font-size: .9rem; }
+.ic-light::before { content: ""; width: .7rem; height: .7rem; border-radius: 50%; background: currentColor; }
+.ic-light.rojo { color: var(--bad); } .ic-light.amarillo { color: var(--warn); } .ic-light.verde { color: var(--ok); }
+.ic-ind p { color: #3F4A5A; }
+.ic-ind-src { margin-top: auto; font-size: .75rem; color: var(--muted); }
+
+/* Noticias */
+.ic-news { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr)); }
+.ic-n-group h3 { font-size: 1.05rem; font-weight: 800; margin-bottom: 4px; }
+.ic-n-item { display: block; padding: 10px 0; border-top: 1px solid var(--line); text-decoration: none; color: inherit; }
+.ic-n-item:hover .ic-n-title { color: var(--orange-text); }
+.ic-n-top { font-size: .72rem; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; font-weight: 600; }
+.ic-n-title { font-weight: 700; margin: 2px 0; }
+.ic-n-sum { color: var(--muted); font-size: .85rem; }
+
+/* Archivo */
+.ic-archivo { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.ic-archivo a { display: flex; justify-content: space-between; gap: 12px; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px; text-decoration: none; color: var(--fg); font-weight: 600; }
+.ic-archivo a:hover { border-color: var(--orange); }
+.ic-archivo .actual { color: var(--orange-text); font-size: .8rem; }
+
+/* Cierre */
+.ic-free { margin-top: 56px; text-align: center; display: grid; gap: 6px; justify-items: center; padding: 24px; border-top: 1px solid var(--line); }
+.ic-free-tag { color: var(--orange-text); font-size: .78rem; letter-spacing: .12em; text-transform: uppercase; font-weight: 700; }
+.ic-free p { color: var(--muted); max-width: 38rem; }
+.ic-foot { background: var(--navy); color: #fff; border-radius: var(--radius); padding: 24px 28px; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 16px; }
+.ic-foot-text { display: grid; gap: 4px; max-width: 40rem; }
+.ic-foot-cta { color: var(--orange); font-size: 1.6rem; font-weight: 800; }
+.ic-foot-svc { color: rgba(255,255,255,.7); font-size: .8rem; }
+.ic-foot-mail { color: #fff; border: 1px solid rgba(255,255,255,.35); border-radius: 999px; padding: 8px 16px; text-decoration: none; font-weight: 600; }
+.ic-copy { margin-top: 12px; text-align: center; font-size: .72rem; letter-spacing: .08em; color: var(--muted); }

@@ -1,0 +1,303 @@
+{
+ "id": "2026-11-02",
+ "numero": 1,
+ "estado": "publicada",
+ "rango": "2 al 6 de noviembre de 2026",
+ "portada": {
+  "kicker": "Edición N° 1 · 2 al 6 de noviembre 2026",
+  "bajada": "Lo que todo dirigente necesita saber para empezar la semana."
+ },
+ "resumen": {
+  "items": [
+   {
+    "cifra": "22%",
+    "etiqueta": "aprueba al Presidente",
+    "titulo": "Gobierno en su momento más débil",
+    "texto": "La aprobación de Kast cae a 22,1% y el rechazo sube a 67,5% (Pulso Ciudadano, octubre). En Cadem baja por primera vez del 30%."
+   },
+   {
+    "cifra": "41%",
+    "etiqueta": "teme más al desempleo",
+    "titulo": "El empleo desplaza a la delincuencia",
+    "texto": "Desempleo (41,3%) supera a delincuencia (39,7%) como primera preocupación, con cifras económicas muy malas: 9,8% de desempleo y una economía casi detenida."
+   },
+   {
+    "cifra": "92%",
+    "etiqueta": "rechaza las rebajas de condena",
+    "titulo": "Crisis por rebajas de condena",
+    "texto": "Rechazo masivo a las rebajas a condenados por abuso y violación de menores (Cadem). La oposición prepara una acusación constitucional contra el ministro de Justicia, Fernando Rabat."
+   }
+  ],
+  "cierre_titulo": "Qué significa para los gremios",
+  "cierre": "Un gobierno debilitado podría estar más dispuesto a dialogar y negociar. Para aprovecharlo, las demandas gremiales deben conectarse con las urgencias de la ciudadanía, como el empleo."
+ },
+ "frentes": [
+  {
+   "id": "presupuesto",
+   "frente": "Presupuesto 2027",
+   "pasos": "Subcomisiones|Comisión Especial Mixta (CEMP)|Cámara|Senado|Ley",
+   "paso_actual": 2,
+   "en_que_va": "Terminaron las subcomisiones, que rechazaron varias partidas. Ahora vota la Comisión Especial Mixta de Presupuestos (CEMP) y el Gobierno no ha presentado indicaciones para reponer lo rechazado.",
+   "que_viene": "Votación en la Cámara: 9 al 12 de noviembre",
+   "que_hacer": "Presentar indicaciones en el Senado antes del lunes 16 de noviembre.",
+   "detalle": "Rechazado en subcomisiones: Servel y Ciencia (completos); JUNJI, JUNAEB, Parvularia, SLEP y Educación Superior; SENAPRED y Patrimonio; Plan de Búsqueda y Sitios de Memoria; líneas de Trabajo, Transportes y Energía. Como el Congreso no puede aumentar el gasto, solo el Gobierno puede reponer estos recursos. Salud sube 4,7%, pero los gremios del sector advierten que no alcanza ni para cubrir el gasto real de 2026.",
+   "carrusel": {
+    "etiqueta": "Comisión Especial Mixta",
+    "color": "naranjo",
+    "texto": "Subcomisiones rechazaron Servel y Ciencia completos, y partidas de educación, SENAPRED, Patrimonio, memoria y DD.HH., Trabajo, Transportes y Energía. El Gobierno no las repone ni negocia en la CEMP: la pelea pasa a la Cámara y, sobre todo, al Senado, donde está más empatado.",
+    "proximo": "Cámara vota 9–12 nov · indicaciones en el Senado hasta el 16 nov"
+   }
+  },
+  {
+   "id": "reajuste",
+   "frente": "Reajuste del sector público",
+   "pasos": "Pliego|Negociación|Congreso|Ley",
+   "paso_actual": 2,
+   "en_que_va": "La Mesa del Sector Público ya entregó su pliego: pide un reajuste de 6,3% nominal (2% real). Hacienda anticipó que el reajuste sería solo por inflación.",
+   "que_viene": "Respuesta de Hacienda y negociación. El IPC de octubre se conoce el viernes 6 de noviembre.",
+   "que_hacer": "Negociar con la inflación que proyecta la banca (cerca de 5%), no con la de Hacienda, y calcular la pérdida de poder adquisitivo con el IPC del 6 de noviembre.",
+   "detalle": "Se viene una brecha en la negociación: Hacienda proyecta una inflación de 3,8% para 2026 (promedio del año); el Banco Central, 4,3% a diciembre (IPoM de septiembre); y la banca, cerca de 5% (Santander y Scotiabank). Si el reajuste se calcula con la cifra más baja, los sueldos del Estado volverán a perder poder de compra.",
+   "carrusel": {
+    "titulo": "Reajuste del Sector Público",
+    "etiqueta": "Pliego entregado",
+    "color": "naranjo",
+    "texto": "La Mesa del Sector Público pide **6,3% nominal** (2% real). Brecha de inflación 2026: Hacienda proyecta **3,8%** (promedio del año), el Banco Central **4,3%** a diciembre y los bancos **cerca de 5%**.",
+    "proximo": "respuesta de Hacienda · IPC de octubre el 6 nov"
+   }
+  },
+  {
+   "id": "reconstruccion",
+   "frente": "Ley de Reconstrucción (Ley 21.850)",
+   "pasos": "Congreso|Publicación|Normas del SII|Aplicación",
+   "paso_actual": 3,
+   "en_que_va": "Publicada en el Diario Oficial el 17 de octubre. El SII prepara 13 circulares y 17 resoluciones para aplicarla.",
+   "que_viene": "Primeras medidas desde el 1 de noviembre; IVA a viviendas nuevas desde diciembre; rebaja del impuesto a grandes empresas desde 2029.",
+   "que_hacer": "Seguir las circulares del SII y usar el costo fiscal de la rebaja como argumento en el reajuste.",
+   "detalle": "Funcionarios del SII cuestionaron al director Jorge Trujillo por un trato preferente al convocar de manera discrecional a estudios jurídicos y auditoras para revisar las circulares de la ley. La rebaja gradual del impuesto de primera categoría de 27% a 23% significa menos recaudación y menos espacio para sueldos, dotaciones y programas.",
+   "carrusel": {
+    "titulo": "Ley de Reconstrucción",
+    "etiqueta": "En implementación",
+    "color": "azul",
+    "texto": "Publicada el 17 de octubre (Ley 21.850). El SII prepara 13 circulares y 17 resoluciones, y sus funcionarios cuestionaron que el director las revisara con estudios de abogados y auditoras.",
+    "proximo": "primeras medidas desde el 1 nov · rebaja de impuestos a empresas desde 2029"
+   }
+  },
+  {
+   "id": "contratas",
+   "frente": "Renovación de contratas 2027",
+   "pasos": "Evaluación|Aviso|Reclamo|Resolución",
+   "paso_actual": 2,
+   "en_que_va": "Los servicios están decidiendo qué contratas no renuevan.",
+   "que_viene": "Último día para avisar una no renovación: 30 de noviembre",
+   "que_hacer": "Hacer una lista de las personas en riesgo y preparar reclamos ante Contraloría.",
+   "detalle": "Con cinco años o más continuos en el mismo servicio, la Corte Suprema exige que la no renovación esté bien fundamentada (confianza legítima), y obligó a Contraloría a volver a tramitar estos reclamos.",
+   "carrusel": {
+    "titulo": "Contratas 2027",
+    "etiqueta": "Plazo de aviso",
+    "color": "naranjo",
+    "texto": "Los servicios deciden qué contratas no renuevan. Conviene listar a las personas en riesgo y preparar reclamos ante Contraloría.",
+    "proximo": "último día para avisar no renovaciones, 30 nov"
+   }
+  }
+ ],
+ "economia": {
+  "indicadores": [
+   {
+    "pregunta": "¿Hay trabajo?",
+    "valor": "9,8%",
+    "semaforo": "rojo",
+    "estado": "Peor que hace un año",
+    "texto": "Más de un millón de personas sin trabajo: casi 1 de cada 10 que busca empleo no lo encuentra.",
+    "fuente": "INE, julio–septiembre 2026"
+   },
+   {
+    "pregunta": "Inflación",
+    "valor": "4,1%",
+    "semaforo": "rojo",
+    "estado": "Sigue subiendo",
+    "texto": "Los combustibles siguen subiendo y encarecen el transporte. El mercado prevé que la inflación cierre el año cerca de 5%.",
+    "fuente": "INE, septiembre 2026"
+   },
+   {
+    "pregunta": "¿Recesión?",
+    "valor": "0,2%",
+    "semaforo": "amarillo",
+    "estado": "Casi detenida",
+    "texto": "La economía casi no creció en septiembre. José de Gregorio y otros economistas hablan de recesión para este año.",
+    "fuente": "Banco Central, Imacec septiembre 2026"
+   },
+   {
+    "pregunta": "¿Y el Presupuesto?",
+    "valor": "1,5%",
+    "semaforo": "amarillo",
+    "estado": "No es reactivador",
+    "texto": "No apuesta por subsidios al empleo, congela el gasto en sueldos del Estado y recorta programas de educación y salud.",
+    "fuente": "Proyecto de Ley de Presupuestos 2027"
+   }
+  ],
+  "sintesis": "Hay menos empleo, los precios suben y la economía no crece, pero el Presupuesto no apuesta por reactivarla. Defender el empleo público y un ajuste real de remuneraciones en el Estado también ayuda a sostener la economía.",
+  "fuentes": "INE, Banco Central y Dipres"
+ },
+ "noticias": [
+  {
+   "fecha": "2026-11-02",
+   "tema": "Presupuesto",
+   "medio": "Diario Concepción",
+   "titulo": "Comisión Mixta vota Presupuesto 2027: Hacienda no repuso fondos del Servel y Ciencia",
+   "resumen": "La reposición de recursos rechazados queda en manos del Ejecutivo durante las Salas.",
+   "url": "https://www.diarioconcepcion.cl/politica/2026/11/02/presupuesto-2027-hacienda-posterga-fondos-servel-ciencia.html",
+   "carrusel": true,
+   "orden_carrusel": 1
+  },
+  {
+   "fecha": "2026-11-02",
+   "tema": "Presupuesto",
+   "medio": "Radio U. de Chile",
+   "titulo": "No reposición de partidas rechazadas marca inicio de la Comisión Mixta",
+   "resumen": "La oposición acusa que el Gobierno busca dejar la discusión real para la Sala de la Cámara.",
+   "url": "https://radio.uchile.cl/2026/11/02/no-reposicion-de-partidas-rechazadas-y-ofensiva-contra-justicia-marcan-inicio-de-comision-especial-mixta-de-presupuestos/"
+  },
+  {
+   "fecha": "2026-11-02",
+   "tema": "Presupuesto",
+   "medio": "CNN Chile",
+   "titulo": "Comisión Especial Mixta analizará casi 4 mil indicaciones",
+   "resumen": "Calendario de votación y plazos de indicaciones en Cámara y Senado.",
+   "url": "https://www.cnnchile.com/pais/ley-de-presupuestos-2027-comision-especial-mixta-analizara-casi-4-mil-indicaciones/"
+  },
+  {
+   "fecha": "2026-10-30",
+   "tema": "Salud",
+   "medio": "La Tercera",
+   "titulo": "Gremios de la salud alertan por presupuesto 2027",
+   "resumen": "Colmed, Fenasenf, Fenpruss, Fenats y Fentess advierten por deuda hospitalaria y listas de espera.",
+   "url": "https://www.latercera.com/nacional/noticia/gremios-de-la-salud-alertan-por-presupuesto-2027-advierten-por-deuda-y-listas-de-espera/",
+   "carrusel": true,
+   "titulo_carrusel": "Gremios de la salud alertan por presupuesto 2027: advierten por deuda y listas de espera",
+   "orden_carrusel": 2
+  },
+  {
+   "fecha": "2026-10-30",
+   "tema": "Salud",
+   "medio": "El Siglo",
+   "titulo": "Fenats Nacional califica de «nuevo recorte» el Presupuesto de Salud 2027",
+   "resumen": "Estiman una brecha de más de $1,5 billones respecto del gasto proyectado para 2026.",
+   "url": "https://elsiglo.cl/fenats-nacional-califica-de-nuevo-recorte-el-presupuesto-de-salud-2027-y-acusa-deficit-de-mas-de-15-billones/"
+  },
+  {
+   "fecha": "2026-10-30",
+   "tema": "Salud",
+   "medio": "El Desconcierto",
+   "titulo": "Fenpruss acusa brecha de 9,1% en Salud",
+   "resumen": "Piden revertir recortes a Ricarte Soto y vacunas, y más traspasos de honorarios a contrata.",
+   "url": "https://eldesconcierto.cl/actualidad/presupuesto-2027-fenpruss-acusa-brecha-91-salud-y-pide-revertir-recortes-ley-ricarte-soto-y-vacunas-n5463632"
+  },
+  {
+   "fecha": "2026-10-30",
+   "tema": "Presupuesto",
+   "medio": "BioBioChile",
+   "titulo": "Presupuesto 2027 suma 3.845 indicaciones",
+   "resumen": "Salud, Educación y gobiernos regionales concentran las disputas.",
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/30/presupuesto-2027-suma-3-845-indicaciones-salud-educacion-y-gobiernos-regionales-lideran-disputas.shtml"
+  },
+  {
+   "fecha": "2026-10-08",
+   "tema": "Empleo público",
+   "medio": "Diario Financiero",
+   "titulo": "Presupuesto 2027 sube tope de dotación máxima, pero recorta horas extra y funciones críticas",
+   "resumen": "El gasto en personal queda congelado respecto de 2026.",
+   "url": "https://www.df.cl/economia-y-politica/macro/presupuesto-2027-sube-tope-de-dotacion-maxima-del-gobierno-pero-recorta",
+   "carrusel": true,
+   "titulo_carrusel": "Presupuesto 2027 sube tope de dotación, pero recorta horas extra y funciones críticas",
+   "orden_carrusel": 3,
+   "fecha_texto": "Octubre"
+  },
+  {
+   "fecha": "2026-10-06",
+   "tema": "Presupuesto",
+   "medio": "Emol",
+   "titulo": "Presupuesto 2027, partida por partida",
+   "resumen": "Salud tiene la mayor alza en pesos; gobiernos regionales, el principal recorte.",
+   "url": "https://www.emol.com/noticias/Economia/2026/10/06/1213393/presupuesto-detalle-partida-proyecto-gobierno.html"
+  },
+  {
+   "fecha": "2026-11-02",
+   "tema": "Economía",
+   "medio": "Emol",
+   "titulo": "Imacec: la economía crece 0,2% en septiembre",
+   "resumen": "La minería cae fuerte y el tercer trimestre cierra en rojo.",
+   "url": "https://www.emol.com/noticias/Economia/2026/11/02/1215849/imacec-septiembre-banco-central.html",
+   "carrusel": true,
+   "titulo_carrusel": "Economía esquiva por poco una nueva caída y crece 0,2% en septiembre",
+   "orden_carrusel": 6
+  },
+  {
+   "fecha": "2026-10-29",
+   "tema": "Economía",
+   "medio": "INE",
+   "titulo": "La tasa de desocupación nacional fue 9,8% en julio–septiembre",
+   "resumen": "Comunicado oficial con boletines nacional y regional.",
+   "url": "https://www.ine.gob.cl/sala-de-prensa/prensa/general/noticia/2026/10/29/la-tasa-de-desocupaci%C3%B3n-nacional-fue-9-8-en-el-trimestre-julio-septiembre-de-2026"
+  },
+  {
+   "fecha": "2026-10-28",
+   "tema": "Economía",
+   "medio": "Rankia",
+   "titulo": "El Banco Central mantiene la TPM en 4,5%",
+   "resumen": "Advierte más riesgos para la inflación por petróleo y alimentos.",
+   "url": "https://www.rankia.cl/noticias/bolsa/7528705-tpm-octubre-2026-banco-central-chile-mantiene-tasa-4-5"
+  },
+  {
+   "fecha": "2026-09-03",
+   "tema": "Empleo público",
+   "medio": "ANEF",
+   "titulo": "XXVI Asamblea Nacional de la ANEF: resoluciones sobre Presupuesto 2027 y empleo público",
+   "resumen": "Plan de movilización y defensa de las renovaciones de contrata.",
+   "url": "https://anef.cl/culmina-la-xxvi-asamblea-nacional-de-la-anef-con-resoluciones-sobre-presupuesto-2027-empleo-publico-y-plan-de-movilizacion/"
+  },
+  {
+   "fecha": "2026-06-10",
+   "tema": "Reajuste",
+   "medio": "La Tercera",
+   "titulo": "Quiroz notifica que el reajuste del sector público será solo por inflación",
+   "resumen": "La ANEF responde que no lo puede aceptar.",
+   "url": "https://www.latercera.com/pulso/noticia/no-lo-podemos-aceptar-quiroz-notifica-que-reajuste-del-sector-publico-sera-solo-por-inflacion-este-ano-y-la-anef-responde/"
+  },
+  {
+   "fecha": "2026-08-12",
+   "tema": "Legislativo",
+   "medio": "Senado",
+   "titulo": "Reconstrucción: con aprobación de vetos supresivos, el Senado termina el trámite",
+   "resumen": "Cierre legislativo de la llamada megarreforma.",
+   "url": "https://www.senado.cl/comunicaciones/noticias/proyecto-de-reconstruccion-con-aprobacion-de-vetos-supresivos-camara-alta"
+  },
+  {
+   "fecha": "2026-05-19",
+   "tema": "Empleo público",
+   "medio": "Diario Constitucional",
+   "titulo": "Corte Suprema exige justificar la no renovación de contratas con más de cinco años",
+   "resumen": "Criterio de confianza legítima clave para la ventana de noviembre.",
+   "url": "https://www.diarioconstitucional.cl/2026/05/19/corte-suprema-exige-justificar-con-hechos-la-no-renovacion-de-contratas-con-mas-de-cinco-anos/"
+  },
+  {
+   "fecha": "2026-11-03",
+   "tema": "Economía",
+   "medio": "El Dínamo",
+   "titulo": "José De Gregorio asegura que «Chile está en recesión»",
+   "resumen": "El expresidente del Banco Central dice que la economía tuvo un desempeño «muy decepcionante».",
+   "url": "https://www.eldinamo.cl/economia/2026/11/03/jose-de-gregorio-asegura-que-chile-esta-en-recesion-y-que-nunca-el-banco-central-habia-estado-tan-desviado-de-la-meta/",
+   "carrusel": true,
+   "orden_carrusel": 5
+  },
+  {
+   "fecha": "2026-10-08",
+   "tema": "Economía",
+   "medio": "Emol",
+   "titulo": "Mercado ve que la inflación terminará el año en hasta 5%",
+   "resumen": "Bancos y analistas proyectan una inflación de cierre de año muy por sobre la de Hacienda.",
+   "url": "https://www.emol.com/noticias/Economia/2026/10/08/1213655/inflacion-2026-quiroz.html",
+   "carrusel": true,
+   "orden_carrusel": 4
+  }
+ ]
+}

@@ -4,196 +4,63 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Informe de Contingencia · Ingeniería Institucional</title>
-<meta name="description" content="Lo que todo dirigente sindical, nacional y regional, necesita saber para empezar la semana. Un aporte de libre distribución de Ingeniería Institucional.">
-<link rel="icon" href="assets/logo.png">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/base.css">
-<script src="assets/dash.js"></script>
+<meta name="description" content="Lo que todo dirigente necesita saber para empezar la semana. Un aporte semanal y de libre distribución de Ingeniería Institucional.">
+<link rel="icon" href="assets/logo-color.png">
+<link rel="stylesheet" href="assets/fonts.css">
+<link rel="stylesheet" href="assets/site.css">
 </head>
 <body>
-<div id="dash-root">
-<style>
-  .ic { --ii-navy: #0B2D5E; --ii-navy-2: #12397A; --ii-orange: #F15A0C; --ii-gray: #5B6470; font-family: var(--font-anthropic-sans); color: var(--color-fg); max-width: 72rem; margin-inline: auto; }
-  .ic h1, .ic h2, .ic h3, .ic p { margin: 0; }
-
-  /* Encabezado de marca */
-  .ic-top { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: var(--cds-gap-md); background: #fff; border: 1px solid var(--color-border-line); border-bottom: 0; border-radius: var(--cds-radius) var(--cds-radius) 0 0; padding: var(--cds-pad-md) var(--cds-pad-lg); }
-  .ic-logo { height: 52px; width: auto; display: block; }
-  .ic-top-tag { color: var(--ii-navy); font-size: var(--cds-font-size-caption); letter-spacing: .14em; text-transform: uppercase; font-weight: var(--cds-font-weight-medium); }
-  .ic-hero { background: var(--ii-navy); color: #fff; border-radius: 0 0 var(--cds-radius) var(--cds-radius); padding: var(--cds-pad-xl) var(--cds-pad-lg); position: relative; overflow: hidden; }
-  .ic-hero::after { content: ""; position: absolute; right: -3rem; top: -3rem; width: 12rem; height: 12rem; border: 2px solid rgba(255,255,255,.12); border-radius: 50%; }
-  .ic-kicker { color: var(--ii-orange); font-size: var(--cds-font-size-caption); letter-spacing: .14em; text-transform: uppercase; font-weight: var(--cds-font-weight-medium); }
-  .ic-title { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: calc(var(--cds-font-size-title) * 1.6); line-height: 1.1; margin-top: var(--cds-gap-xs); }
-  .ic-rule { width: 4rem; height: 3px; background: var(--ii-orange); margin: var(--cds-gap-md) 0; }
-  .ic-meta { color: rgba(255,255,255,.78); font-size: var(--cds-font-size-caption); }
-
-  /* Lo que hay que saber */
-  .ic-key { margin-top: var(--cds-gap-lg); display: grid; gap: var(--cds-gap-md); grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr)); }
-  .ic-key-item { background: var(--color-panel); border: 1px solid var(--color-border-line); border-top: 4px solid var(--ii-orange); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); display: grid; gap: var(--cds-gap-xs); align-content: start; }
-  .ic-key-n { font-family: var(--font-anthropic-serif); color: var(--ii-orange); font-size: var(--cds-font-size-title); line-height: 1; }
-  .ic-key-item h3 { font-size: var(--cds-font-size-body); font-weight: var(--cds-font-weight-medium); }
-  .ic-key-item p { color: var(--color-fg-muted); line-height: 1.5; }
-
-  /* Pestañas */
-  .ic-tabs { display: flex; flex-wrap: wrap; gap: var(--cds-gap-xs); margin: var(--cds-gap-xl) 0 var(--cds-gap-lg); border-bottom: 1px solid var(--color-border-line); }
-  .ic-tab { font: inherit; background: none; border: 0; border-bottom: 3px solid transparent; padding: var(--cds-pad-sm) var(--cds-pad-md); color: var(--color-fg-muted); cursor: pointer; margin-bottom: -1px; text-transform: uppercase; letter-spacing: .06em; font-size: var(--cds-font-size-caption); font-weight: var(--cds-font-weight-medium); }
-  .ic-tab b { color: var(--ii-orange); margin-right: 4px; font-weight: var(--cds-font-weight-medium); }
-  .ic-tab[aria-selected="true"] { color: var(--color-fg); border-bottom-color: var(--ii-orange); }
-
-  .ic-panel { display: grid; gap: var(--cds-gap-lg); }
-  .ic-panel[hidden] { display: none; }
-  .ic-panel + .ic-panel { margin-top: var(--cds-gap-xl); padding-top: var(--cds-gap-xl); border-top: 1px solid var(--color-border-line); }
-  .ic-panel:first-of-type { margin-top: var(--cds-gap-xl); }
-  .ic-pol { display: grid; gap: var(--cds-gap-md); grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr)); }
-  .ic-pol-item { display: flex; flex-direction: column; gap: var(--cds-gap-xs); border-top: 4px solid var(--ii-orange); }
-  .ic-pol-num { font-family: var(--font-anthropic-serif); color: var(--ii-orange); font-size: calc(var(--cds-font-size-title) * 1.7); line-height: 1; }
-  .ic-pol-lab { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); text-transform: uppercase; letter-spacing: .06em; margin-bottom: var(--cds-gap-sm); }
-  .ic-pol-item h3 { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); }
-  .ic-pol-item p { color: var(--color-fg-muted); line-height: 1.5; }
-  .ic-pol-so { background: var(--ii-navy); color: #fff; border-radius: var(--cds-radius); padding: var(--cds-pad-lg); display: grid; gap: var(--cds-gap-xs); }
-  .ic-pol-so span { color: var(--ii-orange); font-size: var(--cds-font-size-caption); text-transform: uppercase; letter-spacing: .1em; font-weight: var(--cds-font-weight-medium); }
-  .ic-pol-so p { font-size: var(--cds-font-size-heading); line-height: 1.45; }
-  .ic-sec { display: flex; align-items: baseline; gap: var(--cds-gap-sm); }
-  .ic-sec-n { font-family: var(--font-anthropic-serif); color: var(--ii-orange); font-size: var(--cds-font-size-title); }
-  .ic-sec h2 { font-size: var(--cds-font-size-title); font-weight: 400; font-family: var(--font-anthropic-serif); }
-  .ic-sec + .ic-intro { margin-top: calc(var(--cds-gap-md) * -1); }
-  .ic-intro { color: var(--color-fg-muted); line-height: 1.5; }
-  .ic-card { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); }
-
-  /* Lectura */
-  .ic-read { border-left: 4px solid var(--ii-navy); display: grid; gap: var(--cds-gap-sm); }
-  .ic-read h3, .ic-sub { font-size: var(--cds-font-size-caption); text-transform: uppercase; letter-spacing: .1em; color: var(--ii-orange); font-weight: var(--cds-font-weight-medium); }
-  .ic-read ul { margin: 0; padding-left: 1.1rem; display: grid; gap: var(--cds-gap-xs); line-height: 1.5; }
-
-  /* Frentes */
-  .ic-list { display: grid; gap: var(--cds-gap-md); grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr)); min-height: 10rem; }
-  .ic-f { display: grid; gap: var(--cds-gap-md); align-content: start; }
-  .ic-f-head { display: flex; justify-content: space-between; align-items: start; gap: var(--cds-gap-sm); }
-  .ic-f-title { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); }
-  .ic-chip { flex: none; font-size: var(--cds-font-size-caption); padding: 2px 10px; border-radius: 999px; font-weight: var(--cds-font-weight-medium); white-space: nowrap; }
-  .ic-chip.alto { background: var(--ii-orange); color: #fff; }
-  .ic-chip.medio { background: var(--ii-gray); color: #fff; }
-  .ic-steps { display: grid; grid-auto-flow: column; grid-auto-columns: 1fr; gap: 3px; }
-  .ic-step { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); border-top: 5px solid var(--color-border-line); padding-top: 5px; line-height: 1.2; }
-  .ic-step.done { border-top-color: var(--ii-navy-2); }
-  .ic-step.now { border-top-color: var(--ii-orange); color: var(--color-fg); font-weight: var(--cds-font-weight-medium); }
-  .ic-f-row { display: grid; gap: 2px; line-height: 1.45; }
-  .ic-f-lab { font-size: var(--cds-font-size-caption); text-transform: uppercase; letter-spacing: .08em; color: var(--color-fg-muted); font-weight: var(--cds-font-weight-medium); }
-  .ic-f-do { background: var(--color-bg); border-left: 3px solid var(--ii-orange); border-radius: var(--cds-radius); padding: var(--cds-pad-sm) var(--cds-pad-md); }
-  .ic-f details { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); line-height: 1.5; }
-  .ic-f summary { cursor: pointer; color: var(--ii-orange); font-weight: var(--cds-font-weight-medium); }
-  .ic-f details p { margin-top: var(--cds-gap-xs); }
-
-  /* Economía */
-  .ic-grid { display: grid; gap: var(--cds-gap-md); grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); min-height: 12rem; }
-  .ic-ind { display: flex; flex-direction: column; gap: var(--cds-gap-sm); border-top: 4px solid var(--ii-navy); }
-  .ic-ind-q { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); }
-  .ic-ind-val { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: calc(var(--cds-font-size-title) * 1.7); line-height: 1; font-variant-numeric: tabular-nums; }
-  .ic-light { display: inline-flex; align-items: center; gap: 6px; font-weight: var(--cds-font-weight-medium); }
-  .ic-light::before { content: ""; width: .7rem; height: .7rem; border-radius: 50%; background: currentColor; }
-  .ic-light.rojo { color: var(--color-bad); } .ic-light.amarillo { color: var(--color-warn); } .ic-light.verde { color: var(--color-ok); }
-  .ic-ind-facil { line-height: 1.5; }
-  .ic-ind-ti { line-height: 1.5; padding: var(--cds-pad-sm) var(--cds-pad-md); background: var(--color-bg); border-left: 3px solid var(--ii-orange); border-radius: var(--cds-radius); }
-  .ic-ind-src { margin-top: auto; font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
-
-  /* Noticias */
-  .ic-news { display: grid; gap: var(--cds-gap-md); grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr)); min-height: 10rem; }
-  .ic-n-group h3 { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); margin-bottom: var(--cds-gap-xs); }
-  .ic-n-item { display: block; padding: var(--cds-pad-sm) 0; border-top: 1px solid var(--color-border-line); text-decoration: none; color: inherit; }
-  .ic-n-item:hover .ic-n-title { color: var(--ii-orange); }
-  .ic-n-top { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
-  .ic-n-title { font-weight: var(--cds-font-weight-medium); margin: 2px 0; }
-  .ic-n-sum { color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); }
-
-  /* Calendario */
-  .ic-cal { display: grid; min-height: 8rem; }
-  .ic-cal-row { display: grid; grid-template-columns: minmax(5.5rem, 7rem) 1fr; gap: var(--cds-gap-md); padding: var(--cds-pad-sm) 0; border-top: 1px solid var(--color-border-line); align-items: baseline; }
-  .ic-cal-row:first-child { border-top: 0; }
-  .ic-cal-date { font-variant-numeric: tabular-nums; font-weight: var(--cds-font-weight-medium); }
-  .ic-cal-row.week .ic-cal-date { color: var(--ii-orange); }
-  .ic-cal-row.past { opacity: .5; }
-  .ic-cal-tipo { display: inline-block; font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin-left: var(--cds-gap-xs); }
-
-  .ic-fail { display: flex; align-items: center; justify-content: center; gap: 8px; color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); min-height: 8rem; grid-column: 1 / -1; }
-  .ic-fail::before { content: ""; width: .375rem; height: .375rem; border-radius: 50%; background: var(--color-bad); }
-
-  /* Cierre */
-  .ic-foot { margin-top: var(--cds-gap-xl); background: var(--ii-navy); color: #fff; border-radius: var(--cds-radius); padding: var(--cds-pad-lg); display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: var(--cds-gap-md); }
-  .ic-foot-cta { font-family: var(--font-anthropic-serif); font-size: var(--cds-font-size-title); color: var(--ii-orange); }
-  .ic-foot-mail { color: #fff; font-size: var(--cds-font-size-body); border: 1px solid rgba(255,255,255,.35); border-radius: 999px; padding: var(--cds-pad-xs) var(--cds-pad-md); }
-  .ic-foot-text { display: grid; gap: var(--cds-gap-xs); max-width: 40rem; }
-  .ic-foot-lead { color: #fff; line-height: 1.5; }
-  .ic-foot-svc { color: rgba(255,255,255,.7); font-size: var(--cds-font-size-caption); line-height: 1.5; }
-  .ic-free { margin-top: var(--cds-gap-xl); text-align: center; display: grid; gap: var(--cds-gap-xs); justify-items: center; padding: var(--cds-pad-lg); border-top: 1px solid var(--color-border-line); }
-  .ic-free-tag { color: var(--ii-orange); font-size: var(--cds-font-size-caption); letter-spacing: .12em; text-transform: uppercase; font-weight: var(--cds-font-weight-medium); }
-  .ic-free p { color: var(--color-fg-muted); max-width: 38rem; line-height: 1.5; }
-  .ic-free + .ic-foot { margin-top: 0; }
-  .ic-copy { margin-top: var(--cds-gap-sm); text-align: center; font-size: var(--cds-font-size-caption); letter-spacing: .08em; color: var(--color-fg-muted); }
-  [data-dash-source-state=refreshing] { opacity: .5; transition: opacity var(--cds-dur-slow); }
-</style>
-
 <div class="ic">
-  <div class="ic-top">
-    <img class="ic-logo" alt="Ingeniería Institucional" src="assets/logo.png">
-    <span class="ic-top-tag">Informe semanal para dirigentes sindicales</span>
-  </div>
   <header class="ic-hero">
-    <div class="ic-kicker">Edición N° 1 · 2 al 6 de noviembre de 2026</div>
+    <div class="ic-hero-top">
+      <img class="ic-logo" src="assets/logo-blanco.png" alt="Ingeniería Institucional">
+      <label class="ic-select">
+        <span>Edición</span>
+        <select id="ic-ediciones" aria-label="Elegir edición"></select>
+      </label>
+    </div>
+    <div class="ic-kicker" id="ic-kicker">Cargando…</div>
     <h1 class="ic-title">Informe de Contingencia</h1>
     <div class="ic-rule"></div>
-    <p class="ic-meta">Lo que todo dirigente sindical, nacional y regional, necesita saber para empezar la semana.</p>
+    <p class="ic-bajada" id="ic-bajada"></p>
+    <a class="ic-descarga" id="ic-descarga" href="#" hidden>Descargar carrusel (imágenes)</a>
   </header>
 
+  <div class="ic-borrador" id="ic-borrador" hidden>Borrador en revisión: esta edición aún no está publicada.</div>
+  <div class="ic-anterior" id="ic-anterior" hidden>Estás viendo una edición anterior. <a href="./">Ir a la edición vigente</a></div>
 
+  <main id="ic-main">
+    <section class="ic-panel" id="resumen">
+      <div class="ic-sec"><span class="ic-sec-n">01.</span><h2>Resumen político</h2></div>
+      <p class="ic-intro">Nuestra lectura de la semana.</p>
+      <div class="ic-pol" id="ic-pol"></div>
+      <div class="ic-sintesis"><span id="ic-cierre-titulo"></span><p id="ic-cierre"></p></div>
+    </section>
 
-  <section class="ic-panel" id="resumen">
-    <div class="ic-sec"><span class="ic-sec-n">01.</span><h2>Resumen político</h2></div>
-    <p class="ic-intro">Nuestra lectura de la semana.</p>
-    <div class="ic-pol">
-      <article class="ic-card ic-pol-item">
-        <span class="ic-pol-num">22%</span>
-        <span class="ic-pol-lab">aprueba al Presidente</span>
-        <h3>Gobierno en su momento más débil</h3>
-        <p>La aprobación del Presidente Kast cae a 22,1% y el rechazo sube a 67,5% (Pulso Ciudadano, octubre). En Cadem baja por primera vez del 30%.</p>
-      </article>
-      <article class="ic-card ic-pol-item">
-        <span class="ic-pol-num">41%</span>
-        <span class="ic-pol-lab">teme más al desempleo</span>
-        <h3>El empleo desplaza a la delincuencia</h3>
-        <p>El desempleo (41,3%) supera a la delincuencia (39,7%) como primera preocupación (Pulso Ciudadano), con cifras económicas muy malas.</p>
-      </article>
-      <article class="ic-card ic-pol-item">
-        <span class="ic-pol-num">92%</span>
-        <span class="ic-pol-lab">rechaza las rebajas de condena</span>
-        <h3>Crisis por rebajas de condena</h3>
-        <p>Rechazo masivo a las rebajas a condenados por abuso y violación de menores (Cadem). La oposición prepara una acusación constitucional contra el ministro de Justicia, Fernando Rabat.</p>
-      </article>
-    </div>
-    <div class="ic-pol-so">
-      <span>Qué significa para los gremios</span>
-      <p>Un gobierno débil y un Congreso dividido abren espacio para incidir en el Presupuesto y el reajuste. La clave: que los gremios hablen con una sola voz.</p>
-    </div>
-  </section>
+    <section class="ic-panel" id="agenda">
+      <div class="ic-sec"><span class="ic-sec-n">02.</span><h2>Seguimiento legislativo</h2></div>
+      <p class="ic-intro">En qué va cada tema, qué viene y qué conviene hacer.</p>
+      <div class="ic-list" id="ic-frentes"></div>
+    </section>
 
-  <section class="ic-panel" id="agenda">
-    <div class="ic-sec"><span class="ic-sec-n">02.</span><h2>Seguimiento legislativo</h2></div>
-    <p class="ic-intro">En qué va cada tema, qué viene y qué conviene hacer.</p>
-    <div class="ic-list dash-skeleton" data-draw="frentes" data-source="frentes">—</div>
-  </section>
+    <section class="ic-panel" id="economia">
+      <div class="ic-sec"><span class="ic-sec-n">03.</span><h2>Economía en fácil</h2></div>
+      <p class="ic-intro">Cuatro preguntas para entender cómo está la economía.</p>
+      <div class="ic-grid" id="ic-indicadores"></div>
+      <div class="ic-sintesis"><span>En síntesis</span><p id="ic-econ-sintesis"></p></div>
+    </section>
 
-  <section class="ic-panel" id="economia">
-    <div class="ic-sec"><span class="ic-sec-n">03.</span><h2>Economía en fácil</h2></div>
-    <p class="ic-intro">Cuatro preguntas para entender cómo está la economía y qué significa para quienes trabajan en el Estado.</p>
-    <div class="ic-grid dash-skeleton" data-draw="indicadores" data-source="indicadores">—</div>
-  </section>
+    <section class="ic-panel" id="noticias">
+      <div class="ic-sec"><span class="ic-sec-n">04.</span><h2>Radar de noticias</h2></div>
+      <p class="ic-intro">Noticias seleccionadas, ordenadas por tema. Cada titular abre la nota original.</p>
+      <div class="ic-news" id="ic-noticias"></div>
+    </section>
 
-  <section class="ic-panel" id="noticias">
-    <div class="ic-sec"><span class="ic-sec-n">04.</span><h2>Radar de noticias</h2></div>
-    <p class="ic-intro">Noticias seleccionadas, ordenadas por tema. Cada titular abre la nota original.</p>
-    <div class="ic-news dash-skeleton" data-draw="noticias" data-source="noticias">—</div>
-  </section>
-
+    <section class="ic-panel" id="archivo">
+      <div class="ic-sec"><span class="ic-sec-n">05.</span><h2>Ediciones anteriores</h2></div>
+      <ul class="ic-archivo" id="ic-archivo"></ul>
+    </section>
+  </main>
 
   <footer>
     <div class="ic-free">
@@ -206,101 +73,12 @@
         <p class="ic-foot-lead">Acompañamos a gremios en lo que viene después de informarse: incidir.</p>
         <p class="ic-foot-svc">Seguimiento legislativo a la medida · Asesoría estratégica y comunicacional · Relacionamiento institucional · Asuntos jurídicos</p>
       </div>
-      <span class="ic-foot-mail">contacto@ingenieriainstitucional.cl</span>
+      <a class="ic-foot-mail" href="mailto:contacto@ingenieriainstitucional.cl">contacto@ingenieriainstitucional.cl</a>
     </div>
     <p class="ic-copy">© INGENIERÍA INSTITUCIONAL 2026 - TODOS LOS DERECHOS RESERVADOS</p>
   </footer>
 </div>
-
-<script>
-  window.ic = {
-    el(tag, cls, text) { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; },
-    num(v) { return Number(v).toLocaleString('es-CL', { maximumFractionDigits: 2 }); },
-    day(s) { return new Date(String(s).slice(0, 10) + 'T12:00:00'); },
-    ready(box, id) {
-      const d = dash.data(id);
-      box.replaceChildren();
-      if (d.status === 'ok') { box.classList.remove('dash-skeleton'); return true; }
-      if (d.status === 'loading') { box.classList.add('dash-skeleton'); box.textContent = '—'; return false; }
-      box.classList.remove('dash-skeleton');
-      box.append(window.ic.el('div', 'ic-fail', 'No se pudo cargar'));
-      return false;
-    }
-  };
-</script>
-
-<script>
-  dash.draw('frentes', (box) => {
-    if (!window.ic.ready(box, 'frentes')) return;
-    const { el } = window.ic;
-    dash.data('frentes').data.forEach((r) => {
-      const card = el('article', 'ic-card ic-f');
-      const head = el('div', 'ic-f-head');
-      head.append(el('h3', 'ic-f-title', r.frente));
-      card.append(head);
-
-      const pasos = String(r.pasos || '').split('|').filter(Boolean);
-      const actual = Number(r.paso_actual);
-      const steps = el('div', 'ic-steps');
-      steps.setAttribute('aria-label', 'Etapa actual: ' + (pasos[actual - 1] || ''));
-      pasos.forEach((p, i) => steps.append(el('div', 'ic-step' + (i + 1 < actual ? ' done' : i + 1 === actual ? ' now' : ''), p)));
-      card.append(steps);
-
-      const row = (label, text, cls) => { const d = el('div', 'ic-f-row' + (cls ? ' ' + cls : '')); d.append(el('span', 'ic-f-lab', label), el('span', null, text)); return d; };
-      card.append(row('En qué va', r.en_que_va), row('Qué viene', r.que_viene), row('Qué hacer', r.que_hacer, 'ic-f-do'));
-
-      if (r.detalle) {
-        const det = el('details');
-        det.append(el('summary', null, 'Ver análisis'), el('p', null, r.detalle));
-        card.append(det);
-      }
-      box.append(card);
-    });
-  });
-</script>
-
-<script>
-  dash.draw('indicadores', (box) => {
-    if (!window.ic.ready(box, 'indicadores')) return;
-    const { el, num } = window.ic;
-    dash.data('indicadores').data.forEach((r) => {
-      const card = el('article', 'ic-card ic-ind');
-      card.append(el('h3', 'ic-ind-q', r.pregunta));
-      card.append(el('span', 'ic-ind-val', num(r.valor) + (r.unidad || '')));
-      card.append(el('span', 'ic-light ' + String(r.semaforo || ''), r.estado));
-      card.append(el('p', 'ic-ind-facil', r.en_facil));
-      const ti = el('p', 'ic-ind-ti');
-      ti.append(el('b', null, '¿Y para nosotros? '), document.createTextNode(r.para_ti || ''));
-      card.append(ti, el('div', 'ic-ind-src', 'Fuente: ' + r.fuente));
-      box.append(card);
-    });
-  });
-</script>
-
-<script>
-  dash.draw('noticias', (box) => {
-    if (!window.ic.ready(box, 'noticias')) return;
-    const { el, day } = window.ic;
-    const fmt = (s) => day(s).toLocaleDateString('es-CL', { day: 'numeric', month: 'short', year: 'numeric' });
-    const rows = dash.data('noticias').data.slice().sort((a, b) => String(b.fecha).localeCompare(String(a.fecha)));
-    const groups = new Map();
-    rows.forEach((r) => { if (!groups.has(r.tema)) groups.set(r.tema, []); groups.get(r.tema).push(r); });
-    groups.forEach((items, tema) => {
-      const g = el('div', 'ic-card ic-n-group');
-      g.append(el('h3', null, tema));
-      items.forEach((r) => {
-        const a = el('a', 'ic-n-item');
-        const url = String(r.url || '');
-        if (/^https:\/\//.test(url)) { a.href = url; a.target = '_blank'; a.rel = 'noopener noreferrer'; }
-        a.append(el('div', 'ic-n-top', r.medio + ' · ' + fmt(r.fecha)), el('div', 'ic-n-title', r.titulo), el('div', 'ic-n-sum', r.resumen));
-        g.append(a);
-      });
-      box.append(g);
-    });
-  });
-</script>
-
-
-</div>
+<script src="assets/comun.js"></script>
+<script src="assets/site.js"></script>
 </body>
 </html>

@@ -1,23 +1,37 @@
 # Informe de Contingencia · Ingeniería Institucional
 
-Lo que todo dirigente sindical, nacional y regional, necesita saber para empezar la semana: resumen político, seguimiento legislativo, economía en fácil y radar de noticias. Un aporte semanal y de libre distribución de Ingeniería Institucional para la construcción de buena política pública.
+Lo que todo dirigente necesita saber para empezar la semana: resumen político, seguimiento legislativo, economía en fácil y radar de noticias. Es un aporte semanal y de libre distribución de Ingeniería Institucional para la construcción de buena política pública.
 
-## Ver el informe
+- **Sitio:** https://tlaibe.github.io/informe-contingencia/ (siempre muestra la edición vigente y permite revisar las anteriores).
+- **Carrusel:** cada edición tiene sus 5 imágenes en `ediciones/AAAA-MM-DD/carrusel/`.
 
-Con GitHub Pages activado (Settings › Pages › Deploy from a branch › `main` / root), el informe queda publicado en `https://<usuario>.github.io/<repositorio>/`.
+## Cómo está organizado
 
-Para verlo en tu computador, abre una terminal en esta carpeta y ejecuta `python3 -m http.server`. Luego entra a `http://localhost:8000` (abrir el `index.html` directo no carga los datos).
-
-## Cómo actualizar cada edición
-
-| Qué cambia | Dónde se edita |
+| Ruta | Qué contiene |
 |---|---|
-| Edición, fecha y resumen político | `index.html` |
-| Tarjetas de seguimiento legislativo | `data/frentes.json` |
-| Economía en fácil | `data/indicadores.json` |
-| Radar de noticias | `data/noticias.json` |
+| `index.html`, `assets/` | Sitio web (lee los datos de cada edición) |
+| `ediciones/index.json` | Lista de ediciones y su estado (`borrador` o `publicada`) |
+| `ediciones/AAAA-MM-DD/edicion.json` | Contenido completo de una edición (la fecha es el lunes de distribución) |
+| `ediciones/AAAA-MM-DD/carrusel/` | Las 5 láminas en PNG y una página para descargarlas |
+| `plantillas/` | Diseño de las láminas del carrusel |
+| `scripts/generar-carrusel.js` | Exporta las láminas a PNG y avisa si un texto no cabe |
+| `GUIA-EDITORIAL.md` | Criterios, fuentes y paso a paso de cada edición |
 
-En `data/frentes.json`, `pasos` lista las etapas separadas por `|` y `paso_actual` indica en cuál vamos (empieza en 1).
+## Ciclo semanal
+
+1. **Domingo, 21:00:** la tarea automática deja lista la edición nueva como borrador, con su carrusel, y avisa.
+2. **Revisión:** Tomás o Andrés revisan el borrador en `?ed=AAAA-MM-DD` y lo aprueban o piden cambios.
+3. **Publicación:** al aprobarlo, la edición pasa a `publicada` y se vuelve la vigente del sitio.
+4. **Lunes temprano:** se distribuyen el link del sitio y las imágenes.
+
+## Generar el carrusel a mano
+
+```
+npm install playwright   # solo la primera vez, si no está instalado
+node scripts/generar-carrusel.js 2026-11-09
+```
+
+Para ver el sitio en tu computador, ejecuta `python3 -m http.server` en esta carpeta y abre `http://localhost:8000`.
 
 ---
 
