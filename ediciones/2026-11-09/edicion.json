@@ -1,0 +1,287 @@
+{
+ "id": "2026-11-09",
+ "numero": 2,
+ "estado": "borrador",
+ "rango": "9 al 13 de noviembre de 2026",
+ "portada": {
+  "kicker": "Edición N° 2 · 9 al 13 de noviembre 2026",
+  "bajada": "Lo que todo dirigente necesita saber para empezar la semana."
+ },
+ "resumen": {
+  "items": [
+   {
+    "cifra": "24%",
+    "etiqueta": "aprueba al Presidente",
+    "titulo": "Aprobación en su nivel más bajo",
+    "texto": "Criteria (5–6 nov): 24% aprueba a Kast y 67% desaprueba, su peor marca del año. En Cadem (1 nov), 26% aprueba y 71% ve al país por mal camino."
+   },
+   {
+    "cifra": "$17,3",
+    "etiqueta": "billones en Educación rechazados",
+    "titulo": "Presupuesto llega rechazado en Educación",
+    "texto": "La Comisión Mixta rechazó esa partida (11 en contra, 2 a favor, 11 abstenciones). Quiroz dice que repondrá Educación y Salud (Cooperativa, 6 nov)."
+   },
+   {
+    "cifra": "70%",
+    "etiqueta": "rechaza mantener a Rabat",
+    "titulo": "Acusación contra Rabat sería inminente",
+    "texto": "70% rechaza mantener al ministro (Cadem, 1 nov). La oposición dice que el libelo está al 99%; RN dejará votar en conciencia (Radio U. de Chile, 8 nov)."
+   }
+  ],
+  "cierre_titulo": "Qué significa para los gremios",
+  "cierre": "Con baja aprobación y partidas rechazadas, el Gobierno necesita acuerdos. Esta semana en la Cámara es la ventana para exigir reposiciones; lo que no se logre pasa al Senado y al reajuste."
+ },
+ "frentes": [
+  {
+   "id": "presupuesto",
+   "frente": "Presupuesto 2027",
+   "pasos": "Subcomisiones|Comisión Especial Mixta (CEMP)|Cámara|Senado|Ley",
+   "paso_actual": 3,
+   "en_que_va": "La Comisión Especial Mixta de Presupuestos terminó de votar en la madrugada del viernes 6 de noviembre y pasó el proyecto a la Cámara. Quedó rechazada la partida de Educación (unos $17,3 billones) y también el aporte a la atención primaria, además de partes de SENAPRED, Aduanas y Patrimonio. El ministro Quiroz anunció que repondrá «ciertas partidas», especialmente en Educación y Salud.",
+   "que_viene": "La Sala de la Cámara vota las 33 partidas del lunes 9 al jueves 12 de noviembre. Según el calendario original, el Senado las vota del 17 al 19 de noviembre. El plazo máximo de despacho es el 30 de noviembre.",
+   "que_hacer": "Identificar qué partidas repone el Gobierno en la Sala de la Cámara y llegar a los parlamentarios antes del jueves 12.",
+   "detalle": "Educación se rechazó con 11 votos en contra, 2 a favor y 11 abstenciones (cuestionamientos a educación superior, becas, SLEP, parvularia, JUNJI y JUNAEB). Ciencia ya venía rechazada desde la subcomisión. En atención primaria, la propuesta subía el aporte por persona inscrita de $12.610 a $13.240; dos votaciones empataron 12 a 12 y quedó rechazada. Confusam sostiene que esos $630 solo incorporan programas que ya existían y pide un alza real de a lo menos $1.000. Quiroz también dijo que hay otras partidas que «probablemente» no repondrá. El Congreso solo puede rebajar gastos; aumentarlos o reponerlos depende del Ejecutivo.",
+   "carrusel": {
+    "etiqueta": "Sala de la Cámara",
+    "color": "naranjo",
+    "texto": "La Comisión Mixta rechazó **Educación** y el aporte a **atención primaria**, además de partes de SENAPRED y Aduanas. Quiroz promete reponer Educación y Salud, y dice que otras partidas «probablemente» no. Solo el Gobierno puede reponerlas.",
+    "proximo": "Cámara vota 33 partidas 9–12 nov · plazo final, 30 nov"
+   }
+  },
+  {
+   "id": "reajuste",
+   "frente": "Reajuste del sector público",
+   "pasos": "Pliego|Negociación|Congreso|Ley",
+   "paso_actual": 2,
+   "en_que_va": "El miércoles 4 de noviembre, la Mesa del Sector Público (16 organizaciones coordinadas por la CUT) entregó su pliego: reajuste de 6,3% nominal, con alza real no inferior a 2%, pisos de remuneración desde enero de 2027 y un bono mensual para rentas bajas. Hasta ahora el Gobierno no ha respondido públicamente ni fijado calendario.",
+   "que_viene": "Respuesta de Hacienda y calendario de reuniones, aún sin fecha. La Mesa pide que el reajuste rija en diciembre y no en enero.",
+   "que_hacer": "Negociar con la inflación actual: 4,5% en 12 meses a octubre, y Coopeuch proyecta 4,9% al cierre del año. Con esos números, 6,3% ya no asegura 2% real.",
+   "detalle": "El pliego pide pisos de remuneración bruta mínima de $609.766 (auxiliar), $678.612 (administrativo) y $721.885 (técnico); subir el bono mensual a $67.935 para quienes ganan hasta $727.582 brutos; y un bono de término de $250.000 o $125.000 según renta. También pide retomar la mesa de 40 horas, extender el teletrabajo hasta 2030 y una propuesta legal de estabilidad laboral. Según el pliego, el proyecto de Presupuestos actualiza remuneraciones con un factor de 2,88%, bajo la proyección de inflación del Banco Central (Emol). El reajuste anterior fue de 3,4% en dos etapas.",
+   "carrusel": {
+    "titulo": "Reajuste del Sector Público",
+    "etiqueta": "Pliego entregado",
+    "color": "naranjo",
+    "texto": "La Mesa pide **6,3% nominal** (2% real) y pisos desde **$609.766**. El Gobierno aún no responde. La inflación ya va en **4,5%** y Coopeuch proyecta **4,9%** al cierre: con ese dato, el 6,3% no alcanza para 2% real.",
+    "proximo": "calendario de reuniones con Hacienda, sin fecha aún"
+   }
+  },
+  {
+   "id": "reconstruccion",
+   "frente": "Ley de Reconstrucción (Ley 21.850)",
+   "pasos": "Congreso|Publicación|Normas del SII|Aplicación",
+   "paso_actual": 3,
+   "en_que_va": "Publicada en el Diario Oficial el 17 de octubre. El SII prepara 13 circulares y 17 resoluciones para aplicarla. No hubo novedades de fondo esta semana.",
+   "que_viene": "IVA transitorio a viviendas nuevas desde diciembre, siete medidas desde el primer día hábil de 2027 (entre ellas, cambios al crédito Sence) y rebaja del impuesto a grandes empresas, de 27% a 23%, desde enero de 2029.",
+   "que_hacer": "Seguir las circulares del SII y usar el costo fiscal de la rebaja como argumento en el reajuste.",
+   "detalle": "Funcionarios del SII cuestionaron al director Jorge Trujillo por convocar de manera discrecional a estudios jurídicos y auditoras para revisar las circulares de la ley. La rebaja gradual del impuesto de primera categoría significa menos recaudación y menos espacio para sueldos, dotaciones y programas.",
+   "carrusel": {
+    "titulo": "Ley de Reconstrucción",
+    "etiqueta": "En implementación",
+    "color": "azul",
+    "texto": "Publicada el 17 de octubre (Ley 21.850). El SII prepara 13 circulares y 17 resoluciones. Sus funcionarios cuestionaron que el director las revisara con estudios de abogados y auditoras.",
+    "proximo": "IVA a viviendas nuevas, desde diciembre"
+   }
+  },
+  {
+   "id": "contratas",
+   "frente": "Renovación de contratas 2027",
+   "pasos": "Evaluación|Aviso|Reclamo|Resolución",
+   "paso_actual": 2,
+   "en_que_va": "Los servicios están decidiendo qué contratas no renuevan. La CUT afirma que ya hay despidos en varias reparticiones, aunque no hay una cifra oficial.",
+   "que_viene": "Último día para avisar una no renovación: 30 de noviembre.",
+   "que_hacer": "Hacer una lista de las personas en riesgo y preparar reclamos ante Contraloría.",
+   "detalle": "Con cinco años o más continuos en el mismo servicio, la Corte Suprema exige que la no renovación esté bien fundamentada (confianza legítima), y obligó a Contraloría a volver a tramitar estos reclamos. La CUT advirtió que, si hay despidos masivos, habrá movilizaciones.",
+   "carrusel": {
+    "titulo": "Contratas 2027",
+    "etiqueta": "Plazo de aviso",
+    "color": "naranjo",
+    "texto": "Los servicios deciden qué contratas no renuevan. La CUT dice que ya hay despidos en varias reparticiones, sin cifra oficial. Conviene listar a las personas en riesgo y preparar reclamos ante Contraloría.",
+    "proximo": "último día para avisar no renovaciones, 30 nov"
+   }
+  }
+ ],
+ "economia": {
+  "indicadores": [
+   {
+    "pregunta": "¿Hay trabajo?",
+    "valor": "9,8%",
+    "semaforo": "rojo",
+    "estado": "Peor que hace un año",
+    "texto": "Sigue vigente el último dato: casi 1 de cada 10 personas que busca empleo no lo encuentra.",
+    "fuente": "INE, julio–septiembre 2026"
+   },
+   {
+    "pregunta": "Inflación",
+    "valor": "4,5%",
+    "semaforo": "rojo",
+    "estado": "Sigue subiendo",
+    "texto": "En octubre los precios subieron 0,5%, por transporte y alimentos. Coopeuch proyecta 4,9% a diciembre.",
+    "fuente": "INE, octubre 2026 (12 meses); Coopeuch"
+   },
+   {
+    "pregunta": "¿Recesión?",
+    "valor": "0,2%",
+    "semaforo": "amarillo",
+    "estado": "Casi detenida",
+    "texto": "El Imacec de septiembre apenas creció y la minería cayó 12,1%. El dato trimestral sale el 18 de noviembre.",
+    "fuente": "Banco Central, Imacec septiembre 2026"
+   },
+   {
+    "pregunta": "¿Y el Presupuesto?",
+    "valor": "1,5%",
+    "semaforo": "amarillo",
+    "estado": "En disputa",
+    "texto": "El gasto sube 1,5% frente a lo ejecutado en 2026. Educación y atención primaria llegan rechazadas a la Cámara.",
+    "fuente": "Gobierno (cadena nacional, 30 sept) y Comisión Mixta"
+   }
+  ],
+  "sintesis": "Los precios suben y la economía casi no crece, con desempleo alto. Para los gremios, el dato clave es la inflación de 4,5%: un reajuste por debajo de esa cifra significa perder poder de compra.",
+  "fuentes": "INE, Banco Central y Coopeuch"
+ },
+ "noticias": [
+  {
+   "fecha": "2026-11-06",
+   "tema": "Presupuesto",
+   "medio": "El Mostrador",
+   "titulo": "Comisión Mixta despacha Presupuesto 2027 con partidas de Educación y Ciencia rechazadas",
+   "resumen": "El proyecto sigue en la Cámara entre el lunes 9 y el jueves 12 de noviembre.",
+   "url": "https://www.elmostrador.cl/noticias/pais/2026/11/06/comision-mixta-despacha-presupuesto-2027-con-partidas-de-educacion-y-ciencia-rechazadas/",
+   "carrusel": true,
+   "titulo_carrusel": "Comisión Mixta despacha Presupuesto 2027 con Educación y Ciencia rechazadas",
+   "orden_carrusel": 1
+  },
+  {
+   "fecha": "2026-11-06",
+   "tema": "Presupuesto",
+   "medio": "Pauta",
+   "titulo": "Presupuesto 2027 pasa a la Cámara con Educación rechazada y Gobierno anuncia reposición de fondos",
+   "resumen": "El ministro Quiroz dice que repondrá especialmente Educación y Salud; el plazo máximo es el 30 de noviembre.",
+   "url": "https://www.pauta.cl/actualidad/2026/11/06/presupuesto-2027-pasa-a-la-camara-con-educacion-rechazada-y-gobierno-anuncia-reposicion-de-fondos.html"
+  },
+  {
+   "fecha": "2026-11-06",
+   "tema": "Presupuesto",
+   "medio": "Diario Financiero",
+   "titulo": "La minuta del Congreso: con Educación y Ciencias rechazadas, la Cámara",
+   "resumen": "Horarios de votación de las 33 partidas y agenda legislativa de la semana.",
+   "url": "https://www.df.cl/senal-df/la-minuta/la-minuta-del-congreso-con-educacion-y-ciencias-rechazadas-la-camara"
+  },
+  {
+   "fecha": "2026-11-06",
+   "tema": "Presupuesto",
+   "medio": "Cooperativa",
+   "titulo": "Presupuesto 2027 pasó a la Cámara con Educación y Ciencia rechazados",
+   "resumen": "Quiroz anuncia que la próxima semana se verá qué partidas se reponen.",
+   "url": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-2027-paso-a-la-camara-con-educacion-y-ciencia-rechazados/2026-11-06/071724.html"
+  },
+  {
+   "fecha": "2026-11-04",
+   "tema": "Reajuste",
+   "medio": "Emol",
+   "titulo": "Arrancan las negociaciones: Sector Público pide alza de 6,3% en remuneraciones y disminuir jornada a 40 horas",
+   "resumen": "Detalle del pliego de la Mesa del Sector Público.",
+   "url": "https://www.emol.com/noticias/Economia/2026/11/04/1216127/reajuste-salarial-mesa-sector-publico.html",
+   "carrusel": true,
+   "titulo_carrusel": "Arrancan las negociaciones: Sector Público pide alza de 6,3% y jornada de 40 horas",
+   "orden_carrusel": 2
+  },
+  {
+   "fecha": "2026-11-04",
+   "tema": "Reajuste",
+   "medio": "24 Horas",
+   "titulo": "Sector público pide reajuste salarial de 6,3% y suelo mínimo de $609.766 para presupuesto del 2027",
+   "resumen": "Pisos de remuneración por estamento: auxiliar, administrativo y técnico.",
+   "url": "https://www.24horas.cl/actualidad/economia/sector-publico-pide-reajuste-salarial-de-6-3-y-sueldo-minimo-presupuesto-2027-"
+  },
+  {
+   "fecha": "2026-11-04",
+   "tema": "Reajuste",
+   "medio": "Radio U. de Chile",
+   "titulo": "«No es una negociación fácil»: CUT traza línea de cara al reajuste del sector público",
+   "resumen": "La Mesa llama al Ejecutivo a recibirla lo antes posible y pide reajuste en diciembre.",
+   "url": "https://radio.uchile.cl/2026/11/04/no-es-una-negociacion-facil-cut-traza-linea-de-cara-al-reajuste-del-sector-publico-y-pide-un-alza-de-63-nominal/"
+  },
+  {
+   "fecha": "2026-11-05",
+   "tema": "Empleo público",
+   "medio": "Radio Nuevo Mundo",
+   "titulo": "Eric Campos, secretario general de la CUT: «No vamos a aceptar los despidos»",
+   "resumen": "La CUT advierte movilizaciones si hay despidos masivos y apunta al 30 de noviembre.",
+   "url": "https://radionuevomundo.cl/2026/11/eric-campos-secretario-general-de-la-cut-no-vamos-a-aceptar-los-despidos-si-hay-despidos-masivos-va-a-haber-movilizaciones/",
+   "carrusel": true,
+   "orden_carrusel": 3
+  },
+  {
+   "fecha": "2026-11-05",
+   "tema": "Salud",
+   "medio": "Radio U. de Chile",
+   "titulo": "Confusam valora rechazo al per cápita basal y presiona por un incremento real de $1.000",
+   "resumen": "El gremio dice que los $630 anunciados solo incorporan programas que ya existían.",
+   "url": "https://radio.uchile.cl/2026/11/05/confusam-valora-rechazo-a-la-propuesta-de-per-capita-basal-y-presiona-al-ejecutivo-por-un-incremento-real-de-1-000/",
+   "carrusel": true,
+   "orden_carrusel": 4
+  },
+  {
+   "fecha": "2026-11-06",
+   "tema": "Economía",
+   "medio": "Emol",
+   "titulo": "IPC de octubre sube 0,5% e inflación anual se acelera a 4,5%, lejos de la meta del Banco Central",
+   "resumen": "Transporte y alimentos explican el alza; el dato estuvo en línea con lo esperado.",
+   "url": "https://www.emol.com/noticias/Economia/2026/11/06/1216291/ipc-inflacion-economia-ine.html",
+   "carrusel": true,
+   "titulo_carrusel": "IPC de octubre sube 0,5% e inflación anual llega a 4,5%, lejos de la meta",
+   "orden_carrusel": 5
+  },
+  {
+   "fecha": "2026-11-06",
+   "tema": "Economía",
+   "medio": "INE",
+   "titulo": "Índice de Precios al Consumidor (IPC) de octubre presentó una variación mensual de 0,5%",
+   "resumen": "Comunicado oficial: 4,5% a doce meses.",
+   "url": "https://www.ine.gob.cl/sala-de-prensa/prensa/general/noticia/2026/11/06/%C3%ADndice-de-precios-al-consumidor-(ipc)-de-octubre-present%C3%B3-una-variaci%C3%B3n-mensual-de-0-5"
+  },
+  {
+   "fecha": "2026-11-06",
+   "tema": "Economía",
+   "medio": "Bloomberg Línea",
+   "titulo": "IPC: qué consecuencias tiene que la inflación acumulada supere 4,5% en Chile",
+   "resumen": "Coopeuch proyecta 4,9% al cierre de año y Scotiabank anticipa un alza de tasa en diciembre.",
+   "url": "https://www.bloomberglinea.com/latinoamerica/chile/ipc-que-consecuencias-tiene-que-la-inflacion-acumulada-supere-45-en-chile/"
+  },
+  {
+   "fecha": "2026-11-08",
+   "tema": "Economía",
+   "medio": "Chócale",
+   "titulo": "Más allá de la bencina: economistas desmenuzan el IPC de octubre y anticipan el próximo paso del Banco Central",
+   "resumen": "La mayoría espera que la tasa se mantenga en 4,5% en diciembre.",
+   "url": "https://chocale.cl/2026/11/mas-alla-de-la-bencina-economistas-desmenuzan-el-ipc-de-octubre-y-anticipan-el-proximo-paso-del-banco-central/"
+  },
+  {
+   "fecha": "2026-11-08",
+   "tema": "Política",
+   "medio": "Radio U. de Chile",
+   "titulo": "Acusación contra Rabat: oposición afirma que «van a estar los votos» y diputados RN decidirán «en conciencia»",
+   "resumen": "El libelo aún no se presenta; el Gobierno ingresaría un proyecto sobre explotación sexual infantil.",
+   "url": "https://radio.uchile.cl/2026/11/08/acusacion-contra-rabat-oposicion-afirma-que-van-a-estar-los-votos-y-diputados-rn-decidiran-en-conciencia/",
+   "carrusel": true,
+   "titulo_carrusel": "Acusación contra Rabat: oposición dice que «van a estar los votos»",
+   "orden_carrusel": 6
+  },
+  {
+   "fecha": "2026-11-08",
+   "tema": "Encuestas",
+   "medio": "Está Pasando",
+   "titulo": "Encuesta Criteria: desaprobación de Kast alcanza el 67% y aprobación cae al 24%",
+   "resumen": "Sondeo del 5 y 6 de noviembre, con 802 entrevistas.",
+   "url": "https://estapasando.cl/politica/encuesta-criteria-desaprobacion-de-kast-alcanza-el-67-y-aprobacion-cae-al-24"
+  },
+  {
+   "fecha": "2026-11-01",
+   "tema": "Encuestas",
+   "medio": "Meganoticias",
+   "titulo": "Cadem: Presidente Kast llega a un nuevo máximo de desaprobación y un 70% cuestiona la continuidad del ministro Rabat",
+   "resumen": "26% aprueba y 69% desaprueba, según la medición del 1 de noviembre.",
+   "url": "https://www.meganoticias.cl/nacional/535293-cadem-nuevo-maximo-desaprobacion-presidente-kast-cuestionamientos-continuidad-ministro-justicia-fernando-rabat-rebajas-de-condena-dcv-01-11-2026.html"
+  }
+ ]
+}
