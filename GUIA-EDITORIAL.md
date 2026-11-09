@@ -34,7 +34,7 @@ Esta guía la sigue la tarea automática de cada domingo, y sirve también para 
 
 ## Estructura de datos
 
-Cada edición vive en `ediciones/AAAA-MM-DD/edicion.json`. La fecha es el **lunes** en que se distribuye. La lista de ediciones está en `ediciones/index.json`.
+Cada edición vive en `ediciones/AAAA-MM-DD/edicion.json`. La fecha es el **lunes** en que se distribuye. La lista de ediciones está en `ediciones/index.json`. Una edición con `"archivo": false` no aparece en el selector ni en "Ediciones anteriores", que se oculta si no hay ediciones previas.
 
 Como plantilla se usa la edición anterior: se copia su `edicion.json` y se actualiza todo su contenido. Los campos son:
 

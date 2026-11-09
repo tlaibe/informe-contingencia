@@ -11,7 +11,7 @@
   const ed = await IC.edicion(meta.id);
 
   // Selector y archivo: solo ediciones publicadas, más la que se está viendo si es borrador.
-  const visibles = lista.filter((e) => e.estado === 'publicada' || e.id === meta.id).sort((a, b) => b.id.localeCompare(a.id));
+  const visibles = lista.filter((e) => (e.estado === 'publicada' && e.archivo !== false) || e.id === meta.id).sort((a, b) => b.id.localeCompare(a.id));
   const sel = $('ic-ediciones');
   visibles.forEach((e) => {
     const o = new Option('N° ' + e.numero + ' · ' + e.rango + (e.estado !== 'publicada' ? ' (borrador)' : ''), e.id);
@@ -30,6 +30,9 @@
     li.append(a);
     $('ic-archivo').append(li);
   });
+
+  // Sin ediciones previas no hay archivo que mostrar.
+  $('archivo').style.display = visibles.length < 2 ? 'none' : '';
 
   // Encabezado
   $('ic-kicker').textContent = 'Edición N° ' + ed.numero + ' · ' + ed.rango;
