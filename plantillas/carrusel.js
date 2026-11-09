@@ -51,7 +51,7 @@
     const mid = css(el('div'), 'display:flex;flex-direction:column;gap:28px;position:relative');
     mid.append(
       css(el('div', null, (ed.portada && ed.portada.kicker) || ('Edición N° ' + ed.numero + ' · ' + ed.rango)), `font-size:26px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:${ORANGE}`),
-      css(el('h1', null, 'Informe de Contingencia'), 'margin:0;font-size:116px;line-height:1.0;font-weight:800;letter-spacing:-2px'),
+      css(el('h1', null, 'Radar Informativo'), 'margin:0;font-size:116px;line-height:1.0;font-weight:800;letter-spacing:-2px'),
       css(el('div'), `width:140px;height:8px;background:${ORANGE};border-radius:4px`),
       css(el('p', null, (ed.portada && ed.portada.bajada) || ''), 'margin:0;font-size:36px;line-height:1.35;font-weight:500;color:rgba(255,255,255,0.88);max-width:880px')
     );
@@ -69,7 +69,7 @@
     return s;
   }
 
-  // 02 Resumen político
+  // 03 Resumen político
   function resumen() {
     const s = base('#F4F5F7');
     s.style.gap = '32px';
@@ -84,11 +84,11 @@
       cuerpo.append(c);
     });
     cuerpo.append(cajaAzul(ed.resumen.cierre_titulo || 'Qué significa para los gremios', ed.resumen.cierre, 27));
-    s.append(encabezado(2), titulo('Nuestra lectura de la semana', 'Resumen político'), cuerpo);
+    s.append(encabezado(3), titulo('Nuestra lectura de la semana', 'Resumen político'), cuerpo);
     return s;
   }
 
-  // 03 Seguimiento legislativo
+  // 04 Seguimiento legislativo
   function legislativo() {
     const s = base('#F4F5F7');
     const cuerpo = css(el('div'), 'display:flex;flex-direction:column;gap:16px;flex-grow:1;justify-content:space-between');
@@ -103,11 +103,11 @@
       c.append(h, css(rich('p', null, k.texto), `margin:0;font-size:23px;line-height:1.42;font-weight:500;color:${BODY}`), css(el('span', null, 'Próximo: ' + k.proximo), `font-size:21px;font-weight:700;color:${ORANGE_T}`));
       cuerpo.append(c);
     });
-    s.append(encabezado(3), titulo('En qué va cada tema', 'Seguimiento legislativo', 64), cuerpo);
+    s.append(encabezado(4), titulo('En qué va cada tema', 'Seguimiento legislativo', 64), cuerpo);
     return s;
   }
 
-  // 04 Economía en fácil
+  // 02 Economía en fácil
   function economia() {
     const s = base('#F4F5F7');
     s.style.gap = '24px';
@@ -123,12 +123,12 @@
     });
     const pie = css(el('div'), `display:flex;align-items:center;gap:20px;font-size:20px;font-weight:600;color:${GRAY}`);
     pie.append(css(el('div'), `width:64px;height:5px;background:${ORANGE};border-radius:3px`), el('span', null, 'Fuentes: ' + (ed.economia.fuentes || '')));
-    s.append(encabezado(4), titulo('Datos en fácil', '¿Cómo está la economía?', 60), grid, cajaAzul('En síntesis', ed.economia.sintesis, 24), pie);
+    s.append(encabezado(2), titulo('Datos en fácil', '¿Cómo está la economía?', 60), grid, cajaAzul('En síntesis', ed.economia.sintesis, 24), pie);
     return s;
   }
 
-  // 05 Radar de noticias
-  function radar() {
+  // 05 Noticias de la semana
+  function noticias() {
     const s = base('#F4F5F7');
     s.style.gap = '32px';
     const caja = css(el('div'), 'background:#fff;border-radius:20px;padding:14px 40px;display:flex;flex-direction:column;flex-grow:1;justify-content:space-around');
@@ -141,11 +141,11 @@
       );
       caja.append(d);
     });
-    s.append(encabezado(5), titulo('Lo que hay que leer', 'Radar de noticias'), caja);
+    s.append(encabezado(5), titulo('Lo que hay que leer', 'Noticias de la semana', 64), caja);
     return s;
   }
 
-  const laminas = [portada, resumen, legislativo, economia, radar];
+  const laminas = [portada, economia, resumen, legislativo, noticias];
   const pedida = Number(IC.param('lamina'));
   const cont = document.getElementById('laminas');
   if (pedida >= 1 && pedida <= TOTAL) cont.append(laminas[pedida - 1]());

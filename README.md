@@ -1,6 +1,6 @@
-# Informe de Contingencia · Ingeniería Institucional
+# Radar Informativo · Ingeniería Institucional
 
-Lo que todo dirigente necesita saber para empezar la semana: resumen político, seguimiento legislativo, economía en fácil y radar de noticias. Es un aporte semanal y de libre distribución de Ingeniería Institucional para la construcción de buena política pública.
+Lo que todo dirigente necesita saber para empezar la semana: economía en fácil, resumen político, seguimiento legislativo y noticias de la semana. Es un aporte semanal y de libre distribución de Ingeniería Institucional para la construcción de buena política pública.
 
 - **Sitio:** https://tlaibe.github.io/informe-contingencia/ (siempre muestra la edición vigente y permite revisar las anteriores).
 - **Carrusel:** cada edición tiene sus 5 imágenes en `ediciones/AAAA-MM-DD/carrusel/`.

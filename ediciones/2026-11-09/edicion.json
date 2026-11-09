@@ -127,12 +127,12 @@
     "fuente": "Banco Central, Imacec septiembre 2026"
    },
    {
-    "pregunta": "Gasto del Estado",
+    "pregunta": "Presupuesto 2027",
     "valor": "1,5%",
     "semaforo": "amarillo",
-    "estado": "En discusión",
-    "texto": "Es lo que crecería el gasto total en 2027, frente a lo gastado en 2026. Educación y atención primaria siguen en disputa.",
-    "fuente": "Gobierno (cadena nacional, 30 sept) y Comisión Mixta"
+    "estado": "No es reactivador",
+    "texto": "Es lo que crecería el gasto total en 2027, frente a lo gastado en 2026: un crecimiento bajo.",
+    "fuente": "Gobierno (cadena nacional, 30 sept)"
    }
   ],
   "sintesis": "Los precios suben y la economía casi no crece, con desempleo alto. Para los gremios, el dato clave es la inflación de 4,5%: un reajuste por debajo de esa cifra significa perder poder de compra.",

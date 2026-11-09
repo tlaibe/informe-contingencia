@@ -1,4 +1,4 @@
-# Guía editorial y de producción · Informe de Contingencia
+# Guía editorial y de producción · Radar Informativo
 
 Esta guía la sigue la tarea automática de cada domingo, y sirve también para quien prepare una edición a mano. Si cambia el criterio editorial, se edita este archivo.
 
@@ -9,10 +9,10 @@ Esta guía la sigue la tarea automática de cada domingo, y sirve también para 
 - **Formatos:** sitio web (este repositorio, con GitHub Pages) y carrusel de 5 imágenes (1080 × 1350).
 - **Ciclo:** se prepara el domingo y queda listo a las 21:00 como **borrador**. Se publica cuando Tomás Laibe o Andrés Smith lo aprueban, y se distribuye el lunes a primera hora.
 - **Secciones, en este orden:**
-  1. Resumen político
-  2. Seguimiento legislativo
-  3. Economía en fácil
-  4. Radar de noticias
+  1. Economía en fácil (datos)
+  2. Resumen político
+  3. Seguimiento legislativo
+  4. Noticias de la semana
 
 ## Criterios de escritura
 

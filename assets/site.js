@@ -34,14 +34,14 @@
   // Encabezado
   $('ic-kicker').textContent = 'Edición N° ' + ed.numero + ' · ' + ed.rango;
   $('ic-bajada').textContent = (ed.portada && ed.portada.bajada) || '';
-  document.title = 'Informe de Contingencia N° ' + ed.numero + ' · Ingeniería Institucional';
+  document.title = 'Radar Informativo N° ' + ed.numero + ' · Ingeniería Institucional';
   $('ic-borrador').hidden = ed.estado === 'publicada';
   $('ic-anterior').hidden = !(ed.estado === 'publicada' && vig && ed.id !== vig.id);
   const desc = $('ic-descarga');
   desc.href = 'ediciones/' + ed.id + '/carrusel/';
   desc.hidden = false;
 
-  // 01 Resumen político
+  // 02 Resumen político
   (ed.resumen.items || []).forEach((r) => {
     const c = el('article', 'ic-card ic-pol-item');
     c.append(el('span', 'ic-pol-num', r.cifra), el('span', 'ic-pol-lab', r.etiqueta), el('h3', null, r.titulo), rich('p', null, r.texto));
@@ -50,7 +50,7 @@
   $('ic-cierre-titulo').textContent = ed.resumen.cierre_titulo || 'Qué significa para los gremios';
   $('ic-cierre').textContent = ed.resumen.cierre || '';
 
-  // 02 Seguimiento legislativo
+  // 03 Seguimiento legislativo
   (ed.frentes || []).forEach((f) => {
     const c = el('article', 'ic-card ic-f');
     const head = el('div', 'ic-f-head');
@@ -69,7 +69,7 @@
     $('ic-frentes').append(c);
   });
 
-  // 03 Economía en fácil
+  // 01 Economía en fácil
   (ed.economia.indicadores || []).forEach((i) => {
     const c = el('article', 'ic-card ic-ind');
     c.append(el('h3', null, i.pregunta), el('span', 'ic-ind-val', i.valor), el('span', 'ic-light ' + i.semaforo, i.estado), rich('p', null, i.texto), el('span', 'ic-ind-src', 'Fuente: ' + i.fuente));
@@ -77,7 +77,7 @@
   });
   $('ic-econ-sintesis').textContent = ed.economia.sintesis || '';
 
-  // 04 Radar de noticias
+  // 04 Noticias de la semana
   const grupos = new Map();
   (ed.noticias || []).slice().sort((a, b) => String(b.fecha).localeCompare(String(a.fecha))).forEach((n) => {
     if (!grupos.has(n.tema)) grupos.set(n.tema, []);

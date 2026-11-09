@@ -24,7 +24,7 @@ const server = http.createServer((req, res) => {
   fs.createReadStream(file).pipe(res);
 });
 
-const nombres = ['01-portada', '02-resumen-politico', '03-seguimiento-legislativo', '04-economia-en-facil', '05-radar-de-noticias'];
+const nombres = ['01-portada', '02-economia-en-facil', '03-resumen-politico', '04-seguimiento-legislativo', '05-noticias-de-la-semana'];
 
 server.listen(0, '127.0.0.1', async () => {
   const port = server.address().port;
@@ -59,7 +59,7 @@ server.listen(0, '127.0.0.1', async () => {
   const items = nombres.map((n) => `<figure><img src="${n}.png" alt="${n}" loading="lazy"><figcaption><a href="${n}.png" download>Descargar ${n}.png</a></figcaption></figure>`).join('\n');
   fs.writeFileSync(path.join(salida, 'index.html'), `<!doctype html>
 <html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Carrusel N° ${ed.numero} · Informe de Contingencia</title>
+<title>Carrusel N° ${ed.numero} · Radar Informativo</title>
 <link rel="stylesheet" href="../../../assets/fonts.css">
 <style>body{margin:0;background:#F4F5F7;color:#0B2D5E;font-family:Montserrat,system-ui,sans-serif;padding:24px}
 main{max-width:1100px;margin:0 auto}h1{font-size:1.5rem}a{color:#C2410C;font-weight:700}
