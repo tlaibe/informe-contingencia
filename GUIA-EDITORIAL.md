@@ -9,7 +9,7 @@ Esta guía la sigue la tarea automática de cada domingo, y sirve también para 
 - **Formatos:** sitio web (este repositorio, con GitHub Pages) y carrusel de 5 imágenes (1080 × 1350).
 - **Ciclo:** se prepara el domingo y queda listo a las 21:00 como **borrador**. Se publica cuando Tomás Laibe o Andrés Smith lo aprueban, y se distribuye el lunes a primera hora.
 - **Secciones, en este orden:**
-  1. Economía en fácil (datos)
+  1. Datos en fácil (economía sobre todo, pero no solo: también otros datos duros de la semana)
   2. Resumen político
   3. Seguimiento legislativo
   4. Noticias de la semana
@@ -45,7 +45,7 @@ Como plantilla se usa la edición anterior: se copia su `edicion.json` y se actu
   - Para el sitio: `frente`, `pasos` (etapas separadas por `|`), `paso_actual` (empieza en 1), `en_que_va`, `que_viene`, `que_hacer` y `detalle` (opcional, más extenso).
   - Para el carrusel, en `carrusel`: `titulo`, `etiqueta` (la etapa, en pocas palabras), `color` (`"naranjo"` si hay una urgencia o algo en juego esta semana, `"azul"` si está en implementación o estable), `texto` (hasta unos 230 caracteres; se puede usar `**negrita**` en cifras clave) y `proximo` (el próximo hito con fecha).
   - Se arrastran los de la semana anterior: se actualizan, se sacan los cerrados y se agregan los nuevos relevantes para trabajadores del sector público. Máximo 4 con `carrusel`.
-- `economia.indicadores`: exactamente 4, en lenguaje simple. Cada uno con `pregunta`, `valor`, `semaforo` (`rojo`, `amarillo` o `verde`), `estado` (2 a 4 palabras), `texto` (hasta unos 130 caracteres) y `fuente`. Además, `economia.sintesis` (hasta unos 230 caracteres, que amarre los 4 datos) y `economia.fuentes`.
+- `economia.indicadores` (sección "Datos en fácil"): exactamente 4, en lenguaje simple. **No repetir los datos de la edición anterior**: cada semana se eligen los 4 datos más relevantes de esa semana; un dato ya publicado solo se repite si cambió o si es indispensable, y se explica qué hay de nuevo. Puede llevar `economia.titulo` (título de la lámina; por defecto "Los datos de la semana"). Cada uno con `pregunta`, `valor`, `semaforo` (`rojo`, `amarillo` o `verde`), `estado` (2 a 4 palabras), `texto` (hasta unos 130 caracteres) y `fuente`. Además, `economia.sintesis` (hasta unos 230 caracteres, que amarre los 4 datos) y `economia.fuentes`.
 - `noticias`: entre 10 y 18 notas, con `fecha` (AAAA-MM-DD), `tema`, `medio`, `titulo`, `resumen` (una línea propia) y `url` (https). Exactamente 6 llevan `carrusel: true` y `orden_carrusel` del 1 al 6; pueden llevar `titulo_carrusel` si el titular original es muy largo (máximo unos 95 caracteres).
 
 ## Producción paso a paso

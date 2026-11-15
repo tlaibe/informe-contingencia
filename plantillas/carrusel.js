@@ -107,7 +107,7 @@
     return s;
   }
 
-  // 02 Economía en fácil
+  // 02 Datos en fácil
   function economia() {
     const s = base('#F4F5F7');
     s.style.gap = '24px';
@@ -123,7 +123,7 @@
     });
     const pie = css(el('div'), `display:flex;align-items:center;gap:20px;font-size:20px;font-weight:600;color:${GRAY}`);
     pie.append(css(el('div'), `width:64px;height:5px;background:${ORANGE};border-radius:3px`), el('span', null, 'Fuentes: ' + (ed.economia.fuentes || '')));
-    s.append(encabezado(2), titulo('Datos en fácil', '¿Cómo está la economía?', 60), grid, cajaAzul('En síntesis', ed.economia.sintesis, 24), pie);
+    s.append(encabezado(2), titulo('Datos en fácil', ed.economia.titulo || 'Los datos de la semana', 60), grid, cajaAzul('En síntesis', ed.economia.sintesis, 24), pie);
     return s;
   }
 

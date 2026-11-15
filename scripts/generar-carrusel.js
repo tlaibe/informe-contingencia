@@ -24,7 +24,7 @@ const server = http.createServer((req, res) => {
   fs.createReadStream(file).pipe(res);
 });
 
-const nombres = ['01-portada', '02-economia-en-facil', '03-resumen-politico', '04-seguimiento-legislativo', '05-noticias-de-la-semana'];
+const nombres = ['01-portada', '02-datos-en-facil', '03-resumen-politico', '04-seguimiento-legislativo', '05-noticias-de-la-semana'];
 
 server.listen(0, '127.0.0.1', async () => {
   const port = server.address().port;

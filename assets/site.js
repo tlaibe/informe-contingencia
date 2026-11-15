@@ -72,7 +72,7 @@
     $('ic-frentes').append(c);
   });
 
-  // 01 Economía en fácil
+  // 01 Datos en fácil
   (ed.economia.indicadores || []).forEach((i) => {
     const c = el('article', 'ic-card ic-ind');
     c.append(el('h3', null, i.pregunta), el('span', 'ic-ind-val', i.valor), el('span', 'ic-light ' + i.semaforo, i.estado), rich('p', null, i.texto), el('span', 'ic-ind-src', 'Fuente: ' + i.fuente));

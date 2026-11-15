@@ -16,10 +16,10 @@
     "texto": "Criteria (12–13 nov): 18% aprueba a Kast y 72% desaprueba, su peor marca desde que asumió. Una semana antes, Cadem (8 nov) lo dejaba en 29%."
    },
    {
-    "cifra": "80%",
-    "etiqueta": "apoyó el paro camionero",
-    "titulo": "Paro camionero logró rebaja",
-    "texto": "80% estuvo a favor del paro de camioneros (Criteria, 12–13 nov). El 12 de noviembre el Gobierno bajó $140 el diésel y congeló alzas hasta marzo (Presidencia, vía Chócale)."
+    "cifra": "900",
+    "etiqueta": "millones de dólares cuesta el acuerdo",
+    "titulo": "Acuerdo camionero: caro y exprés",
+    "texto": "US$900 millones en 2026–2027 (Gobierno, 13 nov), frente a US$30 millones del acuerdo de 2023. 80% apoyó el paro (Criteria). La Cámara vota la ley el lunes 16."
    },
    {
     "cifra": "79%",
@@ -29,7 +29,7 @@
    }
   ],
   "cierre_titulo": "Qué significa para los gremios",
-  "cierre": "Un Gobierno con baja aprobación cedió en días ante una presión focalizada. Con el Presupuesto en el Senado y el reajuste sin respuesta, esta semana es clave para presionar con datos."
+  "cierre": "Un Gobierno con baja aprobación cedió en días y comprometió US$900 millones ante una presión focalizada. Con el Presupuesto en el Senado y el reajuste sin respuesta, es la semana de presionar con datos."
  },
  "frentes": [
   {
@@ -37,15 +37,32 @@
    "frente": "Presupuesto 2027",
    "pasos": "Subcomisiones|Comisión Especial Mixta (CEMP)|Cámara|Senado|Ley",
    "paso_actual": 4,
-   "en_que_va": "La Cámara despachó el proyecto al Senado pasadas las 6:00 del viernes 13 de noviembre, tras más de 21 horas de sesión. Rechazó seis partidas: Educación (empate 72 a 72), Interior, Secretaría General de Gobierno, Minería, Mujer y Equidad de Género, y Culturas. Salud se aprobó 82 a 41 y la Sala repuso los recursos para gastos variables de la atención primaria. El Gobierno no repuso partidas en la Cámara.",
+   "en_que_va": "La Cámara despachó el proyecto al Senado pasadas las 6:00 del viernes 13 de noviembre, tras más de 21 horas de sesión, con siete partidas rechazadas: Educación, Interior, Secretaría General de Gobierno, Minería, Mujer y Equidad de Género, Culturas y Ciencia (esta última ya venía rechazada desde la Comisión Mixta). También rechazó la autorización de endeudamiento por US$25.000 millones y recursos de Aduanas, Mejor Niñez, SAG y la Dirección del Trabajo. Salud se aprobó 82 a 41 y la Sala repuso los gastos variables de la atención primaria.",
    "que_viene": "El Senado discute el proyecto esta semana. El ministro Quiroz anunció que buscará reponer las partidas rechazadas «con algunos ajustes» y conversar a fondo Educación con los parlamentarios. Si el Senado cambia el texto, vuelve a la Cámara y puede ir a comisión mixta. Plazo constitucional: 60 días desde su ingreso, el 30 de septiembre.",
    "que_hacer": "Llevar a los senadores, antes de que voten, qué programas y dotaciones de cada servicio dependen de las partidas rechazadas, y pedir su reposición concreta.",
-   "detalle": "En Trabajo y Previsión Social se aprobó la partida, pero se rechazaron recursos de la Dirección del Trabajo y de las subsecretarías del Trabajo y de Previsión Social (Pauta). También se rechazó el endeudamiento de hasta US$25 mil millones, la asignación del INDH y un artículo que permitía iniciar obras sin esperar la toma de razón de Contraloría (Chilevisión, BioBioChile). Seguridad Pública sube 7% (Chilevisión). El Colegio de Profesores pide reponer el FAEP, el presupuesto de los SLEP, Yo Elijo Mi PC e infraestructura (G5 Noticias, 11 nov). El Congreso solo puede rebajar gastos; reponerlos depende del Ejecutivo.",
+   "detalle": "Motivos de los rechazos: en Educación, el programa Yo Elijo Mi PC, entre otros (empate 72 a 72); en Interior, la reducción a SENAPRED; en Segegob, críticas al manejo comunicacional y al aumento de recursos para la Secretaría de Comunicaciones; en Minería, Codelco y los recursos de fiscalización de Sernageomin; en Mujer y Equidad de Género, la eliminación de Prodemu; en Culturas, la reducción presupuestaria; y Ciencia ya venía rechazada desde la Comisión Mixta. También se rechazaron la asignación del INDH y un artículo que permitía iniciar obras sin esperar la toma de razón de Contraloría (Chilevisión, BioBioChile). Seguridad Pública sube 7% (Chilevisión). El Colegio de Profesores pide reponer el FAEP, el presupuesto de los SLEP, Yo Elijo Mi PC e infraestructura (G5 Noticias, 11 nov). El Congreso solo puede rebajar gastos; reponerlos depende del Ejecutivo.",
    "carrusel": {
     "etiqueta": "Senado",
     "color": "naranjo",
-    "texto": "La Cámara rechazó **6 partidas**, entre ellas **Educación** (empate 72–72) e Interior. Salud se aprobó y se repuso el gasto variable de **atención primaria**. Quiroz promete reponer lo rechazado en el Senado «con ajustes».",
+    "texto": "La Cámara rechazó **7 partidas**: Educación, Interior, Segegob, Minería, Mujer, Culturas y Ciencia. También el endeudamiento por **US$25.000 millones** y fondos de Aduanas, Mejor Niñez, SAG y DT. Quiroz busca reponerlas en el Senado.",
     "proximo": "Senado discute esta semana · plazo, fines de noviembre"
+   }
+  },
+  {
+   "id": "combustibles",
+   "frente": "Ley de combustibles (acuerdo con camioneros)",
+   "pasos": "Acuerdo|Cámara|Senado|Ley",
+   "paso_actual": 2,
+   "en_que_va": "El 12 de noviembre el Gobierno acordó con la mayoría de los gremios de camioneros bajar $140 el litro de diésel, congelar las alzas de combustibles hasta el 31 de marzo de 2027 y aumentar la devolución del impuesto específico al diésel. El Gobierno estima su costo en US$900 millones: unos US$500 millones en 2026 y US$400 millones en 2027 (vocería, 13 nov).",
+   "que_viene": "La Sala de la Cámara vota el proyecto el lunes 16 de noviembre, entre 15:00 y 17:00, con discusión inmediata (Boletín 18885-05). El plazo de la urgencia vence el 18 de noviembre.",
+   "que_hacer": "Usar el costo y la rapidez de este acuerdo como referencia en la negociación del reajuste y en la reposición de partidas del Presupuesto.",
+   "detalle": "El acuerdo de 2023 del gobierno anterior con los mismos gremios costó US$30 millones. Según el exministro Ignacio Briones, solo el aumento de la devolución del impuesto al diésel costaría US$100 millones al año en régimen, unos $3,5 millones promedio por camionero (Radio U. de Chile, 14 nov). Hacienda dijo el 13 de noviembre que su informe financiero estaba en desarrollo (BioBioChile).",
+   "carrusel": {
+    "titulo": "Ley de combustibles",
+    "etiqueta": "Cámara, lunes 16",
+    "color": "naranjo",
+    "texto": "Concreta el acuerdo con camioneros: diésel **$140** más barato y alzas congeladas hasta marzo. Cuesta **US$900 millones** en 2026–2027, frente a **US$30 millones** del acuerdo de 2023.",
+    "proximo": "Sala de la Cámara, lun 16 nov · discusión inmediata"
    }
   },
   {
@@ -90,53 +107,47 @@
    "en_que_va": "Publicada en el Diario Oficial el 17 de octubre. El SII prepara 13 circulares y 17 resoluciones para aplicarla. No hubo novedades de fondo esta semana.",
    "que_viene": "IVA transitorio a viviendas nuevas desde diciembre, siete medidas desde el primer día hábil de 2027 (entre ellas, cambios al crédito Sence) y rebaja del impuesto a grandes empresas, de 27% a 23%, desde enero de 2029.",
    "que_hacer": "Seguir las circulares del SII y usar el costo fiscal de la rebaja como argumento en el reajuste.",
-   "detalle": "Funcionarios del SII cuestionaron al director Jorge Trujillo por convocar de manera discrecional a estudios jurídicos y auditoras para revisar las circulares de la ley. La rebaja gradual del impuesto de primera categoría significa menos recaudación y menos espacio para sueldos, dotaciones y programas.",
-   "carrusel": {
-    "titulo": "Ley de Reconstrucción",
-    "etiqueta": "En implementación",
-    "color": "azul",
-    "texto": "Publicada el 17 de octubre (Ley 21.850). El SII prepara 13 circulares y 17 resoluciones. Sin novedades de fondo esta semana.",
-    "proximo": "IVA a viviendas nuevas, desde diciembre"
-   }
+   "detalle": "Funcionarios del SII cuestionaron al director Jorge Trujillo por convocar de manera discrecional a estudios jurídicos y auditoras para revisar las circulares de la ley. La rebaja gradual del impuesto de primera categoría significa menos recaudación y menos espacio para sueldos, dotaciones y programas."
   }
  ],
  "economia": {
+  "titulo": "Los datos de la semana",
   "indicadores": [
    {
-    "pregunta": "¿Hay trabajo?",
-    "valor": "9,8%",
-    "semaforo": "rojo",
-    "estado": "Peor que hace un año",
-    "texto": "Sigue vigente el último dato: casi 1 de cada 10 personas que busca empleo no lo encuentra.",
-    "fuente": "INE, julio–septiembre 2026"
-   },
-   {
-    "pregunta": "Inflación",
-    "valor": "4,5%",
-    "semaforo": "rojo",
-    "estado": "Alta, lejos de la meta",
-    "texto": "Sigue el dato de octubre. Los expertos esperan 0,4% en noviembre; el diésel bajó $140 desde el 12 de noviembre.",
-    "fuente": "INE, octubre 2026 (12 meses); Banco Central, EEE noviembre"
-   },
-   {
-    "pregunta": "¿Recesión?",
+    "pregunta": "¿Crecerá la economía?",
     "valor": "0,0%",
     "semaforo": "rojo",
-    "estado": "Economía estancada",
-    "texto": "Es lo que los expertos esperan que crezca la economía en 2026. Quiroz admitió una «recesión técnica». PIB del trimestre: 18 nov.",
+    "estado": "Estancada",
+    "texto": "Es lo que los expertos esperan que crezca en 2026 (antes, 0,3%). Quiroz admitió una «recesión técnica».",
     "fuente": "Banco Central, EEE noviembre 2026; Emol, 11 nov"
    },
    {
     "pregunta": "Presupuesto 2027",
-    "valor": "1,5%",
+    "valor": "7",
+    "semaforo": "rojo",
+    "estado": "Partidas rechazadas",
+    "texto": "Las rechazó la Cámara, entre ellas Educación e Interior. El Gobierno intentará reponerlas en el Senado.",
+    "fuente": "Cámara de Diputados; prensa, 13 nov"
+   },
+   {
+    "pregunta": "Reintegro al diésel",
+    "valor": "US$100M",
     "semaforo": "amarillo",
-    "estado": "No es reactivador",
-    "texto": "Es lo que crecería el gasto total en 2027. La Cámara rechazó 6 partidas y el Gobierno intentará reponerlas en el Senado.",
-    "fuente": "Gobierno (cadena nacional, 30 sept); BioBioChile, 13 nov"
+    "estado": "Costo cada año",
+    "texto": "Es lo que costaría subir la devolución del impuesto al diésel: $3,5 millones promedio por camionero.",
+    "fuente": "Ignacio Briones en X, vía Radio U. de Chile, 14 nov"
+   },
+   {
+    "pregunta": "¿Bajarán los créditos?",
+    "valor": "4,5%",
+    "semaforo": "amarillo",
+    "estado": "Sin baja a la vista",
+    "texto": "Es la tasa del Banco Central. Los expertos no esperan bajas hasta fines de 2027: los créditos seguirán caros.",
+    "fuente": "Banco Central, EEE noviembre 2026"
    }
   ],
-  "sintesis": "La economía no crece, el desempleo sigue alto y los precios siguen altos. Para los gremios, el piso es la inflación de 4,5%: un reajuste menor significa perder poder de compra.",
-  "fuentes": "INE, Banco Central, Gobierno y prensa citada"
+  "sintesis": "La economía no crece y el Gobierno comprometió US$900 millones en días para los camioneros. Ese precedente pesa en el reajuste, que al menos debe cubrir la inflación de 4,5% (INE, octubre).",
+  "fuentes": "Banco Central, INE, Gobierno y prensa citada"
  },
  "noticias": [
   {
@@ -144,7 +155,7 @@
    "tema": "Presupuesto",
    "medio": "BioBioChile",
    "titulo": "Cámara de Diputados despacha Presupuesto 2027 tras más de 21 horas de tramitación: ahora va al Senado",
-   "resumen": "Seis partidas rechazadas, entre ellas Educación e Interior; el Gobierno intentará reponerlas en el Senado.",
+   "resumen": "Siete partidas rechazadas, entre ellas Educación e Interior; el Gobierno intentará reponerlas en el Senado.",
    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/13/camara-de-diputados-despacha-el-presupuesto-2027-tras-mas-de-21-horas-de-tramitacion.shtml",
    "carrusel": true,
    "titulo_carrusel": "Cámara despacha Presupuesto 2027 tras más de 21 horas: ahora va al Senado",
@@ -163,7 +174,7 @@
    "tema": "Presupuesto",
    "medio": "Chilevisión",
    "titulo": "Cámara despachó Presupuesto 2027 al Senado: luz verde a Seguridad y rechazan fondos de seis carteras",
-   "resumen": "Seguridad Pública sube 7%; también se rechazó el endeudamiento de hasta US$25 mil millones.",
+   "resumen": "Seguridad Pública sube 7%; también se rechazó el endeudamiento de hasta US$25.000 millones.",
    "url": "https://www.chilevision.cl/noticias/nacional/camara-despacho-presupuesto-2027-al-senado-luz-verde-a-seguridad-y-rechazan-fondos-de-seis-carteras/"
   },
   {
@@ -173,6 +184,33 @@
    "titulo": "Presupuesto 2027 en Chile: Cámara lo aprueba y lo despacha al Senado",
    "resumen": "Salud aprobada 82 a 41 y repuestos los gastos variables de la atención primaria.",
    "url": "https://www.pauta.cl/actualidad/2026/11/13/camara-de-diputados-aprueba-el-presupuesto-2027-y-lo-despacha-al-senado.html"
+  },
+  {
+   "fecha": "2026-11-13",
+   "tema": "Costo de la vida",
+   "medio": "T13",
+   "titulo": "Gobierno confirma que gasto fiscal por acuerdo con camioneros alcanzará los USD$900 millones",
+   "resumen": "Unos US$500 millones este año y US$400 millones en 2027, según la vocería.",
+   "url": "https://www.t13.cl/noticia/politica/gobierno-confirma-gasto-fiscal-por-acuerdo-camioneros-sera-usd900-millones-13-11-2026",
+   "carrusel": true,
+   "titulo_carrusel": "Gobierno confirma que acuerdo con camioneros costará US$900 millones",
+   "orden_carrusel": 2
+  },
+  {
+   "fecha": "2026-11-14",
+   "tema": "Costo de la vida",
+   "medio": "Radio U. de Chile",
+   "titulo": "Briones cuestiona acuerdo del Gobierno con camioneros: \"Nada mal el premio por vulnerar el Estado de derecho\"",
+   "resumen": "El exministro calcula US$100 millones al año solo por el mayor reintegro al diésel.",
+   "url": "https://radio.uchile.cl/2026/11/14/briones-cuestiona-acuerdo-del-gobierno-con-camioneros-nada-mal-el-premio-por-vulnerar-el-estado-de-derecho/"
+  },
+  {
+   "fecha": "2026-11-15",
+   "tema": "Costo de la vida",
+   "medio": "Radio U. de Chile",
+   "titulo": "Acuerdo con camioneros: oficialismo respalda tramitación exprés en medio de críticas internas y de la oposición",
+   "resumen": "El proyecto se vota en la Cámara el lunes 16 con discusión inmediata.",
+   "url": "https://radio.uchile.cl/2026/11/15/acuerdo-con-camioneros-oficialismo-respalda-tramitacion-expres-en-medio-de-criticas-internas-y-de-la-oposicion/"
   },
   {
    "fecha": "2026-11-11",
@@ -190,7 +228,7 @@
    "resumen": "Cacerolazo el martes 17 y marcha nacional de la CUT el miércoles 18 de noviembre.",
    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/14/cut-confech-y-8m-anuncian-cacerolazo-y-marchas-contra-los-recortes-y-el-alto-costo-de-vida.shtml",
    "carrusel": true,
-   "orden_carrusel": 2
+   "orden_carrusel": 3
   },
   {
    "fecha": "2026-11-09",
@@ -200,7 +238,7 @@
    "resumen": "Plan aprobado por su Asamblea Nacional; cerca del 70% de la administración central está a contrata.",
    "url": "https://elsiglo.cl/anef-anuncia-movilizaciones-escalonadas-ante-recortes-y-no-renovaciones/",
    "carrusel": true,
-   "orden_carrusel": 3
+   "orden_carrusel": 4
   },
   {
    "fecha": "2026-11-14",
@@ -211,7 +249,7 @@
    "url": "https://www.elmostrador.cl/noticias/2026/11/14/funcionarios-de-migraciones-cuestionan-falta-de-transparencia-ante-anuncio-de-nuevos-despidos/",
    "carrusel": true,
    "titulo_carrusel": "Funcionarios de Migraciones cuestionan falta de transparencia ante nuevos despidos",
-   "orden_carrusel": 4
+   "orden_carrusel": 5
   },
   {
    "fecha": "2026-11-11",
@@ -219,9 +257,7 @@
    "medio": "Chócale",
    "titulo": "Quiroz reconoce por primera vez que Chile está en recesión técnica",
    "resumen": "El ministro lo atribuye a la caída del cobre; el PIB del tercer trimestre se conoce el 18 de noviembre.",
-   "url": "https://chocale.cl/2026/11/quiroz-reconoce-por-primera-vez-que-chile-esta-en-recesion-tecnica/",
-   "carrusel": true,
-   "orden_carrusel": 5
+   "url": "https://chocale.cl/2026/11/quiroz-reconoce-por-primera-vez-que-chile-esta-en-recesion-tecnica/"
   },
   {
    "fecha": "2026-11-12",
