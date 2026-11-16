@@ -16,10 +16,10 @@
     "texto": "Criteria (12–13 nov): 18% aprueba y 72% desaprueba, su peor marca desde que asumió. Cadem (15 nov): 27% aprueba y 52% dice que no le gusta y que ha hecho un mal gobierno."
    },
    {
-    "cifra": "900",
-    "etiqueta": "millones de dólares cuesta el acuerdo",
+    "cifra": "3,5",
+    "etiqueta": "millones de pesos por camionero",
     "titulo": "Acuerdo con camioneros: 30 veces más caro que en 2023",
-    "texto": "US$900 millones en 2026–2027 (Gobierno), frente a US$30 millones en 2023. 80% apoyó el paro (Criteria). La Cámara vota la ley este lunes 16."
+    "texto": "El mayor reintegro al diésel costará US$100 millones al año: $3,5 millones promedio por camionero (Briones). La Cámara vota la ley este lunes 16."
    },
    {
     "cifra": "81%",
@@ -114,12 +114,12 @@
   "titulo": "Los datos de la semana",
   "indicadores": [
    {
-    "pregunta": "¿Cuánto por camionero?",
-    "valor": "$3,5 mill.",
+    "pregunta": "Acuerdo camionero",
+    "valor": "US$900M",
     "semaforo": "rojo",
-    "estado": "Costo permanente",
-    "texto": "Promedio por camionero del mayor reintegro al diésel. Su costo fiscal será de US$100 millones al año, en régimen.",
-    "fuente": "Ignacio Briones en X, vía Radio U. de Chile, 14 nov"
+    "estado": "30 veces más que en 2023",
+    "texto": "Costo fiscal 2026–2027 del acuerdo con camioneros, según el Gobierno. El acuerdo de 2023 costó US$30 millones.",
+    "fuente": "Gobierno (vocería, 13 nov), vía T13"
    },
    {
     "pregunta": "¿Cuánto vale el dólar?",
@@ -147,7 +147,7 @@
    }
   ],
   "sintesis": "La economía está estancada, el dólar en su valor más alto desde abril de 2025 y las familias ajustan su gasto para poder comer. Esta situación económica adversa se suma al malestar ciudadano.",
-  "fuentes": "Banco Central, Diario Financiero, Cheaf Chile, Briones y prensa citada"
+  "fuentes": "Gobierno, Banco Central, Diario Financiero, Cheaf Chile y prensa citada"
  },
  "noticias": [
   {
