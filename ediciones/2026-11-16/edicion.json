@@ -107,7 +107,7 @@
    "en_que_va": "El 12 de noviembre el Gobierno acordó con la mayoría de los gremios de camioneros bajar $140 el litro de diésel, congelar las alzas de combustibles hasta el 31 de marzo de 2027 y aumentar la devolución del impuesto específico al diésel. El Gobierno estima su costo en US$900 millones: unos US$500 millones en 2026 y US$400 millones en 2027 (vocería, 13 nov).",
    "que_viene": "La Sala de la Cámara vota el proyecto el lunes 16 de noviembre, entre 15:00 y 17:00, con discusión inmediata (Boletín 18885-05). El plazo de la urgencia vence el 18 de noviembre.",
    "que_hacer": "Usar el costo y la rapidez de este acuerdo como referencia en la negociación del reajuste y en la reposición de partidas del Presupuesto.",
-   "detalle": "El acuerdo de 2023 del gobierno anterior con los mismos gremios costó US$30 millones. Según el exministro Ignacio Briones, solo el aumento de la devolución del impuesto al diésel costaría US$100 millones al año en régimen, unos $3,5 millones promedio por camionero (Radio U. de Chile, 14 nov). Hacienda dijo el 13 de noviembre que su informe financiero estaba en desarrollo (BioBioChile)."
+   "detalle": "El acuerdo de 2023 del gobierno anterior con los mismos gremios costó US$30 millones. Según el exministro Ignacio Briones, solo el aumento de la devolución del impuesto al diésel costaría US$100 millones al año en régimen, unos $3,5 millones promedio por camionero (Radio U. de Chile, 14 nov). Hacienda dijo el 13 de noviembre que su informe financiero estaba en desarrollo (BioBioChile). El economista Claudio Agostini comparó que los US$900 millones equivalen a 38.800 subsidios de vivienda, casi el presupuesto 2026 de los subsidios habitacionales DS19 y DS1."
   }
  ],
  "economia": {
@@ -118,8 +118,8 @@
     "valor": "US$900M",
     "semaforo": "rojo",
     "estado": "30 veces más que en 2023",
-    "texto": "Costo fiscal 2026–2027 del acuerdo con camioneros, según el Gobierno. El acuerdo de 2023 costó US$30 millones.",
-    "fuente": "Gobierno (vocería, 13 nov), vía T13"
+    "texto": "Costo 2026–2027 según el Gobierno. Con esa plata se podrían pagar 38.800 subsidios de vivienda (Agostini).",
+    "fuente": "Gobierno (vocería, 13 nov), vía T13; Claudio Agostini en X"
    },
    {
     "pregunta": "¿Cuánto vale el dólar?",
