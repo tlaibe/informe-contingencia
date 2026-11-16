@@ -13,7 +13,7 @@
     "cifra": "18%",
     "etiqueta": "aprueba al Presidente",
     "titulo": "Aprobación toca un nuevo mínimo",
-    "texto": "Criteria (12–13 nov): 18% aprueba a Kast y 72% desaprueba, su peor marca desde que asumió. Una semana antes, Cadem (8 nov) lo dejaba en 29%."
+    "texto": "Criteria (12–13 nov): 18% aprueba y 72% desaprueba, su peor marca. Cadem (15 nov): 27% aprueba y 52% dice que no le gusta y que ha hecho un mal gobierno."
    },
    {
     "cifra": "900",
@@ -25,7 +25,7 @@
     "cifra": "81%",
     "etiqueta": "evalúa mal a las AFP",
     "titulo": "AFP: pérdidas bajo la lupa",
-    "texto": "81% evalúa mal a las AFP, frente a 61% en abril de 2025 (Descifra, 11–12 nov). Los fondos retrocedieron US$10.064 millones a septiembre (Superintendencia). CIPER revela normas que ampliaron el uso de derivados."
+    "texto": "81% evalúa mal a las AFP; en abril de 2025 era 61% (Descifra). Los fondos retrocedieron US$10.064 millones a septiembre (Superintendencia) y CIPER revela normas que ampliaron los derivados."
    }
   ],
   "cierre_titulo": "Lo clave de la semana",
@@ -199,14 +199,6 @@
    "orden_carrusel": 3
   },
   {
-   "fecha": "2026-11-11",
-   "tema": "Economía",
-   "medio": "Chócale",
-   "titulo": "Quiroz reconoce por primera vez que Chile está en recesión técnica",
-   "resumen": "El ministro lo atribuye a la caída del cobre; el PIB del tercer trimestre se conoce el 18 de noviembre.",
-   "url": "https://chocale.cl/2026/11/quiroz-reconoce-por-primera-vez-que-chile-esta-en-recesion-tecnica/"
-  },
-  {
    "fecha": "2026-11-12",
    "tema": "Política",
    "medio": "BioBioChile",
@@ -221,6 +213,14 @@
    "titulo": "Kast toca fondo en Criteria: apenas 18% lo aprueba y 79% rechaza que mantenga a Rabat",
    "resumen": "Sondeo del 12 y 13 de noviembre; 72% desaprueba al Presidente.",
    "url": "https://www.elmostrador.cl/noticias/pais/2026/11/15/kast-toca-fondo-en-criteria-apenas-18-lo-aprueba-y-79-rechaza-que-mantenga-a-rabat/"
+  },
+  {
+   "fecha": "2026-11-15",
+   "tema": "Encuestas",
+   "medio": "Emol",
+   "titulo": "Cadem: Aprobación de Kast baja a 27% y 86% considera justificado el paro de camioneros",
+   "resumen": "69% desaprueba; 52% dice que no le gusta el Presidente y que ha hecho un mal gobierno.",
+   "url": "https://www.emol.com/noticias/Nacional/2026/11/15/1217176/cadem-aprobacion-kast-cae.html"
   },
   {
    "fecha": "2026-11-12",
