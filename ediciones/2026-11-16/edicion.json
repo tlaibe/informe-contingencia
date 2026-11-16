@@ -70,16 +70,33 @@
    "frente": "Reajuste del sector público",
    "pasos": "Pliego|Negociación|Congreso|Ley",
    "paso_actual": 2,
-   "en_que_va": "La Mesa del Sector Público entregó su pliego el 4 de noviembre: 6,3% nominal, con alza real no inferior a 2%, pisos de remuneración desde enero de 2027 y bonos para rentas bajas. Al cierre de esta edición no hay una respuesta pública de Hacienda ni un calendario de reuniones.",
-   "que_viene": "Marcha nacional de la CUT el miércoles 18 de noviembre, en todas las regiones, para entregar cartas a diputados y senadores contra los recortes (BioBioChile). La respuesta de Hacienda sigue sin fecha.",
+   "en_que_va": "La Mesa del Sector Público entregó su pliego el 4 de noviembre: 6,3% nominal, con alza real no inferior a 2%, pisos de remuneración desde enero de 2027 y bonos para rentas bajas. Este lunes 16 de noviembre parte la negociación con el Gobierno, con una reunión protocolar.",
+   "que_viene": "El jueves 19 de noviembre Hacienda presentará el escenario macroeconómico, la base con que el Gobierno justificará su oferta. Antes, el miércoles 18, la CUT realiza una marcha nacional en todas las regiones contra los recortes (BioBioChile).",
    "que_hacer": "Defender el piso de la inflación: 4,5% en 12 meses a octubre (INE). Un reajuste menor que eso es perder poder de compra.",
    "detalle": "Economistas ya fijan posiciones (Emol, 10 nov): Exequiel Cáceres (LyD) propone reajustes iguales al IPC, sin alza real, y rechaza las 40 horas en el Estado; Rodrigo Montero (U. Autónoma) plantea pisos cercanos a $590.000, $657.000 y $699.000, con 4,5% de inflación de referencia. El pliego pide $609.766 (auxiliar), $678.612 (administrativo) y $721.885 (técnico), y un bono de término de $250.000 o $125.000 según renta (en el reajuste anterior fueron $150.000 y $75.000). Los expertos que encuesta el Banco Central esperan 3,2% de inflación a diciembre de 2027 (EEE, noviembre).",
    "carrusel": {
     "titulo": "Reajuste del Sector Público",
-    "etiqueta": "Sin respuesta",
+    "etiqueta": "Parte la negociación",
     "color": "naranjo",
-    "texto": "Hacienda aún no responde el pliego de **6,3%**. Economistas ya fijan posiciones: LyD propone solo el IPC, sin alza real. Con inflación de **4,5%**, un reajuste menor significa perder poder de compra.",
-    "proximo": "marcha nacional CUT, 18 nov · Hacienda sin fecha"
+    "texto": "Este lunes 16 parte la negociación con una reunión protocolar, y el jueves 19 Hacienda presenta el escenario macroeconómico. La Mesa pide **6,3%**; con inflación de **4,5%**, menos es perder poder de compra.",
+    "proximo": "escenario macro, jue 19 nov · marcha CUT, 18 nov"
+   }
+  },
+  {
+   "id": "acusacion-rabat",
+   "frente": "Acusación constitucional contra el ministro Rabat",
+   "pasos": "Ingreso|Comisión|Sala de la Cámara|Senado",
+   "paso_actual": 2,
+   "en_que_va": "La oposición la ingresó el 12 de noviembre, con 10 firmas de diputados de seis partidos. Tiene tres capítulos: rebajas de condena a 56 condenados por delitos sexuales contra menores, rebajas a tres condenados por crímenes de lesa humanidad e información incompleta o inexacta entregada al Congreso.",
+   "que_viene": "El lunes 16 de noviembre se da cuenta en la Sala y se sortea la comisión que la revisará (El Mostrador). El PDG es clave: Franco Parisi dijo que «hay una mayoría en el PDG a favor de la AC a Rabat», aunque aclaró que aún no hay decisión definitiva (El Dínamo, 15 nov).",
+   "que_hacer": "Seguirla como termómetro de la fuerza del Gobierno en la Cámara, que también decide el Presupuesto y el reajuste.",
+   "detalle": "Si la Cámara la aprueba y el Senado la acoge, el ministro queda destituido e inhabilitado por cinco años para funciones públicas (Radio U. de Chile). El Presidente Kast mantiene su respaldo a Rabat. Según Criteria (12–13 nov), 79% rechaza que siga en el cargo.",
+   "carrusel": {
+    "titulo": "Acusación contra Rabat",
+    "etiqueta": "Comisión",
+    "color": "naranjo",
+    "texto": "Ingresó el 12 de noviembre con **3 capítulos** y 10 firmas, por rebajas de condena e información inexacta al Congreso. Parisi: «hay una mayoría en el PDG a favor»; aún sin decisión definitiva.",
+    "proximo": "sorteo de comisión, lun 16 nov"
    }
   },
   {
@@ -90,14 +107,7 @@
    "en_que_va": "Los servicios siguen decidiendo qué contratas no renuevan. En el Servicio Nacional de Migraciones, la asociación de funcionarios advierte que entre 80 y 100 contratas podrían no renovarse, según información preliminar de la jefatura (El Mostrador, 14 nov). La ANEF aprobó un plan de movilizaciones escalonadas durante noviembre.",
    "que_viene": "Último día para avisar una no renovación: 30 de noviembre. Los funcionarios de Migraciones se reúnen con su director nacional el martes 17.",
    "que_hacer": "Hacer una lista de las personas en riesgo, pedir los fundamentos por escrito y preparar reclamos ante Contraloría.",
-   "detalle": "Según la ANEF, cerca del 70% de los funcionarios de la administración central está a contrata (El Siglo, 9 nov). La ANEF cuestiona criterios arbitrarios para desvincular y recortes en jardines infantiles, JUNAEB, SernamEG, SENAMA y SENADIS. Con cinco años o más continuos en el mismo servicio, la Corte Suprema exige que la no renovación esté bien fundamentada (confianza legítima).",
-   "carrusel": {
-    "titulo": "Contratas 2027",
-    "etiqueta": "Plazo de aviso",
-    "color": "naranjo",
-    "texto": "En Migraciones, hasta **100 contratas** podrían no renovarse, según sus funcionarios. La ANEF anunció movilizaciones escalonadas. Conviene listar a las personas en riesgo y preparar reclamos ante Contraloría.",
-    "proximo": "último día para avisar no renovaciones, 30 nov"
-   }
+   "detalle": "Según la ANEF, cerca del 70% de los funcionarios de la administración central está a contrata (El Siglo, 9 nov). La ANEF cuestiona criterios arbitrarios para desvincular y recortes en jardines infantiles, JUNAEB, SernamEG, SENAMA y SENADIS. Con cinco años o más continuos en el mismo servicio, la Corte Suprema exige que la no renovación esté bien fundamentada (confianza legítima)."
   },
   {
    "id": "reconstruccion",
@@ -114,40 +124,40 @@
   "titulo": "Los datos de la semana",
   "indicadores": [
    {
+    "pregunta": "¿Cuánto por camionero?",
+    "valor": "$3,5 mill.",
+    "semaforo": "rojo",
+    "estado": "Costo permanente",
+    "texto": "Promedio por camionero del mayor reintegro al diésel. Su costo fiscal será de US$100 millones al año, en régimen.",
+    "fuente": "Ignacio Briones en X, vía Radio U. de Chile, 14 nov"
+   },
+   {
+    "pregunta": "¿Cuánto vale el dólar?",
+    "valor": "$1.000",
+    "semaforo": "rojo",
+    "estado": "Máximo desde 2025",
+    "texto": "Llegó a $1.000 el viernes 13, algo que no pasaba desde abril de 2025. Un dólar caro encarece lo importado.",
+    "fuente": "Diario Financiero vía T13, 13 nov (Bloomberg)"
+   },
+   {
+    "pregunta": "¿Alcanza para comer?",
+    "valor": "70%",
+    "semaforo": "rojo",
+    "estado": "Recorta otros gastos",
+    "texto": "Redujo otros gastos del hogar en el último año para poder comprar comida. Un 11% se endeudó para hacerlo.",
+    "fuente": "Encuesta Cheaf Chile, vía T13, 15 nov"
+   },
+   {
     "pregunta": "¿Crecerá la economía?",
     "valor": "0,0%",
     "semaforo": "rojo",
     "estado": "Estancada",
     "texto": "Es lo que los expertos esperan que crezca en 2026 (antes, 0,3%). Quiroz admitió una «recesión técnica».",
     "fuente": "Banco Central, EEE noviembre 2026; Emol, 11 nov"
-   },
-   {
-    "pregunta": "Presupuesto 2027",
-    "valor": "7",
-    "semaforo": "rojo",
-    "estado": "Partidas rechazadas",
-    "texto": "Las rechazó la Cámara, entre ellas Educación e Interior. El Gobierno intentará reponerlas en el Senado.",
-    "fuente": "Cámara de Diputados; prensa, 13 nov"
-   },
-   {
-    "pregunta": "Reintegro al diésel",
-    "valor": "US$100M",
-    "semaforo": "amarillo",
-    "estado": "Costo cada año",
-    "texto": "Es lo que costaría subir la devolución del impuesto al diésel: $3,5 millones promedio por camionero.",
-    "fuente": "Ignacio Briones en X, vía Radio U. de Chile, 14 nov"
-   },
-   {
-    "pregunta": "¿Bajarán los créditos?",
-    "valor": "4,5%",
-    "semaforo": "amarillo",
-    "estado": "Sin baja a la vista",
-    "texto": "Es la tasa del Banco Central. Los expertos no esperan bajas hasta fines de 2027: los créditos seguirán caros.",
-    "fuente": "Banco Central, EEE noviembre 2026"
    }
   ],
-  "sintesis": "La economía no crece y el Gobierno comprometió US$900 millones en días para los camioneros. Ese precedente pesa en el reajuste, que al menos debe cubrir la inflación de 4,5% (INE, octubre).",
-  "fuentes": "Banco Central, INE, Gobierno y prensa citada"
+  "sintesis": "La economía no crece, el dólar llegó a $1.000 y 7 de cada 10 recortan gastos para comer. En ese contexto, el Gobierno comprometió US$900 millones en días para los camioneros: un precedente para el reajuste.",
+  "fuentes": "Banco Central, Diario Financiero, Cheaf Chile, Briones y prensa citada"
  },
  "noticias": [
   {
@@ -171,14 +181,6 @@
   },
   {
    "fecha": "2026-11-13",
-   "tema": "Presupuesto",
-   "medio": "Chilevisión",
-   "titulo": "Cámara despachó Presupuesto 2027 al Senado: luz verde a Seguridad y rechazan fondos de seis carteras",
-   "resumen": "Seguridad Pública sube 7%; también se rechazó el endeudamiento de hasta US$25.000 millones.",
-   "url": "https://www.chilevision.cl/noticias/nacional/camara-despacho-presupuesto-2027-al-senado-luz-verde-a-seguridad-y-rechazan-fondos-de-seis-carteras/"
-  },
-  {
-   "fecha": "2026-11-13",
    "tema": "Costo de la vida",
    "medio": "T13",
    "titulo": "Gobierno confirma que gasto fiscal por acuerdo con camioneros alcanzará los USD$900 millones",
@@ -195,14 +197,6 @@
    "titulo": "Briones cuestiona acuerdo del Gobierno con camioneros: \"Nada mal el premio por vulnerar el Estado de derecho\"",
    "resumen": "El exministro calcula US$100 millones al año solo por el mayor reintegro al diésel.",
    "url": "https://radio.uchile.cl/2026/11/14/briones-cuestiona-acuerdo-del-gobierno-con-camioneros-nada-mal-el-premio-por-vulnerar-el-estado-de-derecho/"
-  },
-  {
-   "fecha": "2026-11-15",
-   "tema": "Costo de la vida",
-   "medio": "Radio U. de Chile",
-   "titulo": "Acuerdo con camioneros: oficialismo respalda tramitación exprés en medio de críticas internas y de la oposición",
-   "resumen": "El proyecto se vota en la Cámara el lunes 16 con discusión inmediata.",
-   "url": "https://radio.uchile.cl/2026/11/15/acuerdo-con-camioneros-oficialismo-respalda-tramitacion-expres-en-medio-de-criticas-internas-y-de-la-oposicion/"
   },
   {
    "fecha": "2026-11-11",
@@ -276,14 +270,6 @@
    "url": "https://www.elmostrador.cl/noticias/pais/2026/11/15/kast-toca-fondo-en-criteria-apenas-18-lo-aprueba-y-79-rechaza-que-mantenga-a-rabat/"
   },
   {
-   "fecha": "2026-11-08",
-   "tema": "Encuestas",
-   "medio": "CNN Chile",
-   "titulo": "Cadem: Desaprobación de Kast alcanza el 68% y un 43% la atribuye a la rebaja de penas",
-   "resumen": "29% aprueba; bajar el desempleo es la medida más pedida para los próximos seis meses.",
-   "url": "https://www.cnnchile.com/pais/cadem-cadem-desaprobacion-de-kast-alcanza-el-68-y-un-43-la-atribuye-a-la-rebaja-de-penas/"
-  },
-  {
    "fecha": "2026-11-12",
    "tema": "Pensiones",
    "medio": "CIPER",
@@ -309,6 +295,30 @@
    "titulo": "Descifra revela fuerte deterioro en imagen de AFP tras caída de fondo E: 81% las evalúa mal",
    "resumen": "95% pide controles más exigentes para los fondos de quienes están por jubilar; 73% prefiere que se devuelvan pérdidas.",
    "url": "https://www.nuevopoder.cl/descifra-revela-fuerte-deterioro-en-imagen-de-afp-tras-caida-de-fondo-e-81-las-evalua-mal/"
+  },
+  {
+   "fecha": "2026-11-15",
+   "tema": "Política",
+   "medio": "El Dínamo",
+   "titulo": "Franco Parisi: «Hay una mayoría en el PDG a favor de la AC a Rabat»",
+   "resumen": "Aclara que la bancada aún no toma una decisión definitiva.",
+   "url": "https://www.eldinamo.cl/politica/2026/11/15/franco-parisi-hay-una-mayoria-en-el-pdg-a-favor-de-la-ac-a-rabat/"
+  },
+  {
+   "fecha": "2026-11-13",
+   "tema": "Economía",
+   "medio": "T13 / Diario Financiero",
+   "titulo": "Dólar alcanza los $ 1.000 por primera vez desde abril de 2025",
+   "resumen": "Lo tocó en la apertura del viernes, con cobre a la baja y dólar global fuerte.",
+   "url": "https://www.t13.cl/noticia/negocios/diario-financiero/dolar-alcanza-1000-por-primera-vez-desde-abril-2025-mientras-siguen-las-compras-13"
+  },
+  {
+   "fecha": "2026-11-15",
+   "tema": "Costo de la vida",
+   "medio": "T13",
+   "titulo": "Costo de la vida: 7 de cada 10 hogares redujeron otros gastos para poder comprar alimentos",
+   "resumen": "Encuesta Cheaf Chile: 41% redujo carnes y proteínas y 11% se endeudó para comprar comida.",
+   "url": "https://www.t13.cl/noticia/nacional/costo-vida-7-cada-10-hogares-redujeron-otros-gastos-para-poder-comprar-alimento-15-11-2026"
   }
  ]
 }
