@@ -22,10 +22,10 @@
     "texto": "US$900 millones en 2026–2027 (Gobierno, 13 nov), frente a US$30 millones del acuerdo de 2023. 80% apoyó el paro (Criteria). La Cámara vota la ley el lunes 16."
    },
    {
-    "cifra": "79%",
-    "etiqueta": "rechaza mantener a Rabat",
-    "titulo": "Ingresó la acusación contra Rabat",
-    "texto": "79% rechaza que siga el ministro (Criteria, 12–13 nov). La oposición ingresó el 12 de noviembre un libelo de 3 capítulos con 10 firmas; el lunes 16 se sortea la comisión (El Mostrador)."
+    "cifra": "10",
+    "etiqueta": "mil millones de dólares perdieron los fondos",
+    "titulo": "AFP: pérdidas bajo la lupa",
+    "texto": "Los fondos retrocedieron US$10.064 millones a septiembre (Superintendencia de Pensiones). CIPER revela normas que ampliaron el uso de derivados y que Cuprum no ajustó su Fondo E pese a advertencias."
    }
   ],
   "cierre_titulo": "Qué significa para los gremios",
@@ -273,10 +273,7 @@
    "medio": "BioBioChile",
    "titulo": "Ingresan acusación constitucional contra Rabat: 3 capítulos ponen en juego su continuidad en Justicia",
    "resumen": "Diez diputados de seis partidos firman el libelo por rebajas de condena.",
-   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/12/oposicion-ingresa-acusacion-constitucional-contra-ministro-fernando-rabat-por-rebajas-de-condena.shtml",
-   "carrusel": true,
-   "titulo_carrusel": "Ingresan acusación constitucional contra Rabat: 3 capítulos en juego",
-   "orden_carrusel": 6
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/12/oposicion-ingresa-acusacion-constitucional-contra-ministro-fernando-rabat-por-rebajas-de-condena.shtml"
   },
   {
    "fecha": "2026-11-15",
@@ -293,6 +290,25 @@
    "titulo": "Cadem: Desaprobación de Kast alcanza el 68% y un 43% la atribuye a la rebaja de penas",
    "resumen": "29% aprueba; bajar el desempleo es la medida más pedida para los próximos seis meses.",
    "url": "https://www.cnnchile.com/pais/cadem-cadem-desaprobacion-de-kast-alcanza-el-68-y-un-43-la-atribuye-a-la-rebaja-de-penas/"
+  },
+  {
+   "fecha": "2026-11-12",
+   "tema": "Pensiones",
+   "medio": "CIPER",
+   "titulo": "Sin importar las fechas de vencimiento: la trama que facilitó desde el Estado que las AFP perdieran US$10.000 millones de sus afiliados",
+   "resumen": "Dos décadas de normas, visadas por Hacienda y sin pasar por el Congreso, ampliaron el uso de derivados en los fondos.",
+   "url": "https://www.ciperchile.cl/2026/11/12/sin-importar-las-fechas-de-vencimiento-la-trama-que-facilito-desde-el-estado-que-las-afp-perdieran-us10-000-millones-de-sus-afiliados/",
+   "carrusel": true,
+   "titulo_carrusel": "La trama que facilitó desde el Estado que las AFP perdieran US$10.000 millones",
+   "orden_carrusel": 6
+  },
+  {
+   "fecha": "2026-11-11",
+   "tema": "Pensiones",
+   "medio": "CIPER",
+   "titulo": "«No es necesario introducir cambios estructurales»: acta del directorio de Cuprum muestra su decisión de no tomar acciones antes de la caída del Fondo E",
+   "resumen": "En marzo de 2026 el directorio mantuvo la estrategia del fondo más conservador pese a advertencias del Banco Central y la Superintendencia.",
+   "url": "https://www.ciperchile.cl/2026/11/11/no-es-necesario-introducir-cambios-estructurales-acta-del-directorio-de-cuprum-muestra-su-decision-de-no-tomar-acciones-antes-de-la-caida-del-fondo-e/"
   }
  ]
 }
