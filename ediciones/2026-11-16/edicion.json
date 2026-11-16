@@ -22,10 +22,10 @@
     "texto": "US$900 millones en 2026–2027 (Gobierno, 13 nov), frente a US$30 millones del acuerdo de 2023. 80% apoyó el paro (Criteria). La Cámara vota la ley el lunes 16."
    },
    {
-    "cifra": "10",
-    "etiqueta": "mil millones de dólares perdieron los fondos",
+    "cifra": "81%",
+    "etiqueta": "evalúa mal a las AFP",
     "titulo": "AFP: pérdidas bajo la lupa",
-    "texto": "Los fondos retrocedieron US$10.064 millones a septiembre (Superintendencia de Pensiones). CIPER revela normas que ampliaron el uso de derivados y que Cuprum no ajustó su Fondo E pese a advertencias."
+    "texto": "81% evalúa mal a las AFP, frente a 61% en abril de 2025 (Descifra, 11–12 nov). Los fondos retrocedieron US$10.064 millones a septiembre (Superintendencia). CIPER revela normas que ampliaron el uso de derivados."
    }
   ],
   "cierre_titulo": "Qué significa para los gremios",
@@ -179,14 +179,6 @@
   },
   {
    "fecha": "2026-11-13",
-   "tema": "Presupuesto",
-   "medio": "Pauta",
-   "titulo": "Presupuesto 2027 en Chile: Cámara lo aprueba y lo despacha al Senado",
-   "resumen": "Salud aprobada 82 a 41 y repuestos los gastos variables de la atención primaria.",
-   "url": "https://www.pauta.cl/actualidad/2026/11/13/camara-de-diputados-aprueba-el-presupuesto-2027-y-lo-despacha-al-senado.html"
-  },
-  {
-   "fecha": "2026-11-13",
    "tema": "Costo de la vida",
    "medio": "T13",
    "titulo": "Gobierno confirma que gasto fiscal por acuerdo con camioneros alcanzará los USD$900 millones",
@@ -309,6 +301,14 @@
    "titulo": "«No es necesario introducir cambios estructurales»: acta del directorio de Cuprum muestra su decisión de no tomar acciones antes de la caída del Fondo E",
    "resumen": "En marzo de 2026 el directorio mantuvo la estrategia del fondo más conservador pese a advertencias del Banco Central y la Superintendencia.",
    "url": "https://www.ciperchile.cl/2026/11/11/no-es-necesario-introducir-cambios-estructurales-acta-del-directorio-de-cuprum-muestra-su-decision-de-no-tomar-acciones-antes-de-la-caida-del-fondo-e/"
+  },
+  {
+   "fecha": "2026-11-15",
+   "tema": "Encuestas",
+   "medio": "Nuevo Poder",
+   "titulo": "Descifra revela fuerte deterioro en imagen de AFP tras caída de fondo E: 81% las evalúa mal",
+   "resumen": "95% pide controles más exigentes para los fondos de quienes están por jubilar; 73% prefiere que se devuelvan pérdidas.",
+   "url": "https://www.nuevopoder.cl/descifra-revela-fuerte-deterioro-en-imagen-de-afp-tras-caida-de-fondo-e-81-las-evalua-mal/"
   }
  ]
 }
