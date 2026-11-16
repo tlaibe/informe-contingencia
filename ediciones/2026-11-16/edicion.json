@@ -53,7 +53,7 @@
    "frente": "Sala Cuna Universal",
    "pasos": "Senado|Comisión de Trabajo|Comisión de Hacienda|Sala de la Cámara|Ley",
    "paso_actual": 3,
-   "en_que_va": "El Senado despachó el proyecto a comienzos de septiembre, pero rechazó por falta de quórum la fórmula para financiar el fondo. En la Cámara, la Comisión de Trabajo aprobó la idea de legislar por unanimidad el 20 de octubre, y el Gobierno le puso discusión inmediata (CNN Chile).",
+   "en_que_va": "El Senado despachó el proyecto a comienzos de septiembre, pero rechazó por falta de quórum la fórmula para financiar el fondo. Ahora está en segundo trámite en la Cámara, con discusión inmediata: la Comisión de Trabajo aprobó la idea de legislar por unanimidad el 20 de octubre (CNN Chile).",
    "que_viene": "Está en tabla de la Comisión de Hacienda de la Cámara este martes 17 de noviembre.",
    "que_hacer": "Seguir cómo se resuelve el financiamiento del fondo, que es lo que quedó pendiente en el Senado.",
    "detalle": "Más de 140 economistas, académicos y exministros, entre ellos Cecilia Cifuentes, Mario Marcel, José De Gregorio e Ignacio Briones, firmaron una carta enviada a El Mercurio que pide aprobar el proyecto: «El momento es ahora». Reconocen que «puede no ser perfecto», pero lo ven como un primer paso en corresponsabilidad, y citan una desocupación femenina sobre 10,5% (CNN Chile). El ministro del Trabajo, Tomás Rau, fijó enero como plazo máximo para despacharlo.",
@@ -61,7 +61,7 @@
     "titulo": "Avanza Ley Sala Cuna",
     "etiqueta": "Comisión de Hacienda",
     "color": "naranjo",
-    "texto": "Tiene discusión inmediata en la Cámara. Más de **140** economistas, académicos y exministros, entre ellos Marcel, De Gregorio y Briones, firmaron una carta pidiendo aprobarlo: «El momento es ahora».",
+    "texto": "En **segundo trámite** en la Cámara, con **discusión inmediata**. Más de **140** economistas, académicos y exministros firmaron una carta pidiendo aprobarlo: «El momento es ahora».",
     "proximo": "Comisión de Hacienda de la Cámara, mar 17 nov"
    }
   },
