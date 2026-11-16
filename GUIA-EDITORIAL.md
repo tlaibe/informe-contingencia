@@ -58,6 +58,12 @@ Como plantilla se usa la edición anterior: se copia su `edicion.json` y se actu
 6. Enviar el aviso de revisión, con el link del borrador, las 5 imágenes, un resumen de los cambios respecto de la semana anterior y las dudas o datos que no se pudieron confirmar.
 7. **Publicar solo con aprobación explícita:** cambiar `estado` a `"publicada"` en `edicion.json` y en `index.json`, y hacer commit y push. Desde ese momento la edición pasa a ser la vigente en la portada.
 
+## Estadísticas de visitas
+
+- El sitio y las páginas del carrusel cuentan visitas con GoatCounter (sin cookies): https://radar-ii.goatcounter.com
+- Las descargas de láminas se registran como `descarga/AAAA-MM-DD/nombre-de-la-lámina`.
+- Para saber qué canal funciona mejor, se distribuye un link por canal agregando `?ref=`: por ejemplo `?ref=whatsapp`, `?ref=linkedin`, `?ref=correo`. En una edición específica: `?ed=AAAA-MM-DD&ref=whatsapp`.
+
 ## Links útiles
 
 - Sitio: https://tlaibe.github.io/informe-contingencia/

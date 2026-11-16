@@ -56,7 +56,7 @@ server.listen(0, '127.0.0.1', async () => {
   server.close();
 
   // Página simple para ver y descargar las láminas desde el sitio.
-  const items = nombres.map((n) => `<figure><img src="${n}.png" alt="${n}" loading="lazy"><figcaption><a href="${n}.png" download>Descargar ${n}.png</a></figcaption></figure>`).join('\n');
+  const items = nombres.map((n) => `<figure><img src="${n}.png" alt="${n}" loading="lazy"><figcaption><a href="${n}.png" download data-goatcounter-click="descarga/${id}/${n}">Descargar ${n}.png</a></figcaption></figure>`).join('\n');
   fs.writeFileSync(path.join(salida, 'index.html'), `<!doctype html>
 <html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Carrusel N° ${ed.numero} · Radar Informativo</title>
@@ -64,7 +64,8 @@ server.listen(0, '127.0.0.1', async () => {
 <style>body{margin:0;background:#F4F5F7;color:#0B2D5E;font-family:Montserrat,system-ui,sans-serif;padding:24px}
 main{max-width:1100px;margin:0 auto}h1{font-size:1.5rem}a{color:#C2410C;font-weight:700}
 .grid{display:grid;gap:20px;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr))}
-figure{margin:0;background:#fff;border-radius:12px;padding:12px}img{width:100%;height:auto;display:block;border-radius:6px}figcaption{margin-top:8px;font-size:.85rem}</style></head>
+figure{margin:0;background:#fff;border-radius:12px;padding:12px}img{width:100%;height:auto;display:block;border-radius:6px}figcaption{margin-top:8px;font-size:.85rem}</style>
+<script data-goatcounter="https://radar-ii.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script></head>
 <body><main><p><a href="../../../?ed=${id}">← Volver al informe</a></p>
 <h1>Carrusel · Edición N° ${ed.numero} · ${ed.rango}</h1>
 <p>Láminas de 1080 × 1350 px para Instagram, LinkedIn o WhatsApp.</p>
