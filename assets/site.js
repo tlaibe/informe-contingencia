@@ -50,7 +50,7 @@
     c.append(el('span', 'ic-pol-num', r.cifra), el('span', 'ic-pol-lab', r.etiqueta), el('h3', null, r.titulo), rich('p', null, r.texto));
     $('ic-pol').append(c);
   });
-  $('ic-cierre-titulo').textContent = ed.resumen.cierre_titulo || 'Qué significa para los gremios';
+  $('ic-cierre-titulo').textContent = ed.resumen.cierre_titulo || 'Lo clave de la semana';
   $('ic-cierre').textContent = ed.resumen.cierre || '';
 
   // 03 Seguimiento legislativo

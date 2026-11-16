@@ -28,8 +28,8 @@
     "texto": "81% evalúa mal a las AFP, frente a 61% en abril de 2025 (Descifra, 11–12 nov). Los fondos retrocedieron US$10.064 millones a septiembre (Superintendencia). CIPER revela normas que ampliaron el uso de derivados."
    }
   ],
-  "cierre_titulo": "Qué significa para los gremios",
-  "cierre": "Un Gobierno con baja aprobación cedió en días y comprometió US$900 millones ante una presión focalizada. Con el Presupuesto en el Senado y el reajuste sin respuesta, es la semana de presionar con datos."
+  "cierre_titulo": "Lo clave de la semana",
+  "cierre": "Aprobación en mínimos, protestas que logran respuesta en días y un malestar creciente por el costo de la vida y las pérdidas de las AFP. Es un Gobierno bajo presión y más sensible a ella."
  },
  "frentes": [
   {
@@ -38,31 +38,31 @@
    "pasos": "Subcomisiones|Comisión Especial Mixta (CEMP)|Cámara|Senado|Ley",
    "paso_actual": 4,
    "en_que_va": "La Cámara despachó el proyecto al Senado pasadas las 6:00 del viernes 13 de noviembre, tras más de 21 horas de sesión, con siete partidas rechazadas: Educación, Interior, Secretaría General de Gobierno, Minería, Mujer y Equidad de Género, Culturas y Ciencia (esta última ya venía rechazada desde la Comisión Mixta). También rechazó la autorización de endeudamiento por US$25.000 millones y recursos de Aduanas, Mejor Niñez, SAG y la Dirección del Trabajo. Salud se aprobó 82 a 41 y la Sala repuso los gastos variables de la atención primaria.",
-   "que_viene": "El Senado discute el proyecto esta semana. El ministro Quiroz anunció que buscará reponer las partidas rechazadas «con algunos ajustes» y conversar a fondo Educación con los parlamentarios. Si el Senado cambia el texto, vuelve a la Cámara y puede ir a comisión mixta. Plazo constitucional: 60 días desde su ingreso, el 30 de septiembre.",
+   "que_viene": "El Senado comienza a votar el proyecto el martes 17 de noviembre, a las 10:00. El ministro Quiroz anunció que buscará reponer las partidas rechazadas «con algunos ajustes» y conversar a fondo Educación con los parlamentarios. Si el Senado cambia el texto, vuelve a la Cámara y puede ir a comisión mixta. Plazo constitucional: 60 días desde su ingreso, el 30 de septiembre.",
    "que_hacer": "Llevar a los senadores, antes de que voten, qué programas y dotaciones de cada servicio dependen de las partidas rechazadas, y pedir su reposición concreta.",
    "detalle": "Motivos de los rechazos: en Educación, el programa Yo Elijo Mi PC, entre otros (empate 72 a 72); en Interior, la reducción a SENAPRED; en Segegob, críticas al manejo comunicacional y al aumento de recursos para la Secretaría de Comunicaciones; en Minería, Codelco y los recursos de fiscalización de Sernageomin; en Mujer y Equidad de Género, la eliminación de Prodemu; en Culturas, la reducción presupuestaria; y Ciencia ya venía rechazada desde la Comisión Mixta. También se rechazaron la asignación del INDH y un artículo que permitía iniciar obras sin esperar la toma de razón de Contraloría (Chilevisión, BioBioChile). Seguridad Pública sube 7% (Chilevisión). El Colegio de Profesores pide reponer el FAEP, el presupuesto de los SLEP, Yo Elijo Mi PC e infraestructura (G5 Noticias, 11 nov). El Congreso solo puede rebajar gastos; reponerlos depende del Ejecutivo.",
    "carrusel": {
     "etiqueta": "Senado",
     "color": "naranjo",
     "texto": "La Cámara rechazó **7 partidas**: Educación, Interior, Segegob, Minería, Mujer, Culturas y Ciencia. También el endeudamiento por **US$25.000 millones** y fondos de Aduanas, Mejor Niñez, SAG y DT. Quiroz busca reponerlas en el Senado.",
-    "proximo": "Senado discute esta semana · plazo, fines de noviembre"
+    "proximo": "sesión del Senado, mar 17 nov, 10:00"
    }
   },
   {
-   "id": "combustibles",
-   "frente": "Ley de combustibles (acuerdo con camioneros)",
-   "pasos": "Acuerdo|Cámara|Senado|Ley",
-   "paso_actual": 2,
-   "en_que_va": "El 12 de noviembre el Gobierno acordó con la mayoría de los gremios de camioneros bajar $140 el litro de diésel, congelar las alzas de combustibles hasta el 31 de marzo de 2027 y aumentar la devolución del impuesto específico al diésel. El Gobierno estima su costo en US$900 millones: unos US$500 millones en 2026 y US$400 millones en 2027 (vocería, 13 nov).",
-   "que_viene": "La Sala de la Cámara vota el proyecto el lunes 16 de noviembre, entre 15:00 y 17:00, con discusión inmediata (Boletín 18885-05). El plazo de la urgencia vence el 18 de noviembre.",
-   "que_hacer": "Usar el costo y la rapidez de este acuerdo como referencia en la negociación del reajuste y en la reposición de partidas del Presupuesto.",
-   "detalle": "El acuerdo de 2023 del gobierno anterior con los mismos gremios costó US$30 millones. Según el exministro Ignacio Briones, solo el aumento de la devolución del impuesto al diésel costaría US$100 millones al año en régimen, unos $3,5 millones promedio por camionero (Radio U. de Chile, 14 nov). Hacienda dijo el 13 de noviembre que su informe financiero estaba en desarrollo (BioBioChile).",
+   "id": "sala-cuna",
+   "frente": "Sala Cuna Universal",
+   "pasos": "Senado|Comisión de Trabajo|Comisión de Hacienda|Sala de la Cámara|Ley",
+   "paso_actual": 3,
+   "en_que_va": "El Senado despachó el proyecto a comienzos de septiembre, pero rechazó por falta de quórum la fórmula para financiar el fondo. En la Cámara, la Comisión de Trabajo aprobó la idea de legislar por unanimidad el 20 de octubre, y el Gobierno le puso discusión inmediata (CNN Chile).",
+   "que_viene": "Está en tabla de la Comisión de Hacienda de la Cámara este martes 17 de noviembre.",
+   "que_hacer": "Seguir cómo se resuelve el financiamiento del fondo, que es lo que quedó pendiente en el Senado.",
+   "detalle": "Más de 140 economistas, académicos y exministros, entre ellos Cecilia Cifuentes, Mario Marcel, José De Gregorio e Ignacio Briones, firmaron una carta enviada a El Mercurio que pide aprobar el proyecto: «El momento es ahora». Reconocen que «puede no ser perfecto», pero lo ven como un primer paso en corresponsabilidad, y citan una desocupación femenina sobre 10,5% (CNN Chile). El ministro del Trabajo, Tomás Rau, fijó enero como plazo máximo para despacharlo.",
    "carrusel": {
-    "titulo": "Ley de combustibles",
-    "etiqueta": "Cámara, lunes 16",
+    "titulo": "Avanza Ley Sala Cuna",
+    "etiqueta": "Comisión de Hacienda",
     "color": "naranjo",
-    "texto": "Concreta el acuerdo con camioneros: diésel **$140** más barato y alzas congeladas hasta marzo. Cuesta **US$900 millones** en 2026–2027, frente a **US$30 millones** del acuerdo de 2023.",
-    "proximo": "Sala de la Cámara, lun 16 nov · discusión inmediata"
+    "texto": "Tiene discusión inmediata en la Cámara. Más de **140** economistas, académicos y exministros, entre ellos Marcel, De Gregorio y Briones, firmaron una carta pidiendo aprobarlo: «El momento es ahora».",
+    "proximo": "Comisión de Hacienda de la Cámara, mar 17 nov"
    }
   },
   {
@@ -98,6 +98,16 @@
     "texto": "Ingresó el 12 de noviembre con **3 capítulos** y 10 firmas, por rebajas de condena e información inexacta al Congreso. Parisi: «hay una mayoría en el PDG a favor»; aún sin decisión definitiva.",
     "proximo": "sorteo de comisión, lun 16 nov"
    }
+  },
+  {
+   "id": "combustibles",
+   "frente": "Ley de combustibles (acuerdo con camioneros)",
+   "pasos": "Acuerdo|Cámara|Senado|Ley",
+   "paso_actual": 2,
+   "en_que_va": "El 12 de noviembre el Gobierno acordó con la mayoría de los gremios de camioneros bajar $140 el litro de diésel, congelar las alzas de combustibles hasta el 31 de marzo de 2027 y aumentar la devolución del impuesto específico al diésel. El Gobierno estima su costo en US$900 millones: unos US$500 millones en 2026 y US$400 millones en 2027 (vocería, 13 nov).",
+   "que_viene": "La Sala de la Cámara vota el proyecto el lunes 16 de noviembre, entre 15:00 y 17:00, con discusión inmediata (Boletín 18885-05). El plazo de la urgencia vence el 18 de noviembre.",
+   "que_hacer": "Usar el costo y la rapidez de este acuerdo como referencia en la negociación del reajuste y en la reposición de partidas del Presupuesto.",
+   "detalle": "El acuerdo de 2023 del gobierno anterior con los mismos gremios costó US$30 millones. Según el exministro Ignacio Briones, solo el aumento de la devolución del impuesto al diésel costaría US$100 millones al año en régimen, unos $3,5 millones promedio por camionero (Radio U. de Chile, 14 nov). Hacienda dijo el 13 de noviembre que su informe financiero estaba en desarrollo (BioBioChile)."
   }
  ],
  "economia": {
@@ -123,7 +133,7 @@
     "pregunta": "¿Alcanza para comer?",
     "valor": "70%",
     "semaforo": "rojo",
-    "estado": "Recorta otros gastos",
+    "estado": "de los encuestados",
     "texto": "Redujo otros gastos del hogar en el último año para poder comprar comida. Un 11% se endeudó para hacerlo.",
     "fuente": "Encuesta Cheaf Chile, vía T13, 15 nov"
    },
@@ -195,14 +205,6 @@
    "titulo": "Quiroz reconoce por primera vez que Chile está en recesión técnica",
    "resumen": "El ministro lo atribuye a la caída del cobre; el PIB del tercer trimestre se conoce el 18 de noviembre.",
    "url": "https://chocale.cl/2026/11/quiroz-reconoce-por-primera-vez-que-chile-esta-en-recesion-tecnica/"
-  },
-  {
-   "fecha": "2026-11-12",
-   "tema": "Costo de la vida",
-   "medio": "Chócale",
-   "titulo": "Gobierno rebaja $140 el diésel y congela alzas hasta marzo",
-   "resumen": "Acuerdo con transportistas: techo de precios hasta el 31 de marzo de 2027.",
-   "url": "https://chocale.cl/2026/11/gobierno-rebaja-140-el-diesel-y-congela-alzas-hasta-marzo/"
   },
   {
    "fecha": "2026-11-12",
@@ -299,6 +301,14 @@
    "carrusel": true,
    "titulo_carrusel": "«La defenderemos en la calle»: FTC acusa intento de privatizar Codelco",
    "orden_carrusel": 5
+  },
+  {
+   "fecha": "2026-11-14",
+   "tema": "Sala cuna",
+   "medio": "CNN Chile",
+   "titulo": "“El momento es ahora”: Más de 140 economistas y académicos piden aprobar el proyecto de Sala Cuna Universal",
+   "resumen": "Firman, entre otros, Cecilia Cifuentes, Mario Marcel, José De Gregorio e Ignacio Briones.",
+   "url": "https://www.cnnchile.com/pais/el-momento-es-ahora-mas-de-140-economistas-y-academicos-piden-aprobar-el-proyecto-de-sala-cuna-universal/"
   }
  ]
 }

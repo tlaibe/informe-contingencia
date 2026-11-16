@@ -83,7 +83,7 @@
       c.append(izq, der);
       cuerpo.append(c);
     });
-    cuerpo.append(cajaAzul(ed.resumen.cierre_titulo || 'Qué significa para los gremios', ed.resumen.cierre, 27));
+    cuerpo.append(cajaAzul(ed.resumen.cierre_titulo || 'Lo clave de la semana', ed.resumen.cierre, 27));
     s.append(encabezado(3), titulo('Nuestra lectura de la semana', 'Resumen político'), cuerpo);
     return s;
   }

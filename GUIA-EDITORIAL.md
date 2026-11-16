@@ -40,7 +40,7 @@ Como plantilla se usa la edición anterior: se copia su `edicion.json` y se actu
 
 - `id`, `numero` (correlativo), `estado` (`"borrador"` o `"publicada"`), `rango` (por ejemplo, "9 al 13 de noviembre de 2026").
 - `portada.kicker` ("Edición N° 2 · 9 al 13 de noviembre 2026") y `portada.bajada` (se mantiene).
-- `resumen.items`: exactamente 3, cada uno con `cifra` (un número llamativo, como "22%"), `etiqueta` (2 a 5 palabras), `titulo` (hasta unos 40 caracteres) y `texto` (hasta unos 230 caracteres, con la fuente entre paréntesis). Además, `resumen.cierre_titulo` ("Qué significa para los gremios") y `resumen.cierre` (hasta unos 200 caracteres).
+- `resumen.items`: exactamente 3, cada uno con `cifra` (un número llamativo, como "22%"), `etiqueta` (2 a 5 palabras), `titulo` (hasta unos 40 caracteres) y `texto` (hasta unos 230 caracteres, con la fuente entre paréntesis). Además, `resumen.cierre_titulo` ("Lo clave de la semana": la idea que amarra lo más importante de la semana) y `resumen.cierre` (hasta unos 200 caracteres).
 - `frentes`: los temas legislativos o administrativos en seguimiento. Cada uno lleva:
   - Para el sitio: `frente`, `pasos` (etapas separadas por `|`), `paso_actual` (empieza en 1), `en_que_va`, `que_viene`, `que_hacer` y `detalle` (opcional, más extenso).
   - Para el carrusel, en `carrusel`: `titulo`, `etiqueta` (la etapa, en pocas palabras), `color` (`"naranjo"` si hay una urgencia o algo en juego esta semana, `"azul"` si está en implementación o estable), `texto` (hasta unos 230 caracteres; se puede usar `**negrita**` en cifras clave) y `proximo` (el próximo hito con fecha).
