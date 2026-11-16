@@ -98,26 +98,6 @@
     "texto": "Ingresó el 12 de noviembre con **3 capítulos** y 10 firmas, por rebajas de condena e información inexacta al Congreso. Parisi: «hay una mayoría en el PDG a favor»; aún sin decisión definitiva.",
     "proximo": "sorteo de comisión, lun 16 nov"
    }
-  },
-  {
-   "id": "contratas",
-   "frente": "Renovación de contratas 2027",
-   "pasos": "Evaluación|Aviso|Reclamo|Resolución",
-   "paso_actual": 2,
-   "en_que_va": "Los servicios siguen decidiendo qué contratas no renuevan. En el Servicio Nacional de Migraciones, la asociación de funcionarios advierte que entre 80 y 100 contratas podrían no renovarse, según información preliminar de la jefatura (El Mostrador, 14 nov). La ANEF aprobó un plan de movilizaciones escalonadas durante noviembre.",
-   "que_viene": "Último día para avisar una no renovación: 30 de noviembre. Los funcionarios de Migraciones se reúnen con su director nacional el martes 17.",
-   "que_hacer": "Hacer una lista de las personas en riesgo, pedir los fundamentos por escrito y preparar reclamos ante Contraloría.",
-   "detalle": "Según la ANEF, cerca del 70% de los funcionarios de la administración central está a contrata (El Siglo, 9 nov). La ANEF cuestiona criterios arbitrarios para desvincular y recortes en jardines infantiles, JUNAEB, SernamEG, SENAMA y SENADIS. Con cinco años o más continuos en el mismo servicio, la Corte Suprema exige que la no renovación esté bien fundamentada (confianza legítima)."
-  },
-  {
-   "id": "reconstruccion",
-   "frente": "Ley de Reconstrucción (Ley 21.850)",
-   "pasos": "Congreso|Publicación|Normas del SII|Aplicación",
-   "paso_actual": 3,
-   "en_que_va": "Publicada en el Diario Oficial el 17 de octubre. El SII prepara 13 circulares y 17 resoluciones para aplicarla. No hubo novedades de fondo esta semana.",
-   "que_viene": "IVA transitorio a viviendas nuevas desde diciembre, siete medidas desde el primer día hábil de 2027 (entre ellas, cambios al crédito Sence) y rebaja del impuesto a grandes empresas, de 27% a 23%, desde enero de 2029.",
-   "que_hacer": "Seguir las circulares del SII y usar el costo fiscal de la rebaja como argumento en el reajuste.",
-   "detalle": "Funcionarios del SII cuestionaron al director Jorge Trujillo por convocar de manera discrecional a estudios jurídicos y auditoras para revisar las circulares de la ley. La rebaja gradual del impuesto de primera categoría significa menos recaudación y menos espacio para sueldos, dotaciones y programas."
   }
  ],
  "economia": {
@@ -173,14 +153,6 @@
   },
   {
    "fecha": "2026-11-13",
-   "tema": "Presupuesto",
-   "medio": "El Mostrador",
-   "titulo": "Cámara despacha Presupuesto 2027 tras maratónica sesión: Quiroz anuncia ajustes en el Senado",
-   "resumen": "Educación se rechazó por empate 72 a 72; Quiroz buscará reponer las partidas con ajustes.",
-   "url": "https://www.elmostrador.cl/noticias/pais/2026/11/13/camara-despacha-presupuesto-2027-tras-maratonica-sesion-quiroz-anuncia-ajustes-en-el-senado/"
-  },
-  {
-   "fecha": "2026-11-13",
    "tema": "Costo de la vida",
    "medio": "T13",
    "titulo": "Gobierno confirma que gasto fiscal por acuerdo con camioneros alcanzará los USD$900 millones",
@@ -215,27 +187,6 @@
    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/14/cut-confech-y-8m-anuncian-cacerolazo-y-marchas-contra-los-recortes-y-el-alto-costo-de-vida.shtml",
    "carrusel": true,
    "orden_carrusel": 3
-  },
-  {
-   "fecha": "2026-11-09",
-   "tema": "Empleo público",
-   "medio": "El Siglo",
-   "titulo": "ANEF anuncia movilizaciones escalonadas ante recortes y no renovaciones",
-   "resumen": "Plan aprobado por su Asamblea Nacional; cerca del 70% de la administración central está a contrata.",
-   "url": "https://elsiglo.cl/anef-anuncia-movilizaciones-escalonadas-ante-recortes-y-no-renovaciones/",
-   "carrusel": true,
-   "orden_carrusel": 4
-  },
-  {
-   "fecha": "2026-11-14",
-   "tema": "Empleo público",
-   "medio": "El Mostrador",
-   "titulo": "Funcionarios de Migraciones cuestionan falta de transparencia ante anuncio de nuevos despidos",
-   "resumen": "Entre 80 y 100 contratas podrían no renovarse, según información preliminar.",
-   "url": "https://www.elmostrador.cl/noticias/2026/11/14/funcionarios-de-migraciones-cuestionan-falta-de-transparencia-ante-anuncio-de-nuevos-despidos/",
-   "carrusel": true,
-   "titulo_carrusel": "Funcionarios de Migraciones cuestionan falta de transparencia ante nuevos despidos",
-   "orden_carrusel": 5
   },
   {
    "fecha": "2026-11-11",
@@ -319,6 +270,35 @@
    "titulo": "Costo de la vida: 7 de cada 10 hogares redujeron otros gastos para poder comprar alimentos",
    "resumen": "Encuesta Cheaf Chile: 41% redujo carnes y proteínas y 11% se endeudó para comprar comida.",
    "url": "https://www.t13.cl/noticia/nacional/costo-vida-7-cada-10-hogares-redujeron-otros-gastos-para-poder-comprar-alimento-15-11-2026"
+  },
+  {
+   "fecha": "2026-11-13",
+   "tema": "Costo de la vida",
+   "medio": "Emol",
+   "titulo": "\"Es una especie de desbencinazo\": ¿Qué opinan los economistas del acuerdo entre el Gobierno y los camioneros?",
+   "resumen": "Hacienda estima unos US$500 millones en 2026 y cerca de US$900 millones sumando 2027.",
+   "url": "https://www.emol.com/noticias/Economia/2026/11/13/1217023/combusbustibles-precios-proyecto-ley-congelar.html"
+  },
+  {
+   "fecha": "2026-11-13",
+   "tema": "Codelco",
+   "medio": "BioBioChile",
+   "titulo": "Gobierno estudia cambios legales para permitir participación privada en yacimientos de Codelco",
+   "resumen": "El biministro Daniel Mas no descarta capital privado en Gabriela Mistral y asegura que Codelco seguirá siendo estatal.",
+   "url": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/11/13/gobierno-estudia-cambios-legales-para-permitir-participacion-privada-en-yacimientos-de-codelco.shtml",
+   "carrusel": true,
+   "orden_carrusel": 4
+  },
+  {
+   "fecha": "2026-11-10",
+   "tema": "Codelco",
+   "medio": "BioBioChile",
+   "titulo": "\"La defenderemos en la calle\": FTC acusa intento de privatizar Codelco y desafía al Gobierno",
+   "resumen": "La Federación de Trabajadores del Cobre advierte acciones sindicales si se reduce la participación estatal.",
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/10/la-defenderemos-en-la-calle-ftc-acusa-intento-de-privatizar-codelco-y-desafia-al-gobierno.shtml",
+   "carrusel": true,
+   "titulo_carrusel": "«La defenderemos en la calle»: FTC acusa intento de privatizar Codelco",
+   "orden_carrusel": 5
   }
  ]
 }
