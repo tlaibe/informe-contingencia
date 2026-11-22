@@ -1,6 +1,12 @@
 {
  "ediciones": [
   {
+   "id": "2026-11-23",
+   "numero": 3,
+   "rango": "23 al 27 de noviembre de 2026",
+   "estado": "borrador"
+  },
+  {
    "id": "2026-11-16",
    "numero": 2,
    "rango": "16 al 20 de noviembre de 2026",

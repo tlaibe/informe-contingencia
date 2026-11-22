@@ -1,0 +1,291 @@
+{
+ "id": "2026-11-23",
+ "numero": 3,
+ "estado": "borrador",
+ "rango": "23 al 27 de noviembre de 2026",
+ "portada": {
+  "kicker": "Edición N° 3 · 23 al 27 de noviembre 2026",
+  "bajada": "Lo que todo dirigente necesita saber para empezar la semana."
+ },
+ "resumen": {
+  "items": [
+   {
+    "cifra": "7",
+    "etiqueta": "partidas repuestas",
+    "titulo": "Senado rearma el Presupuesto",
+    "texto": "Tras acuerdos con Hacienda, el Senado repuso las 7 partidas que rechazó la Cámara y el endeudamiento por US$25.000 millones. Solo rechazó Agricultura, por empate 14 a 14 (Emol, 20 nov)."
+   },
+   {
+    "cifra": "23%",
+    "etiqueta": "aprueba al Presidente",
+    "titulo": "Repunte leve, malestar alto",
+    "texto": "Criteria (19–20 nov): la aprobación sube de 18% a 23% y la desaprobación baja a 68%. El costo de la vida es la principal preocupación (52%). Quiroz: 70% lo desaprueba."
+   },
+   {
+    "cifra": "78",
+    "etiqueta": "votos para aprobar la acusación",
+    "titulo": "Acusación a Rabat, voto a voto",
+    "texto": "Conteo de El Mercurio (17 nov): 75 a favor, 76 en contra y 4 indecisos, 3 de ellos del PDG. La votación en la Sala sería a fines de noviembre o comienzos de diciembre (Pauta)."
+   }
+  ],
+  "cierre_titulo": "Lo clave de la semana",
+  "cierre": "El Gobierno sacó el Presupuesto del Senado negociando partida a partida. Esta semana se define en la Cámara, mientras la economía se contrae y gremios y estudiantes siguen en la calle."
+ },
+ "frentes": [
+  {
+   "id": "presupuesto",
+   "frente": "Presupuesto 2027",
+   "pasos": "Subcomisiones|Comisión Especial Mixta (CEMP)|Cámara|Senado|Tercer trámite y comisión mixta|Ley",
+   "paso_actual": 5,
+   "en_que_va": "El Senado despachó el proyecto a las 2:17 del viernes 20 de noviembre (El Mostrador). Repuso las siete partidas que había rechazado la Cámara: Interior, Educación, Minería, Segegob, Mujer, Culturas y Ciencia, con unos $84 mil millones netos adicionales (Emol). También repuso la autorización para endeudarse hasta por US$25.000 millones en 2027 (31 votos a favor y 10 en contra). La única partida rechazada fue Agricultura, por empate 14 a 14, por los recortes a INDAP y Prodesal.",
+   "que_viene": "La Cámara revisa los cambios del Senado el lunes 23 de noviembre a las 15:30, en tercer trámite: solo puede aprobarlos o rechazarlos (El Mostrador, Emol). Lo que rechace pasa a una comisión mixta de 5 senadores y 5 diputados, que podría sesionar el martes 24 y miércoles 25. Ambas cámaras deben despachar antes del domingo 29 de noviembre, cuando vence el plazo constitucional (Emol).",
+   "que_hacer": "Revisar en el texto final qué pasó con los programas y servicios de cada gremio, y llevar a la comisión mixta los recortes que siguen pendientes, como Agricultura.",
+   "detalle": "Educación sumó $47.927 millones por un acuerdo con Hacienda (25 votos a favor y 2 en contra), que incluye $35 mil millones para Yo Elijo Mi PC, cuyo rediseño debe estar listo a más tardar el 30 de junio de 2027, y $6.300 millones para educación superior (Emol, El Periodista). Salud: $5.464 millones netos para la Ley Ricarte Soto y mesas de trabajo sobre listas de espera y atención primaria. Cultura: $9.553 millones más; Ciencia: $5.000 millones para Fondequip; Interior: $282 millones para Senapred. El Tesoro Público incluye $161.844 millones para el Fondo Autónomo de Protección Previsional (Emol). En Mujer se creó «Mujer Emprende», con $100 millones, en reemplazo de Prodemu (El Mostrador). En Justicia, el Senado aprobó 16 a 13 una indicación que obliga a revisar las rebajas de condena resueltas en 2026; el Ejecutivo la declaró inadmisible y anunció reserva de constitucionalidad (Emol). Se rechazaron los recursos de dos subsidios de vivienda (Protección del Patrimonio Familiar y Habitabilidad Rural) y se eliminó el artículo que postergaba un año el traspaso de cinco SLEP.",
+   "carrusel": {
+    "etiqueta": "Tercer trámite",
+    "color": "naranjo",
+    "texto": "El Senado repuso las **7 partidas** rechazadas por la Cámara y el endeudamiento por **US$25.000 millones**. Solo rechazó Agricultura (**14 a 14**). Lo que la Cámara no acepte irá a comisión mixta.",
+    "proximo": "Cámara, lun 23 nov, 15:30 · plazo 29 nov"
+   }
+  },
+  {
+   "id": "reajuste",
+   "frente": "Reajuste del sector público",
+   "pasos": "Pliego|Negociación|Congreso|Ley",
+   "paso_actual": 2,
+   "en_que_va": "La negociación partió el lunes 16 de noviembre con los ministros Quiroz (Hacienda) y Rau (Trabajo), Dipres y el Servicio Civil (PoderLaboral). El jueves 19 el Ejecutivo presentó el escenario macroeconómico y las proyecciones fiscales, y la Mesa reafirmó su demanda de 6,3% nominal, 2% real (Ovejero Noticias). El viernes 20 hubo una reunión técnica sobre incentivo al retiro. Aún no hay oferta del Gobierno.",
+   "que_viene": "El lunes 23 de noviembre se retoman las reuniones bilaterales y los gremios esperan la primera respuesta del Ejecutivo durante esta semana (Radio U. de Chile). La Mesa busca cerrar el diálogo a fines de noviembre para que el reajuste se apruebe en diciembre.",
+   "que_hacer": "Defender el piso de la inflación: 4,5% en 12 meses a octubre (INE). Un reajuste menor que eso es perder poder de compra. Vincular la negociación con la renovación de las contratas.",
+   "detalle": "La Mesa del Sector Público agrupa a 16 organizaciones, coordinadas por la CUT, y pide financiar el reajuste con el Tesoro Público, sin reducir personal ni eliminar programas (Radio U. de Chile). Laura San Martín (CUT): «tuvimos 48 reuniones en la mesa de trabajo y todavía no tenemos respuesta». Carlos Insunza (CUT): «hay una voluntad de despido discrecional que está en marcha». José Pérez Debelli (ANEF) pide recuperar el poder adquisitivo con el IPC acumulado (PoderLaboral). Según Criteria (19–20 nov), el ministro Quiroz tiene 70% de desaprobación.",
+   "carrusel": {
+    "titulo": "Reajuste del Sector Público",
+    "etiqueta": "Se espera la oferta",
+    "color": "naranjo",
+    "texto": "Hacienda ya presentó su escenario macro, pero aún no hay oferta. La Mesa pide **6,3%** y quiere cerrar a fin de mes para aprobarlo en diciembre. Con inflación de **4,5%**, menos es perder poder de compra.",
+    "proximo": "reuniones bilaterales desde lun 23 nov"
+   }
+  },
+  {
+   "id": "contratas",
+   "frente": "Renovación de contratas 2027",
+   "pasos": "Aviso de no renovación|Renovación o término|31 de diciembre",
+   "paso_actual": 1,
+   "en_que_va": "Los empleos a contrata duran como máximo hasta el 31 de diciembre de cada año (Estatuto Administrativo, artículo 10). Según la ANEF, el 30 de noviembre es el plazo para saber quiénes no continuarán, y quienes salen lo hacen sin indemnización (PoderLaboral). Gremios como la CUT y CONFEDEPRUS alertan riesgo de despidos por los recortes del Presupuesto y exigen que el Gobierno se pronuncie antes de fin de mes.",
+   "que_viene": "Esta semana es la última antes del lunes 30 de noviembre. La Mesa del Sector Público pidió tratar la renovación de las contratas en la misma negociación del reajuste (Radio U. de Chile).",
+   "que_hacer": "Levantar en cada servicio quiénes podrían no ser renovados, exigir que toda no renovación sea por acto escrito y fundado, y asesorar a los afectados: hay plazos cortos para reclamar ante Contraloría o presentar un recurso de protección (30 días).",
+   "detalle": "La Corte Suprema ha reconocido la «confianza legítima» a funcionarios con renovaciones sucesivas, lo que obliga a fundamentar la no renovación. Los criterios exactos (años de renovación, plazos de aviso) conviene verificarlos con la asesoría jurídica de cada gremio o en los dictámenes de Contraloría.",
+   "carrusel": {
+    "titulo": "Contratas: plazo del 30 de noviembre",
+    "etiqueta": "Última semana",
+    "color": "naranjo",
+    "texto": "Según la ANEF, el **30 de noviembre** es el plazo para saber quiénes no seguirán en 2027. Los gremios alertan despidos por los recortes. Toda no renovación debe ser por **acto escrito y fundado**.",
+    "proximo": "plazo de aviso, lun 30 nov"
+   }
+  },
+  {
+   "id": "sala-cuna",
+   "frente": "Sala Cuna Universal",
+   "pasos": "Senado|Comisión de Trabajo|Comisión de Hacienda|Sala de la Cámara|Tercer trámite en el Senado|Ley",
+   "paso_actual": 5,
+   "en_que_va": "La Cámara aprobó el proyecto el miércoles 18 de noviembre: el informe de Trabajo por 132 votos a favor, 0 en contra y 12 abstenciones, y el financiamiento por 114 a favor, 1 en contra y 29 abstenciones (Emol). Elimina el requisito de 20 trabajadoras y crea un Fondo de Sala Cuna, financiado con una cotización del empleador de 0,30%, que sale del seguro de cesantía.",
+   "que_viene": "Vuelve al Senado en tercer trámite, que lo revisaría esta semana (Chicureo Hoy). Si el Senado rechaza los cambios de la Cámara, irá a comisión mixta.",
+   "que_hacer": "Tener presente que el sector público entra recién al mes 48 de vigencia de la ley, y seguir el compromiso de poner un tope al copago de las familias.",
+   "detalle": "Gradualidad: al mes 12 de publicada la ley, las mujeres trabajadoras (incluidas las de casa particular); al mes 36, hombres cuya pareja no trabaja; al mes 48, todos los trabajadores, incluido el sector público (Emol). Copago: un suplemento según el Registro Social de Hogares cubre 50% de la diferencia para el 40% más vulnerable y 30% para el tramo 41% a 60% (BioBioChile). El ministro Rau comprometió un tope de 20% al copago mediante un proyecto posterior (Chicureo Hoy).",
+   "carrusel": {
+    "titulo": "Sala Cuna vuelve al Senado",
+    "etiqueta": "Tercer trámite",
+    "color": "azul",
+    "texto": "La Cámara lo aprobó por **132 votos** y **0 en contra**. Se financia con una cotización del empleador de **0,30%**. El sector público entra al mes 48 de vigencia de la ley.",
+    "proximo": "votación en el Senado, semana del 23 nov"
+   }
+  },
+  {
+   "id": "acusacion-rabat",
+   "frente": "Acusación constitucional contra el ministro Rabat",
+   "pasos": "Ingreso|Comisión|Sala de la Cámara|Senado",
+   "paso_actual": 2,
+   "en_que_va": "La comisión revisora quedó integrada por Lorena Pizarro (PC), Lorena Fries (FA), Raúl Soto (PPD), que la preside, Carlos Chandía (RN) y Germán Verdugo (PNL): tres de cinco son de oposición (Pauta). Rabat fue notificado el 17 de noviembre y tiene 10 días para responder. El Gobierno aún no entrega todos los decretos de rebaja de condena solicitados (El Dínamo, 21 nov).",
+   "que_viene": "Rabat y el exsubsecretario Luis Silva fueron citados a la comisión el lunes 23 de noviembre a las 16:00 (El Dínamo). Tras la defensa, la comisión tiene seis días para su informe. La votación en la Sala sería a fines de noviembre o comienzos de diciembre y requiere 78 votos con asistencia completa (Pauta).",
+   "que_hacer": "Seguirla como termómetro de la fuerza del Gobierno en la Cámara, que esta misma semana define el Presupuesto.",
+   "detalle": "Conteo de El Mercurio (17 nov): 75 votos a favor, 76 en contra y 4 indecisos, tres de ellos del PDG, que aún no fija postura como bancada (Emol). Según Criteria (19–20 nov), Rabat tiene 73% de desaprobación. Si la Cámara aprueba, queda suspendido mientras resuelve el Senado; si el Senado la acoge, es destituido e inhabilitado por cinco años."
+  }
+ ],
+ "economia": {
+  "titulo": "Los datos de la semana",
+  "indicadores": [
+   {
+    "pregunta": "¿Creció la economía?",
+    "valor": "-1,1%",
+    "semaforo": "rojo",
+    "estado": "Cayó más de lo esperado",
+    "texto": "El PIB del tercer trimestre cayó 1,1% frente a 2025, arrastrado por la minería (-14,7%). La inversión cayó 6,7%.",
+    "fuente": "Banco Central, Cuentas Nacionales, 18 nov (Emol, DF)"
+   },
+   {
+    "pregunta": "¿Gastan más las familias?",
+    "valor": "+0,7%",
+    "semaforo": "amarillo",
+    "estado": "Casi sin crecer",
+    "texto": "Es lo que creció el consumo de los hogares en el tercer trimestre, sobre todo en alimentos y vestuario.",
+    "fuente": "Banco Central, Cuentas Nacionales, 18 nov"
+   },
+   {
+    "pregunta": "¿Cuánto vale el dólar?",
+    "valor": "$1.014",
+    "semaforo": "rojo",
+    "estado": "Sigue subiendo",
+    "texto": "Cerró así el jueves 19, su valor más alto desde enero de 2025. La semana pasada había tocado $1.000.",
+    "fuente": "Emol y El Desconcierto, 19 nov"
+   },
+   {
+    "pregunta": "¿Cuánto perdieron las AFP?",
+    "valor": "10.796",
+    "semaforo": "rojo",
+    "estado": "Millones de dólares",
+    "texto": "Pérdidas en derivados al 5 de noviembre. El Fondo E rentó -10,39% real a septiembre.",
+    "fuente": "Superintendencia de Pensiones, vía Pauta, 19 nov"
+   }
+  ],
+  "sintesis": "La economía se achicó en el tercer trimestre, las familias apenas gastan más y el dólar sigue en alza, lo que encarece lo importado. A esto se suman las pérdidas de las AFP, que golpean a quienes están por jubilar.",
+  "fuentes": "Banco Central, Superintendencia de Pensiones y prensa citada"
+ },
+ "noticias": [
+  {
+   "fecha": "2026-11-20",
+   "tema": "Presupuesto",
+   "medio": "Emol",
+   "titulo": "Presupuesto 2027: Los recursos que el Senado restituyó, los programas que quedaron fuera y la partida que rechazó",
+   "resumen": "Repuso las siete partidas rechazadas en la Cámara y el endeudamiento; Agricultura quedó para comisión mixta.",
+   "url": "https://www.emol.com/noticias/Nacional/2026/11/20/1217659/senado-presupuesto-2027.html",
+   "carrusel": true,
+   "titulo_carrusel": "Presupuesto 2027: lo que el Senado restituyó y la partida que rechazó",
+   "orden_carrusel": 1
+  },
+  {
+   "fecha": "2026-11-20",
+   "tema": "Presupuesto",
+   "medio": "El Mostrador",
+   "titulo": "Presupuesto 2027: Gobierno logra despacho en el Senado con malos ratos en Justicia y Agricultura",
+   "resumen": "Despacho a las 2:17 del viernes; la Cámara revisa los cambios el lunes 23 a las 15:30.",
+   "url": "https://www.elmostrador.cl/noticias/pais/2026/11/20/presupuesto-2027-gobierno-logra-despacho-en-el-senado-con-malos-ratos-en-justicia-y-agricultura/"
+  },
+  {
+   "fecha": "2026-11-18",
+   "tema": "Economía",
+   "medio": "Emol",
+   "titulo": "PIB de Chile se hunde más de lo esperado en el tercer trimestre: Cae 1,1%",
+   "resumen": "La minería cayó 14,7% y la inversión 6,7%; el consumo de los hogares creció apenas 0,7%.",
+   "url": "https://www.emol.com/noticias/Economia/2026/11/18/1217423/pib-banco-central-cuentas-nacionales.html",
+   "carrusel": true,
+   "orden_carrusel": 2
+  },
+  {
+   "fecha": "2026-11-16",
+   "tema": "Reajuste",
+   "medio": "Radio U. de Chile",
+   "titulo": "Mesa del Sector Público inicia negociación por reajuste: “Hay una voluntad de despido discrecional”",
+   "resumen": "Los gremios esperan la primera respuesta del Gobierno esta semana y piden tratar la renovación de contratas.",
+   "url": "https://radio.uchile.cl/2026/11/16/mesa-del-sector-publico-inicia-negociacion-por-reajuste-hay-una-voluntad-de-despido-discrecional/",
+   "carrusel": true,
+   "titulo_carrusel": "Mesa del Sector Público inicia negociación: «Hay una voluntad de despido discrecional»",
+   "orden_carrusel": 3
+  },
+  {
+   "fecha": "2026-11-19",
+   "tema": "Reajuste",
+   "medio": "PoderLaboral",
+   "titulo": "Sector público inicia negociación del reajuste 2027 con Hacienda y Trabajo en un contexto de recortes presupuestarios",
+   "resumen": "La ANEF advierte que el 30 de noviembre se sabrá quiénes no siguen a contrata.",
+   "url": "https://poderlaboral.cl/2026/11/19/sector-publico-inicia-negociacion-del-reajuste-2027-con-hacienda-y-trabajo-en-un-contexto-de-recortes-presupuestarios/"
+  },
+  {
+   "fecha": "2026-11-18",
+   "tema": "Movilización",
+   "medio": "Cooperativa",
+   "titulo": "Marcha \"contra los recortes\" unió a la CUT, estudiantes y gremios de la salud en la Alameda",
+   "resumen": "Miles marcharon en Santiago; la CUT habló de movilizaciones en 25 provincias.",
+   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/marcha-contra-los-recortes-unio-a-la-cut-estudiantes-y-gremios-de/2026-11-18/142556.html",
+   "carrusel": true,
+   "titulo_carrusel": "Marcha «contra los recortes» unió a la CUT, estudiantes y gremios de la salud",
+   "orden_carrusel": 4
+  },
+  {
+   "fecha": "2026-11-19",
+   "tema": "Educación",
+   "medio": "Radio U. de Chile",
+   "titulo": "Colegio de Profesores convoca a marcha nacional contra recortes a la educación pública en el Presupuesto 2027",
+   "resumen": "Martes 24 de noviembre, desde las 10:30, de Plaza Baquedano a Los Héroes.",
+   "url": "https://radio.uchile.cl/2026/11/19/colegio-de-profesores-convoca-a-marcha-nacional-contra-recortes-a-la-educacion-publica-en-el-presupuesto-2027/",
+   "carrusel": true,
+   "titulo_carrusel": "Profesores convocan a marcha nacional contra recortes, el martes 24",
+   "orden_carrusel": 5
+  },
+  {
+   "fecha": "2026-11-19",
+   "tema": "Pensiones",
+   "medio": "Pauta",
+   "titulo": "AFP acumulan pérdidas por US$10.796 millones en swaps: cómo afectan a los jubilados y qué investiga la Superintendencia",
+   "resumen": "El superintendente expuso en la Cámara; aún no hay cargos y se abrió un nuevo recálculo para pensionados.",
+   "url": "https://www.pauta.cl/actualidad/2026/11/19/afp-acumulan-perdidas-por-us10-796-millones-en-swaps-como-afectan-a-los-jubilados-y-que-investiga-la-superintendencia.html",
+   "carrusel": true,
+   "titulo_carrusel": "AFP acumulan pérdidas por US$10.796 millones en swaps: qué investiga la Superintendencia",
+   "orden_carrusel": 6
+  },
+  {
+   "fecha": "2026-11-18",
+   "tema": "Sala cuna",
+   "medio": "Emol",
+   "titulo": "Con abstenciones de la izquierda: Cámara aprueba Sala Cuna Universal y lo despacha al Senado",
+   "resumen": "132 votos a favor en general; el financiamiento tuvo 29 abstenciones.",
+   "url": "https://www.emol.com/noticias/Nacional/2026/11/18/1217487/camara-aprueba-sala-cuna.html"
+  },
+  {
+   "fecha": "2026-11-17",
+   "tema": "Sala cuna",
+   "medio": "BioBioChile",
+   "titulo": "Sala Cuna Universal: aprueban nuevo financiamiento y ayudas para familias vulnerables",
+   "resumen": "La cotización baja de 0,35% a 0,30% y se crea un apoyo al copago según el Registro Social de Hogares.",
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/17/sala-cuna-universal-aprueban-nuevo-financiamiento-y-ayudas-para-familias-vulnerables.shtml"
+  },
+  {
+   "fecha": "2026-11-16",
+   "tema": "Costo de la vida",
+   "medio": "El Mostrador",
+   "titulo": "Congreso despacha ley para contener alza de combustibles: bencinas bajarán $40 y diésel $140",
+   "resumen": "El Senado la aprobó con 33 votos; el costo fiscal es de $820 mil millones.",
+   "url": "https://www.elmostrador.cl/noticias/pais/2026/11/16/congreso-despacha-ley-para-contener-alza-de-combustibles-bencinas-bajaran-40-y-diesel-140/"
+  },
+  {
+   "fecha": "2026-11-17",
+   "tema": "Política",
+   "medio": "Pauta",
+   "titulo": "Acusación constitucional contra Rabat: plazos de la defensa y fecha de votación en la Cámara",
+   "resumen": "Diez días para la defensa y votación hacia fines de noviembre o comienzos de diciembre.",
+   "url": "https://www.pauta.cl/actualidad/2026/11/17/acusacion-constitucional-contra-rabat-plazos-de-la-defensa-y-fecha-de-votacion-en-la-camara.html"
+  },
+  {
+   "fecha": "2026-11-21",
+   "tema": "Política",
+   "medio": "El Dínamo",
+   "titulo": "Comisión revisora de AC contra Rabat: Gobierno aún no entrega todos los decretos solicitados",
+   "resumen": "El ministro fue citado a la comisión el lunes 23 a las 16:00.",
+   "url": "https://www.eldinamo.cl/politica/2026/11/21/comision-revisora-de-ac-contra-rabat-gobierno-aun-no-entrega-todos-los-decretos-solicitados/"
+  },
+  {
+   "fecha": "2026-11-22",
+   "tema": "Encuestas",
+   "medio": "BioBioChile",
+   "titulo": "Criteria: Aprobación del Presidente Kast sube al 23% tras estrepitosa caída de la semana pasada",
+   "resumen": "Sondeo del 19 y 20 de noviembre; 59% está en desacuerdo con el acuerdo con los camioneros.",
+   "url": "https://biobiochile.cl/noticias/nacional/chile/2026/11/22/criteria-aprobacion-del-presidente-kast-sube-al-23-tras-estrepitosa-caida-de-la-semana-pasada.shtml"
+  },
+  {
+   "fecha": "2026-11-19",
+   "tema": "Economía",
+   "medio": "El Desconcierto",
+   "titulo": "Dólar supera los $1.014 en Chile y alcanza su mayor valor en casi dos años",
+   "resumen": "Influyen la caída del cobre y la expectativa de nuevas alzas de tasas en Estados Unidos.",
+   "url": "https://eldesconcierto.cl/actualidad/dolar-supera-los-1014-chile-y-alcanza-su-mayor-valor-casi-dos-anos-n5464236"
+  }
+ ]
+}
