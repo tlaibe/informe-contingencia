@@ -10,10 +10,10 @@
  "resumen": {
   "items": [
    {
-    "cifra": "2",
-    "etiqueta": "acuerdos clave",
-    "titulo": "Senado: dos acuerdos clave",
-    "texto": "Con apoyo de PC y DC se repuso el endeudamiento por US$25.000 millones y se sumaron $47.927 millones a Educación, con Yo Elijo Mi PC. PS y FA los criticaron por insuficientes."
+    "cifra": "3",
+    "etiqueta": "acuerdos con DC y PC",
+    "titulo": "Presupuesto: tres acuerdos",
+    "texto": "En pensiones, salud y educación ($47.927 millones, con Yo Elijo Mi PC). Así, PC, DC y PPD repusieron el endeudamiento por US$25.000 millones; PS y FA votaron en contra (Radio U. de Chile)."
    },
    {
     "cifra": "23%",
@@ -29,7 +29,7 @@
    }
   ],
   "cierre_titulo": "Lo clave de la semana",
-  "cierre": "El Gobierno sacó el Presupuesto del Senado negociando partida a partida. Esta semana se define en la Cámara, mientras la economía se contrae y gremios y estudiantes siguen en la calle."
+  "cierre": "Ya van tres acuerdos del Gobierno con la DC, con Yasna Provoste de bisagra, y con el PC. El Socialismo Democrático, en cambio, está tensionado por el episodio Araya y la supuesta falsificación de firmas."
  },
  "frentes": [
   {
@@ -37,14 +37,14 @@
    "frente": "Presupuesto 2027",
    "pasos": "Subcomisiones|Comisión Especial Mixta (CEMP)|Cámara|Senado|Tercer trámite y comisión mixta|Ley",
    "paso_actual": 5,
-   "en_que_va": "El Senado despachó el proyecto a las 2:17 del viernes 20 de noviembre (El Mostrador). Lo central fueron dos acuerdos del Gobierno con el PC y la DC. El primero, en la partida del Tesoro Público, permitió reponer la autorización para endeudarse hasta por US$25.000 millones en 2027, que la Cámara había rechazado (31 votos a favor y 10 en contra). El segundo, en Educación, agregó $47.927 millones a la partida (25 votos a favor y 2 en contra): repone Yo Elijo Mi PC y suma recursos para universidades estatales y Liceos Bicentenario, entre otros (Emol, T13). El PS y el Frente Amplio lo criticaron por insuficiente. Además, el Senado repuso las demás partidas rechazadas por la Cámara y solo rechazó Agricultura, por empate 14 a 14.",
+   "en_que_va": "El Senado despachó el proyecto a las 2:17 del viernes 20 de noviembre (El Mostrador). Lo central fueron los acuerdos del ministro Quiroz con la DC, encabezada por Yasna Provoste, y el PC, en pensiones, salud y educación (Radio U. de Chile). Con ellos se repuso en la partida del Tesoro Público la autorización para endeudarse hasta por US$25.000 millones en 2027, que la Cámara había rechazado (31 votos a favor y 10 en contra, con PC, DC y PPD a favor y PS y FA en contra). En Educación se agregaron $47.927 millones (25 votos a favor y 2 en contra): se repone Yo Elijo Mi PC y se suman recursos para universidades estatales y Liceos Bicentenario, entre otros (Emol, T13). El PS y el Frente Amplio lo criticaron por insuficiente. Además, el Senado repuso las demás partidas rechazadas por la Cámara y solo rechazó Agricultura, por empate 14 a 14.",
    "que_viene": "La Cámara revisa los cambios del Senado el lunes 23 de noviembre a las 15:30, en tercer trámite: solo puede aprobarlos o rechazarlos (El Mostrador, Emol). Lo que rechace pasa a una comisión mixta de 5 senadores y 5 diputados, que podría sesionar el martes 24 y miércoles 25. Ambas cámaras deben despachar antes del domingo 29 de noviembre, cuando vence el plazo constitucional (Emol).",
    "que_hacer": "Revisar en el texto final qué pasó con los programas y servicios de cada gremio, y llevar a la comisión mixta los recortes que siguen pendientes, como Agricultura.",
-   "detalle": "Acuerdo de Educación: $35 mil millones para Yo Elijo Mi PC, que en 2027 irá a estudiantes de séptimo básico de colegios públicos y será rediseñado; $2.374 millones de aporte fiscal directo y $900 millones de aporte institucional para universidades estatales; $700 millones para Liceos Bicentenario; y una mesa con el CRUCH en 2027 sobre aranceles de gratuidad y un crédito que reemplace al CAE (T13, 19 nov). Lo negociaron la senadora Yasna Provoste (DC), el senador Gustavo Sanhueza (UDI) y los diputados Daniela Serrano (PC) y Luis Pardo (RN); Beatriz Sánchez (FA) y Alfonso de Urresti (PS) lo criticaron (Emol). El endeudamiento se aprobó con votos del PC, la DC y el PPD, con diferencias con el PS (Emol). Otras reposiciones: Salud, $5.464 millones netos para la Ley Ricarte Soto y mesas de trabajo sobre listas de espera y atención primaria; Cultura, $9.553 millones; Ciencia, $5.000 millones para Fondequip; Interior, $282 millones para Senapred; Tesoro Público, $161.844 millones para el Fondo Autónomo de Protección Previsional (Emol). En Mujer se creó «Mujer Emprende», con $100 millones, en reemplazo de Prodemu (El Mostrador). En Justicia, el Senado aprobó 16 a 13 una indicación que obliga a revisar las rebajas de condena resueltas en 2026; el Ejecutivo la declaró inadmisible y anunció reserva de constitucionalidad (Emol). Agricultura se rechazó por los recortes a INDAP y Prodesal.",
+   "detalle": "Acuerdo de Educación: $35 mil millones para Yo Elijo Mi PC, que en 2027 irá a estudiantes de séptimo básico de colegios públicos y será rediseñado; $2.374 millones de aporte fiscal directo y $900 millones de aporte institucional para universidades estatales; $700 millones para Liceos Bicentenario; y una mesa con el CRUCH en 2027 sobre aranceles de gratuidad y un crédito que reemplace al CAE (T13, 19 nov). Lo negociaron la senadora Yasna Provoste (DC), el senador Gustavo Sanhueza (UDI) y los diputados Daniela Serrano (PC) y Luis Pardo (RN); Beatriz Sánchez (FA) y Alfonso de Urresti (PS) lo criticaron (Emol). Los otros acuerdos: unos US$160 millones para el Fondo Autónomo de Protección Previsional y $28 mil millones para la Ley Ricarte Soto, con la senadora Karol Cariola (PC) como interlocutora en salud (Radio U. de Chile). Otras reposiciones: Salud, $5.464 millones netos para la Ley Ricarte Soto y mesas de trabajo sobre listas de espera y atención primaria; Cultura, $9.553 millones; Ciencia, $5.000 millones para Fondequip; Interior, $282 millones para Senapred; Tesoro Público, $161.844 millones para el Fondo Autónomo de Protección Previsional (Emol). En Mujer se creó «Mujer Emprende», con $100 millones, en reemplazo de Prodemu (El Mostrador). En Justicia, el Senado aprobó 16 a 13 una indicación que obliga a revisar las rebajas de condena resueltas en 2026; el Ejecutivo la declaró inadmisible y anunció reserva de constitucionalidad (Emol). Agricultura se rechazó por los recortes a INDAP y Prodesal.",
    "carrusel": {
     "etiqueta": "Tercer trámite",
     "color": "naranjo",
-    "texto": "Dos acuerdos con **PC y DC**: se repuso el endeudamiento por **US$25.000 millones** y se sumaron **$47.927 millones** a Educación. PS y FA los criticaron. Solo se rechazó Agricultura.",
+    "texto": "Acuerdos con **DC y PC** en pensiones, salud y educación repusieron el endeudamiento por **US$25.000 millones** y sumaron **$47.927 millones** a Educación. Solo se rechazó Agricultura.",
     "proximo": "Cámara, lun 23 nov, 15:30 · plazo 29 nov"
    }
   },
@@ -172,6 +172,14 @@
   {
    "fecha": "2026-11-19",
    "tema": "Presupuesto",
+   "medio": "Radio U. de Chile",
+   "titulo": "Ministro Quiroz logra acuerdo en el Senado y consigue aprobar autorización de deuda pública para 2027",
+   "resumen": "Concesiones en pensiones, salud y educación aseguraron los votos de PC, DC y PPD.",
+   "url": "https://radio.uchile.cl/2026/11/19/ministro-quiroz-logra-acuerdo-en-el-senado-y-consigue-aprobar-autorizacion-de-deuda-publica-para-2027/"
+  },
+  {
+   "fecha": "2026-11-19",
+   "tema": "Presupuesto",
    "medio": "T13",
    "titulo": "Los detalles del acuerdo en el Senado que permitió reponer programa \"Yo elijo mi PC\"",
    "resumen": "$35 mil millones para Yo Elijo Mi PC, más recursos para universidades estatales y Liceos Bicentenario.",
@@ -256,22 +264,6 @@
    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/17/sala-cuna-universal-aprueban-nuevo-financiamiento-y-ayudas-para-familias-vulnerables.shtml"
   },
   {
-   "fecha": "2026-11-16",
-   "tema": "Costo de la vida",
-   "medio": "El Mostrador",
-   "titulo": "Congreso despacha ley para contener alza de combustibles: bencinas bajarán $40 y diésel $140",
-   "resumen": "El Senado la aprobó con 33 votos; el costo fiscal es de $820 mil millones.",
-   "url": "https://www.elmostrador.cl/noticias/pais/2026/11/16/congreso-despacha-ley-para-contener-alza-de-combustibles-bencinas-bajaran-40-y-diesel-140/"
-  },
-  {
-   "fecha": "2026-11-17",
-   "tema": "Política",
-   "medio": "Pauta",
-   "titulo": "Acusación constitucional contra Rabat: plazos de la defensa y fecha de votación en la Cámara",
-   "resumen": "Diez días para la defensa y votación hacia fines de noviembre o comienzos de diciembre.",
-   "url": "https://www.pauta.cl/actualidad/2026/11/17/acusacion-constitucional-contra-rabat-plazos-de-la-defensa-y-fecha-de-votacion-en-la-camara.html"
-  },
-  {
    "fecha": "2026-11-21",
    "tema": "Política",
    "medio": "El Dínamo",
@@ -310,6 +302,14 @@
    "titulo": "Codelco abre un millón de hectáreas a privados en China: Congreso exige resguardo del control estatal",
    "resumen": "Ofrece 60 propiedades mineras a inversionistas; diputados piden mantener el control mayoritario estatal.",
    "url": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/11/21/codelco-abre-un-millon-de-hectareas-a-privados-en-china-congreso-exige-resguardo-del-control-estatal.shtml"
+  },
+  {
+   "fecha": "2026-11-20",
+   "tema": "Política",
+   "medio": "BioBioChile",
+   "titulo": "Querella, presión a Castro y tensiones PS-PPD: las consecuencias del escándalo por firmas en el Senado",
+   "resumen": "La senadora Órdenes niega haber firmado el retiro de su permiso, que subía el quórum para el endeudamiento; la Fiscalía investiga.",
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/20/querella-presion-a-castro-y-tensiones-ps-ppd-las-consecuencias-del-escandalo-por-firmas-en-el-senado.shtml"
   }
  ]
 }
