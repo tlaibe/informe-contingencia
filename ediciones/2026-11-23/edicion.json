@@ -73,14 +73,7 @@
    "en_que_va": "Los empleos a contrata duran como máximo hasta el 31 de diciembre de cada año (Estatuto Administrativo, artículo 10). Según la ANEF, el 30 de noviembre es el plazo para saber quiénes no continuarán, y quienes salen lo hacen sin indemnización (PoderLaboral). Gremios como la CUT y CONFEDEPRUS alertan riesgo de despidos por los recortes del Presupuesto y exigen que el Gobierno se pronuncie antes de fin de mes.",
    "que_viene": "Esta semana es la última antes del lunes 30 de noviembre. La Mesa del Sector Público pidió tratar la renovación de las contratas en la misma negociación del reajuste (Radio U. de Chile).",
    "que_hacer": "Levantar en cada servicio quiénes podrían no ser renovados, exigir que toda no renovación sea por acto escrito y fundado, y asesorar a los afectados: hay plazos cortos para reclamar ante Contraloría o presentar un recurso de protección (30 días).",
-   "detalle": "La Corte Suprema ha reconocido la «confianza legítima» a funcionarios con renovaciones sucesivas, lo que obliga a fundamentar la no renovación. Los criterios exactos (años de renovación, plazos de aviso) conviene verificarlos con la asesoría jurídica de cada gremio o en los dictámenes de Contraloría.",
-   "carrusel": {
-    "titulo": "Contratas: plazo del 30 de noviembre",
-    "etiqueta": "Última semana",
-    "color": "naranjo",
-    "texto": "Según la ANEF, el **30 de noviembre** es el plazo para saber quiénes no seguirán en 2027. Los gremios alertan despidos por los recortes. Toda no renovación debe ser por **acto escrito y fundado**.",
-    "proximo": "plazo de aviso, lun 30 nov"
-   }
+   "detalle": "La Corte Suprema ha reconocido la «confianza legítima» a funcionarios con renovaciones sucesivas, lo que obliga a fundamentar la no renovación. Los criterios exactos (años de renovación, plazos de aviso) conviene verificarlos con la asesoría jurídica de cada gremio o en los dictámenes de Contraloría."
   },
   {
    "id": "sala-cuna",
@@ -107,7 +100,14 @@
    "en_que_va": "La Cámara aprobó el proyecto el 27 de octubre por 100 votos a favor, 35 en contra y 1 abstención, y lo despachó al Senado (DF, Cooperativa). Crea el Fondo Nacional para la Vivienda (Fonavi), administrado por BancoEstado, que comprará créditos hipotecarios para primera vivienda de hasta 6.000 UF, con aportes fiscales de hasta US$2.000 millones en 36 meses, y un ahorro para la vivienda con bonificación estatal de 3% para el pie. También rebaja quórums en las sociedades anónimas y crea incentivos tributarios para invertir en empresas emergentes en bolsa.",
    "que_viene": "Segundo trámite en el Senado. La Cámara rechazó que las AFP administren el ahorro para la vivienda (48 votos a favor y 88 en contra) y el ministro Quiroz dijo que no insistirá (Cooperativa).",
    "que_hacer": "Contrastar la promesa de más crédito hipotecario con la capacidad de pago real de los hogares, que el propio Banco Central muestra en deterioro.",
-   "detalle": "Contraste entre el discurso y los datos del Banco Central. Al presentar el Informe de Estabilidad Financiera (18 nov, ICARE), la presidenta del Banco Central, Rosanna Costa, destacó «una banca que sigue siendo sólida para enfrentar situaciones bien extremas»; según BioBioChile, señaló que hoy no se observa un alza significativa de la morosidad de los hogares. Pero el mismo informe muestra que la mora de consumo bancaria subió de 1,6% a 2,5% entre 2022 y 2026, que cerca de la mitad de esa alza se explica por el desempleo (9,8%) y por búsquedas de trabajo de 8,2 meses (lo normal son 6), y que los tres quintiles de menores ingresos concentran el 49% del deterioro, aunque tienen solo el 17,9% de la deuda de consumo. Por eso el impacto en la banca «permanece acotado»: el ajuste recae en los hogares que menos le deben. La carga financiera sobre el ingreso laboral subió de 15% a 16%. Costa también advirtió que «las tasas largas están altas», lo que encarece los créditos hipotecarios. En ese contexto, el Fonavi busca ampliar el crédito para la primera vivienda, pero el Consejo Fiscal Autónomo advirtió que el proyecto no indica cómo se financiará el aporte, equivalente a 0,49% del PIB acumulado 2027–2029 (Poder y Liderazgo, 5 oct)."
+   "detalle": "Contraste entre el discurso y los datos del Banco Central. Al presentar el Informe de Estabilidad Financiera (18 nov, ICARE), la presidenta del Banco Central, Rosanna Costa, destacó «una banca que sigue siendo sólida para enfrentar situaciones bien extremas»; según BioBioChile, señaló que hoy no se observa un alza significativa de la morosidad de los hogares. Pero el mismo informe muestra que la mora de consumo bancaria subió de 1,6% a 2,5% entre 2022 y 2026, que cerca de la mitad de esa alza se explica por el desempleo (9,8%) y por búsquedas de trabajo de 8,2 meses (lo normal son 6), y que los tres quintiles de menores ingresos concentran el 49% del deterioro, aunque tienen solo el 17,9% de la deuda de consumo. Por eso el impacto en la banca «permanece acotado»: el ajuste recae en los hogares que menos le deben. La carga financiera sobre el ingreso laboral subió de 15% a 16%. Costa también advirtió que «las tasas largas están altas», lo que encarece los créditos hipotecarios. En ese contexto, el Fonavi busca ampliar el crédito para la primera vivienda, pero el Consejo Fiscal Autónomo advirtió que el proyecto no indica cómo se financiará el aporte, equivalente a 0,49% del PIB acumulado 2027–2029 (Poder y Liderazgo, 5 oct).",
+   "carrusel": {
+    "titulo": "MK4: mercado de capitales",
+    "etiqueta": "Senado",
+    "color": "azul",
+    "texto": "Crea un fondo con aportes fiscales de hasta **US$2.000 millones** para créditos de primera vivienda. Pero la mora de consumo subió de **1,6% a 2,5%** y el deterioro lo pagan los hogares más pobres (Banco Central).",
+    "proximo": "segundo trámite en el Senado, sin fecha"
+   }
   }
  ],
  "economia": {
