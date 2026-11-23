@@ -22,10 +22,10 @@
     "texto": "ANEF (lun 23 y jue 26), profesores (mar 24), 8M (mié 25), pobladores (vie 27) y No+AFP (sáb 28). La CUT cerrará la primera semana de diciembre (BioBioChile, 22 nov)."
    },
    {
-    "cifra": "78",
-    "etiqueta": "votos para aprobar la acusación",
-    "titulo": "Acusación a Rabat, voto a voto",
-    "texto": "Conteo de El Mercurio (17 nov): 75 a favor, 76 en contra y 4 indecisos, 3 de ellos del PDG. La votación en la Sala sería a fines de noviembre o comienzos de diciembre (Pauta)."
+    "cifra": "23%",
+    "etiqueta": "aprueba al Presidente",
+    "titulo": "Repunte leve, malestar alto",
+    "texto": "Criteria (19–20 nov): la aprobación sube de 18% a 23% y la desaprobación baja a 68%. El costo de la vida es la principal preocupación (52%). Quiroz: 70% lo desaprueba."
    }
   ],
   "cierre_titulo": "Lo clave de la semana",
@@ -108,16 +108,6 @@
    "que_viene": "Segundo trámite en el Senado. La Cámara rechazó que las AFP administren el ahorro para la vivienda (48 votos a favor y 88 en contra) y el ministro Quiroz dijo que no insistirá (Cooperativa).",
    "que_hacer": "Contrastar la promesa de más crédito hipotecario con la capacidad de pago real de los hogares, que el propio Banco Central muestra en deterioro.",
    "detalle": "Contraste entre el discurso y los datos del Banco Central. Al presentar el Informe de Estabilidad Financiera (18 nov, ICARE), la presidenta del Banco Central, Rosanna Costa, destacó «una banca que sigue siendo sólida para enfrentar situaciones bien extremas»; según BioBioChile, señaló que hoy no se observa un alza significativa de la morosidad de los hogares. Pero el mismo informe muestra que la mora de consumo bancaria subió de 1,6% a 2,5% entre 2022 y 2026, que cerca de la mitad de esa alza se explica por el desempleo (9,8%) y por búsquedas de trabajo de 8,2 meses (lo normal son 6), y que los tres quintiles de menores ingresos concentran el 49% del deterioro, aunque tienen solo el 17,9% de la deuda de consumo. Por eso el impacto en la banca «permanece acotado»: el ajuste recae en los hogares que menos le deben. La carga financiera sobre el ingreso laboral subió de 15% a 16%. Costa también advirtió que «las tasas largas están altas», lo que encarece los créditos hipotecarios. En ese contexto, el Fonavi busca ampliar el crédito para la primera vivienda, pero el Consejo Fiscal Autónomo advirtió que el proyecto no indica cómo se financiará el aporte, equivalente a 0,49% del PIB acumulado 2027–2029 (Poder y Liderazgo, 5 oct)."
-  },
-  {
-   "id": "acusacion-rabat",
-   "frente": "Acusación constitucional contra el ministro Rabat",
-   "pasos": "Ingreso|Comisión|Sala de la Cámara|Senado",
-   "paso_actual": 2,
-   "en_que_va": "La comisión revisora quedó integrada por Lorena Pizarro (PC), Lorena Fries (FA), Raúl Soto (PPD), que la preside, Carlos Chandía (RN) y Germán Verdugo (PNL): tres de cinco son de oposición (Pauta). Rabat fue notificado el 17 de noviembre y tiene 10 días para responder. El Gobierno aún no entrega todos los decretos de rebaja de condena solicitados (El Dínamo, 21 nov).",
-   "que_viene": "Rabat y el exsubsecretario Luis Silva fueron citados a la comisión el lunes 23 de noviembre a las 16:00 (El Dínamo). Tras la defensa, la comisión tiene seis días para su informe. La votación en la Sala sería a fines de noviembre o comienzos de diciembre y requiere 78 votos con asistencia completa (Pauta).",
-   "que_hacer": "Seguirla como termómetro de la fuerza del Gobierno en la Cámara, que esta misma semana define el Presupuesto.",
-   "detalle": "Conteo de El Mercurio (17 nov): 75 votos a favor, 76 en contra y 4 indecisos, tres de ellos del PDG, que aún no fija postura como bancada (Emol). Según Criteria (19–20 nov), Rabat tiene 73% de desaprobación. Si la Cámara aprueba, queda suspendido mientras resuelve el Senado; si el Senado la acoge, es destituido e inhabilitado por cinco años."
   }
  ],
  "economia": {
@@ -281,14 +271,6 @@
    "titulo": "Sala Cuna Universal: aprueban nuevo financiamiento y ayudas para familias vulnerables",
    "resumen": "La cotización baja de 0,35% a 0,30% y se crea un apoyo al copago según el Registro Social de Hogares.",
    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/17/sala-cuna-universal-aprueban-nuevo-financiamiento-y-ayudas-para-familias-vulnerables.shtml"
-  },
-  {
-   "fecha": "2026-11-21",
-   "tema": "Política",
-   "medio": "El Dínamo",
-   "titulo": "Comisión revisora de AC contra Rabat: Gobierno aún no entrega todos los decretos solicitados",
-   "resumen": "El ministro fue citado a la comisión el lunes 23 a las 16:00.",
-   "url": "https://www.eldinamo.cl/politica/2026/11/21/comision-revisora-de-ac-contra-rabat-gobierno-aun-no-entrega-todos-los-decretos-solicitados/"
   },
   {
    "fecha": "2026-11-22",
