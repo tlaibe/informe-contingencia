@@ -118,16 +118,16 @@
     "valor": "-1,1%",
     "semaforo": "rojo",
     "estado": "Cayó más de lo esperado",
-    "texto": "El PIB del tercer trimestre cayó 1,1% frente a 2025, arrastrado por la minería (-14,7%). La inversión cayó 6,7%.",
+    "texto": "El PIB del tercer trimestre cayó 1,1% frente a 2025, arrastrado por la minería (-14,7%). El consumo apenas creció 0,7%.",
     "fuente": "Banco Central, Cuentas Nacionales, 18 nov (Emol, DF)"
    },
    {
-    "pregunta": "¿Gastan más las familias?",
-    "valor": "+0,7%",
-    "semaforo": "amarillo",
-    "estado": "Casi sin crecer",
-    "texto": "Es lo que creció el consumo de los hogares en el tercer trimestre, sobre todo en alimentos y vestuario.",
-    "fuente": "Banco Central, Cuentas Nacionales, 18 nov"
+    "pregunta": "¿Cómo cerrará 2026?",
+    "valor": "-0,5%",
+    "semaforo": "rojo",
+    "estado": "Año en negativo",
+    "texto": "Caída acumulada a septiembre. Para cerrar en 0%, el último trimestre debe crecer más de 1,5%: expertos lo ven difícil.",
+    "fuente": "Emol, 18 nov (SURA Investments, XTB)"
    },
    {
     "pregunta": "¿Cuánto vale el dólar?",
@@ -146,8 +146,8 @@
     "fuente": "Superintendencia de Pensiones, vía Pauta, 19 nov"
    }
   ],
-  "sintesis": "La economía se achicó en el tercer trimestre, las familias apenas gastan más y el dólar sigue en alza, lo que encarece lo importado. A esto se suman las pérdidas de las AFP, que golpean a quienes están por jubilar.",
-  "fuentes": "Banco Central, Superintendencia de Pensiones y prensa citada"
+  "sintesis": "La economía se achicó y expertos ven «altamente probable» que 2026 cierre en negativo. Sin inversión, es difícil crear empleo. El dólar sigue al alza y las AFP suman pérdidas.",
+  "fuentes": "Banco Central, Superintendencia de Pensiones, Emol y prensa citada"
  },
  "noticias": [
   {
@@ -189,11 +189,12 @@
    "fecha": "2026-11-18",
    "tema": "Economía",
    "medio": "Emol",
-   "titulo": "PIB de Chile se hunde más de lo esperado en el tercer trimestre: Cae 1,1%",
-   "resumen": "La minería cayó 14,7% y la inversión 6,7%; el consumo de los hogares creció apenas 0,7%.",
-   "url": "https://www.emol.com/noticias/Economia/2026/11/18/1217423/pib-banco-central-cuentas-nacionales.html",
+   "titulo": "Minería golpea al PIB: Expertos ven \"altamente probable\" que Chile cierre el año en terreno negativo",
+   "resumen": "La actividad acumula -0,5% a septiembre; la inversión cayó 7,4% y el consumo creció solo 0,7%.",
+   "url": "https://www.emol.com/noticias/Economia/2026/11/18/1217461/pib-reacciones-mercado-chile.html",
    "carrusel": true,
-   "orden_carrusel": 2
+   "orden_carrusel": 2,
+   "titulo_carrusel": "Minería golpea al PIB: expertos ven «altamente probable» que 2026 cierre en negativo"
   },
   {
    "fecha": "2026-11-16",
