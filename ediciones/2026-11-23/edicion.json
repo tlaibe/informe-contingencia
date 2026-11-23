@@ -130,24 +130,24 @@
     "fuente": "Emol, 18 nov (SURA Investments, XTB)"
    },
    {
-    "pregunta": "¿Cuánto vale el dólar?",
-    "valor": "$1.014",
+    "pregunta": "¿Cuánto dura la cesantía?",
+    "valor": "8,2",
     "semaforo": "rojo",
-    "estado": "Sigue subiendo",
-    "texto": "Cerró así el jueves 19, su valor más alto desde enero de 2025. La semana pasada había tocado $1.000.",
-    "fuente": "Emol y El Desconcierto, 19 nov"
+    "estado": "Meses (lo normal: 6)",
+    "texto": "Es lo que dura hoy la búsqueda de empleo, con desempleo de 9,8%. La mora de consumo subió de 1,6% a 2,5% desde 2022.",
+    "fuente": "Banco Central, Informe de Estabilidad Financiera, nov 2026"
    },
    {
-    "pregunta": "¿Cuánto perdieron las AFP?",
-    "valor": "10.796",
+    "pregunta": "¿Quién paga el ajuste?",
+    "valor": "49%",
     "semaforo": "rojo",
-    "estado": "Millones de dólares",
-    "texto": "Pérdidas en derivados al 5 de noviembre. El Fondo E rentó -10,39% real a septiembre.",
-    "fuente": "Superintendencia de Pensiones, vía Pauta, 19 nov"
+    "estado": "Los más pobres",
+    "texto": "Del alza de la mora por desempleo recae en el 60% más pobre, que tiene solo el 17,9% de la deuda.",
+    "fuente": "Banco Central, Informe de Estabilidad Financiera, nov 2026"
    }
   ],
-  "sintesis": "La economía se achicó y expertos ven «altamente probable» que 2026 cierre en negativo. Sin inversión, es difícil crear empleo. El dólar sigue al alza y las AFP suman pérdidas.",
-  "fuentes": "Banco Central, Superintendencia de Pensiones, Emol y prensa citada"
+  "sintesis": "La economía se achica y hallar trabajo toma más tiempo. La banca está sólida, pero el ajuste lo pagan los hogares de menores ingresos.",
+  "fuentes": "Banco Central (Cuentas Nacionales e Informe de Estabilidad Financiera) y Emol"
  },
  "noticias": [
   {
