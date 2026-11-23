@@ -138,16 +138,16 @@
     "fuente": "DataVoz, GPS Ciudadano, vía Cooperativa, 19 nov"
    },
    {
-    "pregunta": "¿Quién paga el ajuste?",
-    "valor": "49%",
+    "pregunta": "¿Por qué sube el costo de vida?",
+    "valor": "77%",
     "semaforo": "rojo",
-    "estado": "Los más pobres",
-    "texto": "Del alza de la mora por desempleo recae en el 60% más pobre, que tiene solo el 17,9% de la deuda.",
-    "fuente": "Banco Central, Informe de Estabilidad Financiera, nov 2026"
+    "estado": "Apunta al Gobierno",
+    "texto": "Cree que las políticas del gobierno contribuyen al alza, el factor más mencionado. El 56% tiene dificultades económicas.",
+    "fuente": "Ipsos, Monitor del Costo de Vida, 16 nov"
    }
   ],
-  "sintesis": "La economía se achica y las familias recortan hasta en salud. La banca está sólida, pero el ajuste lo pagan los hogares de menores ingresos. Y la pobreza (17,3% en 2024) podría subir por segunda vez desde 1990.",
-  "fuentes": "Banco Central, DataVoz, Emol y La Tercera"
+  "sintesis": "La economía se achica, las familias recortan hasta en salud y el 77% cree que las políticas del gobierno encarecen la vida. Y la pobreza (17,3% en 2024) podría subir por segunda vez desde 1990.",
+  "fuentes": "Banco Central, DataVoz, Ipsos, Emol y La Tercera"
  },
  "noticias": [
   {
