@@ -16,10 +16,10 @@
     "texto": "En pensiones, salud y educación ($47.927 millones, con Yo Elijo Mi PC). Así, PC, DC y PPD repusieron el endeudamiento por US$25.000 millones; PS y FA votaron en contra (Radio U. de Chile)."
    },
    {
-    "cifra": "23%",
-    "etiqueta": "aprueba al Presidente",
-    "titulo": "Repunte leve, malestar alto",
-    "texto": "Criteria (19–20 nov): la aprobación sube de 18% a 23% y la desaprobación baja a 68%. El costo de la vida es la principal preocupación (52%). Quiroz: 70% lo desaprueba."
+    "cifra": "6",
+    "etiqueta": "días seguidos de protestas",
+    "titulo": "Seguidilla de marchas",
+    "texto": "ANEF (lun 23 y jue 26), profesores (mar 24), 8M (mié 25), pobladores (vie 27) y No+AFP (sáb 28). La CUT cerrará la primera semana de diciembre (BioBioChile, 22 nov)."
    },
    {
     "cifra": "78",
@@ -98,6 +98,16 @@
     "texto": "La Cámara lo aprobó por **132 votos** y **0 en contra**. Se financia con una cotización del empleador de **0,30%**. El sector público entra al mes 48 de vigencia de la ley.",
     "proximo": "votación en el Senado, semana del 23 nov"
    }
+  },
+  {
+   "id": "mk4",
+   "frente": "Reforma al mercado de capitales (MK4)",
+   "pasos": "Comisión de Hacienda de la Cámara|Sala de la Cámara|Senado|Ley",
+   "paso_actual": 3,
+   "en_que_va": "La Cámara aprobó el proyecto el 27 de octubre por 100 votos a favor, 35 en contra y 1 abstención, y lo despachó al Senado (DF, Cooperativa). Crea el Fondo Nacional para la Vivienda (Fonavi), administrado por BancoEstado, que comprará créditos hipotecarios para primera vivienda de hasta 6.000 UF, con aportes fiscales de hasta US$2.000 millones en 36 meses, y un ahorro para la vivienda con bonificación estatal de 3% para el pie. También rebaja quórums en las sociedades anónimas y crea incentivos tributarios para invertir en empresas emergentes en bolsa.",
+   "que_viene": "Segundo trámite en el Senado. La Cámara rechazó que las AFP administren el ahorro para la vivienda (48 votos a favor y 88 en contra) y el ministro Quiroz dijo que no insistirá (Cooperativa).",
+   "que_hacer": "Contrastar la promesa de más crédito hipotecario con la capacidad de pago real de los hogares, que el propio Banco Central muestra en deterioro.",
+   "detalle": "Contraste entre el discurso y los datos del Banco Central. Al presentar el Informe de Estabilidad Financiera (18 nov, ICARE), la presidenta del Banco Central, Rosanna Costa, destacó «una banca que sigue siendo sólida para enfrentar situaciones bien extremas»; según BioBioChile, señaló que hoy no se observa un alza significativa de la morosidad de los hogares. Pero el mismo informe muestra que la mora de consumo bancaria subió de 1,6% a 2,5% entre 2022 y 2026, que cerca de la mitad de esa alza se explica por el desempleo (9,8%) y por búsquedas de trabajo de 8,2 meses (lo normal son 6), y que los tres quintiles de menores ingresos concentran el 49% del deterioro, aunque tienen solo el 17,9% de la deuda de consumo. Por eso el impacto en la banca «permanece acotado»: el ajuste recae en los hogares que menos le deben. La carga financiera sobre el ingreso laboral subió de 15% a 16%. Costa también advirtió que «las tasas largas están altas», lo que encarece los créditos hipotecarios. En ese contexto, el Fonavi busca ampliar el crédito para la primera vivienda, pero el Consejo Fiscal Autónomo advirtió que el proyecto no indica cómo se financiará el aporte, equivalente a 0,49% del PIB acumulado 2027–2029 (Poder y Liderazgo, 5 oct)."
   },
   {
    "id": "acusacion-rabat",
@@ -208,6 +218,14 @@
    "orden_carrusel": 3
   },
   {
+   "fecha": "2026-11-22",
+   "tema": "Movilización",
+   "medio": "BioBioChile",
+   "titulo": "Organizaciones preparan seguidilla de marchas contra el gobierno de Kast: comenzarán este martes",
+   "resumen": "Profesores, ANEF, 8M, pobladores y No+AFP se movilizan del 23 al 28 de noviembre.",
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/22/organizaciones-preparan-seguidilla-de-marchas-contra-el-gobierno-de-kast-comenzaran-este-martes.shtml"
+  },
+  {
    "fecha": "2026-11-19",
    "tema": "Reajuste",
    "medio": "PoderLaboral",
@@ -279,14 +297,6 @@
    "titulo": "Criteria: Aprobación del Presidente Kast sube al 23% tras estrepitosa caída de la semana pasada",
    "resumen": "Sondeo del 19 y 20 de noviembre; 59% está en desacuerdo con el acuerdo con los camioneros.",
    "url": "https://biobiochile.cl/noticias/nacional/chile/2026/11/22/criteria-aprobacion-del-presidente-kast-sube-al-23-tras-estrepitosa-caida-de-la-semana-pasada.shtml"
-  },
-  {
-   "fecha": "2026-11-19",
-   "tema": "Economía",
-   "medio": "El Desconcierto",
-   "titulo": "Dólar supera los $1.014 en Chile y alcanza su mayor valor en casi dos años",
-   "resumen": "Influyen la caída del cobre y la expectativa de nuevas alzas de tasas en Estados Unidos.",
-   "url": "https://eldesconcierto.cl/actualidad/dolar-supera-los-1014-chile-y-alcanza-su-mayor-valor-casi-dos-anos-n5464236"
   },
   {
    "fecha": "2026-11-20",
