@@ -66,16 +66,6 @@
    }
   },
   {
-   "id": "contratas",
-   "frente": "Renovación de contratas 2027",
-   "pasos": "Aviso de no renovación|Renovación o término|31 de diciembre",
-   "paso_actual": 1,
-   "en_que_va": "Los empleos a contrata duran como máximo hasta el 31 de diciembre de cada año (Estatuto Administrativo, artículo 10). Según la ANEF, el 30 de noviembre es el plazo para saber quiénes no continuarán, y quienes salen lo hacen sin indemnización (PoderLaboral). Gremios como la CUT y CONFEDEPRUS alertan riesgo de despidos por los recortes del Presupuesto y exigen que el Gobierno se pronuncie antes de fin de mes.",
-   "que_viene": "Esta semana es la última antes del lunes 30 de noviembre. La Mesa del Sector Público pidió tratar la renovación de las contratas en la misma negociación del reajuste (Radio U. de Chile).",
-   "que_hacer": "Levantar en cada servicio quiénes podrían no ser renovados, exigir que toda no renovación sea por acto escrito y fundado, y asesorar a los afectados: hay plazos cortos para reclamar ante Contraloría o presentar un recurso de protección (30 días).",
-   "detalle": "La Corte Suprema ha reconocido la «confianza legítima» a funcionarios con renovaciones sucesivas, lo que obliga a fundamentar la no renovación. Los criterios exactos (años de renovación, plazos de aviso) conviene verificarlos con la asesoría jurídica de cada gremio o en los dictámenes de Contraloría."
-  },
-  {
    "id": "sala-cuna",
    "frente": "Sala Cuna Universal",
    "pasos": "Senado|Comisión de Trabajo|Comisión de Hacienda|Sala de la Cámara|Tercer trámite en el Senado|Ley",
@@ -210,10 +200,7 @@
    "medio": "Radio U. de Chile",
    "titulo": "Mesa del Sector Público inicia negociación por reajuste: “Hay una voluntad de despido discrecional”",
    "resumen": "Los gremios esperan la primera respuesta del Gobierno esta semana y piden tratar la renovación de contratas.",
-   "url": "https://radio.uchile.cl/2026/11/16/mesa-del-sector-publico-inicia-negociacion-por-reajuste-hay-una-voluntad-de-despido-discrecional/",
-   "carrusel": true,
-   "titulo_carrusel": "Mesa del Sector Público inicia negociación: «Hay una voluntad de despido discrecional»",
-   "orden_carrusel": 3
+   "url": "https://radio.uchile.cl/2026/11/16/mesa-del-sector-publico-inicia-negociacion-por-reajuste-hay-una-voluntad-de-despido-discrecional/"
   },
   {
    "fecha": "2026-11-22",
@@ -294,7 +281,10 @@
    "medio": "La Tercera",
    "titulo": "Contraloría oficia a Lincolao para que entregue información de acuerdo con OpenAI y le da plazo de diez días para responder",
    "resumen": "La ministra de Ciencia debe explicar el acuerdo, tras un requerimiento del diputado Jaime Araya por protección de datos.",
-   "url": "https://www.latercera.com/politica/noticia/contraloria-oficia-a-lincolao-para-que-entregue-informacion-de-acuerdo-con-openai-y-le-da-plazo-de-diez-dias-para-responder/"
+   "url": "https://www.latercera.com/politica/noticia/contraloria-oficia-a-lincolao-para-que-entregue-informacion-de-acuerdo-con-openai-y-le-da-plazo-de-diez-dias-para-responder/",
+   "carrusel": true,
+   "orden_carrusel": 3,
+   "titulo_carrusel": "Contraloría oficia a Lincolao por acuerdo con OpenAI y le da diez días para responder"
   },
   {
    "fecha": "2026-11-21",
