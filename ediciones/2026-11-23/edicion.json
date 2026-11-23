@@ -168,6 +168,17 @@
    "url": "https://radio.uchile.cl/2026/11/19/ministro-quiroz-logra-acuerdo-en-el-senado-y-consigue-aprobar-autorizacion-de-deuda-publica-para-2027/"
   },
   {
+   "fecha": "2026-11-22",
+   "tema": "Presupuesto",
+   "medio": "Ex-Ante",
+   "titulo": "De opositores duros a socios: los acercamientos de Quiroz con Provoste y el PC en la discusión del Presupuesto",
+   "resumen": "Acuerdos en gobiernos regionales, educación, salud y endeudamiento; el PS quedó fuera de las negociaciones.",
+   "url": "https://www.ex-ante.cl/politica/quiroz-provoste-pc-presupuesto/",
+   "carrusel": true,
+   "orden_carrusel": 5,
+   "titulo_carrusel": "De opositores duros a socios: los acercamientos de Quiroz con Provoste y el PC"
+  },
+  {
    "fecha": "2026-11-19",
    "tema": "Presupuesto",
    "medio": "T13",
@@ -214,14 +225,6 @@
    "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/22/organizaciones-preparan-seguidilla-de-marchas-contra-el-gobierno-de-kast-comenzaran-este-martes.shtml"
   },
   {
-   "fecha": "2026-11-19",
-   "tema": "Reajuste",
-   "medio": "PoderLaboral",
-   "titulo": "Sector público inicia negociación del reajuste 2027 con Hacienda y Trabajo en un contexto de recortes presupuestarios",
-   "resumen": "La ANEF advierte que el 30 de noviembre se sabrá quiénes no siguen a contrata.",
-   "url": "https://poderlaboral.cl/2026/11/19/sector-publico-inicia-negociacion-del-reajuste-2027-con-hacienda-y-trabajo-en-un-contexto-de-recortes-presupuestarios/"
-  },
-  {
    "fecha": "2026-11-18",
    "tema": "Movilización",
    "medio": "Cooperativa",
@@ -238,10 +241,7 @@
    "medio": "Radio U. de Chile",
    "titulo": "Colegio de Profesores convoca a marcha nacional contra recortes a la educación pública en el Presupuesto 2027",
    "resumen": "Martes 24 de noviembre, desde las 10:30, de Plaza Baquedano a Los Héroes.",
-   "url": "https://radio.uchile.cl/2026/11/19/colegio-de-profesores-convoca-a-marcha-nacional-contra-recortes-a-la-educacion-publica-en-el-presupuesto-2027/",
-   "carrusel": true,
-   "titulo_carrusel": "Profesores convocan a marcha nacional contra recortes, el martes 24",
-   "orden_carrusel": 5
+   "url": "https://radio.uchile.cl/2026/11/19/colegio-de-profesores-convoca-a-marcha-nacional-contra-recortes-a-la-educacion-publica-en-el-presupuesto-2027/"
   },
   {
    "fecha": "2026-11-19",
