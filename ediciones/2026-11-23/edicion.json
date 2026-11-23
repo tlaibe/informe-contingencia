@@ -146,8 +146,8 @@
     "fuente": "Banco Central, Informe de Estabilidad Financiera, nov 2026"
    }
   ],
-  "sintesis": "La economía se achica y hallar trabajo toma más tiempo. La banca está sólida, pero el ajuste lo pagan los hogares de menores ingresos.",
-  "fuentes": "Banco Central (Cuentas Nacionales e Informe de Estabilidad Financiera) y Emol"
+  "sintesis": "La economía se achica y hallar trabajo toma más tiempo. La banca está sólida, pero el ajuste lo pagan los hogares de menores ingresos. Y la pobreza (17,3% en 2024) podría subir por segunda vez desde 1990.",
+  "fuentes": "Banco Central (Cuentas Nacionales e Informe de Estabilidad Financiera), Emol y La Tercera"
  },
  "noticias": [
   {
@@ -195,6 +195,14 @@
    "carrusel": true,
    "orden_carrusel": 2,
    "titulo_carrusel": "Minería golpea al PIB: expertos ven «altamente probable» que 2026 cierre en negativo"
+  },
+  {
+   "fecha": "2026-11-23",
+   "tema": "Pobreza",
+   "medio": "La Tercera",
+   "titulo": "El mal escenario económico amenaza las cifras de pobreza: podrían anotar su segunda alza desde 1990",
+   "resumen": "La Casen 2026 se levanta hasta el 31 de enero, con desempleo de 9,8%; en 2024 la pobreza fue 17,3%.",
+   "url": "https://www.latercera.com/pulso/noticia/el-mal-escenario-economico-amenaza-las-cifras-de-pobreza-podrian-anotar-su-segunda-alza-desde-1990/"
   },
   {
    "fecha": "2026-11-16",
