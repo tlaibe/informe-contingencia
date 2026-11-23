@@ -130,12 +130,12 @@
     "fuente": "Emol, 18 nov (SURA Investments, XTB)"
    },
    {
-    "pregunta": "¿Cuánto dura la cesantía?",
-    "valor": "8,2",
+    "pregunta": "¿Alcanza para la salud?",
+    "valor": "1 de 4",
     "semaforo": "rojo",
-    "estado": "Meses (lo normal: 6)",
-    "texto": "Es lo que dura hoy la búsqueda de empleo, con desempleo de 9,8%. La mora de consumo subió de 1,6% a 2,5% desde 2022.",
-    "fuente": "Banco Central, Informe de Estabilidad Financiera, nov 2026"
+    "estado": "Recorta en salud",
+    "texto": "Recortó en controles médicos o medicamentos por estrechez económica. El 40% aumentó sus deudas.",
+    "fuente": "DataVoz, GPS Ciudadano, vía Cooperativa, 19 nov"
    },
    {
     "pregunta": "¿Quién paga el ajuste?",
@@ -146,8 +146,8 @@
     "fuente": "Banco Central, Informe de Estabilidad Financiera, nov 2026"
    }
   ],
-  "sintesis": "La economía se achica y hallar trabajo toma más tiempo. La banca está sólida, pero el ajuste lo pagan los hogares de menores ingresos. Y la pobreza (17,3% en 2024) podría subir por segunda vez desde 1990.",
-  "fuentes": "Banco Central (Cuentas Nacionales e Informe de Estabilidad Financiera), Emol y La Tercera"
+  "sintesis": "La economía se achica y las familias recortan hasta en salud. La banca está sólida, pero el ajuste lo pagan los hogares de menores ingresos. Y la pobreza (17,3% en 2024) podría subir por segunda vez desde 1990.",
+  "fuentes": "Banco Central, DataVoz, Emol y La Tercera"
  },
  "noticias": [
   {
