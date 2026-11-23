@@ -77,7 +77,11 @@
     (ed.resumen.items || []).slice(0, 3).forEach((r) => {
       const c = css(el('div'), 'background:#fff;border-radius:20px;padding:28px 36px;display:flex;gap:28px;align-items:center');
       const izq = css(el('div'), 'flex:none;width:210px;display:flex;flex-direction:column;gap:2px');
-      izq.append(css(el('span', null, r.cifra), `font-size:76px;font-weight:800;color:${ORANGE};line-height:1`), css(el('span', null, r.etiqueta), `font-size:18px;font-weight:600;color:${GRAY}`));
+      // Si la cifra trae una unidad ("6 días"), el número va grande y la unidad más chica en la misma línea.
+      const [num, ...uni] = String(r.cifra).split(' ');
+      const cifra = css(el('span', null, num), `font-size:76px;font-weight:800;color:${ORANGE};line-height:1;white-space:nowrap`);
+      if (uni.length) cifra.append(css(el('span', null, ' ' + uni.join(' ')), 'font-size:30px;font-weight:800'));
+      izq.append(cifra, css(el('span', null, r.etiqueta), `font-size:18px;font-weight:600;color:${GRAY}`));
       const der = css(el('div'), 'display:flex;flex-direction:column;gap:6px');
       der.append(css(el('h3', null, r.titulo), 'margin:0;font-size:31px;line-height:1.2;font-weight:700'), css(rich('p', null, r.texto), `margin:0;font-size:23px;line-height:1.45;font-weight:500;color:${BODY}`));
       c.append(izq, der);
