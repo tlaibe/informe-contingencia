@@ -81,13 +81,13 @@
    "pasos": "Senado|Comisión de Trabajo|Comisión de Hacienda|Sala de la Cámara|Tercer trámite en el Senado|Ley",
    "paso_actual": 5,
    "en_que_va": "La Cámara aprobó el proyecto el miércoles 18 de noviembre: el informe de Trabajo por 132 votos a favor, 0 en contra y 12 abstenciones, y el financiamiento por 114 a favor, 1 en contra y 29 abstenciones (Emol). Elimina el requisito de 20 trabajadoras y crea un Fondo de Sala Cuna, financiado con una cotización del empleador de 0,30%, que sale del seguro de cesantía.",
-   "que_viene": "Vuelve al Senado en tercer trámite, que lo revisaría esta semana (Chicureo Hoy). Si el Senado rechaza los cambios de la Cámara, irá a comisión mixta.",
+   "que_viene": "Está a un paso de ser ley: vuelve al Senado en tercer trámite, que lo revisaría esta semana (Chicureo Hoy). Si el Senado aprueba los cambios de la Cámara, queda despachado; si los rechaza, irá a comisión mixta.",
    "que_hacer": "Tener presente que el sector público entra recién al mes 48 de vigencia de la ley, y seguir el compromiso de poner un tope al copago de las familias.",
    "detalle": "Gradualidad: al mes 12 de publicada la ley, las mujeres trabajadoras (incluidas las de casa particular); al mes 36, hombres cuya pareja no trabaja; al mes 48, todos los trabajadores, incluido el sector público (Emol). Copago: un suplemento según el Registro Social de Hogares cubre 50% de la diferencia para el 40% más vulnerable y 30% para el tramo 41% a 60% (BioBioChile). El ministro Rau comprometió un tope de 20% al copago mediante un proyecto posterior (Chicureo Hoy).",
    "carrusel": {
-    "titulo": "Sala Cuna vuelve al Senado",
+    "titulo": "Sala Cuna: a un paso de ser ley",
     "etiqueta": "Tercer trámite",
-    "color": "azul",
+    "color": "naranjo",
     "texto": "La Cámara lo aprobó por **132 votos** y **0 en contra**. Se financia con una cotización del empleador de **0,30%**. El sector público entra al mes 48 de vigencia de la ley.",
     "proximo": "votación en el Senado, semana del 23 nov"
    }
